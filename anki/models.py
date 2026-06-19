@@ -17,15 +17,33 @@ Keep this file focused on *structure + styling*. Card CONTENT lives in
 ``anki/cards/*`` and is assembled by ``anki/build.py``.
 """
 
+import zlib
+
 import genanki
 
 # --- Fixed IDs (do not change) ------------------------------------------------
-DECK_ID = 1622500001
 MODEL_VOCAB_ID = 1622500011
 MODEL_GRAMMAR_ID = 1622500012
 MODEL_SENTENCE_ID = 1622500013
 
-DECK_NAME = "JLPT N3"
+# Default deck used when a card file doesn't name its own deck. Anki subdecks are
+# just decks named with "::", e.g. "JLPT N3::N3 Choukai Script". The default deck
+# keeps its original pinned ID so the user's existing "JLPT N3" deck is preserved.
+DEFAULT_DECK = "JLPT N3"
+_PINNED_DECK_IDS = {"JLPT N3": 1622500001}
+
+
+def deck_id_for(name):
+    """Stable deck ID for a deck name.
+
+    Pinned decks keep their fixed IDs; any other deck name gets a deterministic
+    ID derived from the name, so the same name always maps to the same deck
+    across rebuilds (re-imports update in place rather than duplicating).
+    """
+    if name in _PINNED_DECK_IDS:
+        return _PINNED_DECK_IDS[name]
+    # genanki recommends IDs in [1<<30, 1<<31); derive one from the name.
+    return (1 << 30) + (zlib.crc32(name.encode("utf-8")) % (1 << 30))
 
 # --- Shared styling -----------------------------------------------------------
 # One stylesheet shared by every note type for a consistent look. Tuned for

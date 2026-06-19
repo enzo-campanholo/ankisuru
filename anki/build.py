@@ -1,22 +1,31 @@
 #!/usr/bin/env python3
 """
-Build the JLPT N3 .apkg from card data files.
+Build the JLPT .apkg from card data files.
 
 Usage
 -----
-    .venv/bin/python anki/build.py                 # build from all anki/cards/*.json
+    .venv/bin/python anki/build.py                 # build from all anki/cards/**/*.json
     .venv/bin/python anki/build.py --no-copy       # don't copy to Windows Downloads
 
 Card data
 ---------
-Each file in ``anki/cards/`` is JSON: a list of card objects. Every object has
-a ``type`` ("vocab" | "grammar" | "sentence") and an ``id`` (a short stable
-string, unique across ALL files). The ``id`` becomes the Anki GUID, so editing a
-card's content updates the existing card on re-import instead of duplicating it.
-Remaining keys map to that note type's fields (see anki/models.py).
+Each ``*.json`` file under ``anki/cards/`` (any subfolder) holds the cards for
+one batch. A file is EITHER:
 
-The output .apkg only ADDS to / updates the existing "JLPT N3" deck on import.
-Importing an .apkg never deletes cards, so the existing deck is safe.
+  * a JSON array of card objects        -> they go to the default deck "JLPT N3", or
+  * a JSON object ``{"deck": "...", "cards": [ ... ]}`` -> they go to that deck.
+
+Use the object form to route a source to its own deck or subdeck, e.g.
+``"deck": "JLPT N3::N3 Choukai Script"`` (``::`` makes an Anki subdeck) or a
+different level like ``"deck": "JLPT N2::Reading 1"``.
+
+Every card object has a ``type`` ("vocab" | "grammar" | "sentence") and an
+``id`` (a short stable string, unique across ALL files). The ``id`` becomes the
+Anki GUID, so editing a card updates the existing card on re-import instead of
+duplicating it. Remaining keys map to that note type's fields (see models.py).
+
+The output .apkg only ADDS to / updates existing decks on import — importing an
+.apkg never deletes cards, so existing decks are safe.
 """
 
 import argparse
@@ -63,23 +72,39 @@ class GuidNote(genanki.Note):
         return genanki.guid_for(self._stable_id)
 
 
+def _load(path):
+    """Return (deck_name, cards) for a card file (array or object form)."""
+    with open(path, encoding="utf-8") as fh:
+        data = json.load(fh)
+    if isinstance(data, dict):
+        return data.get("deck", models.DEFAULT_DECK), data.get("cards", [])
+    return models.DEFAULT_DECK, data
+
+
 def build():
     parser = argparse.ArgumentParser()
     parser.add_argument("--no-copy", action="store_true",
                         help="do not copy the .apkg to the Windows Downloads folder")
     args = parser.parse_args()
 
-    deck = genanki.Deck(models.DECK_ID, models.DECK_NAME)
-    files = sorted(glob.glob(os.path.join(CARDS_DIR, "*.json")))
+    files = sorted(glob.glob(os.path.join(CARDS_DIR, "**", "*.json"), recursive=True))
     if not files:
-        print(f"No card files found in {CARDS_DIR} — nothing to build yet.")
+        print(f"No card files found under {CARDS_DIR} — nothing to build yet.")
         return
 
+    decks = {}          # deck name -> genanki.Deck
     seen_ids = set()
-    count = 0
+    per_deck_counts = {}
+
+    def deck_for(name):
+        if name not in decks:
+            decks[name] = genanki.Deck(models.deck_id_for(name), name)
+            per_deck_counts[name] = 0
+        return decks[name]
+
     for path in files:
-        with open(path, encoding="utf-8") as fh:
-            cards = json.load(fh)
+        deck_name, cards = _load(path)
+        deck = deck_for(deck_name)
         for card in cards:
             ctype = card.get("type")
             cid = card.get("id")
@@ -94,14 +119,17 @@ def build():
             model, field_names = TYPES[ctype]
             fields = [card.get(name, "") for name in field_names]
             tags = card.get("tags", [])
-            note = GuidNote(model=model, fields=fields, tags=tags, stable_id=cid)
-            deck.add_note(note)
-            count += 1
+            deck.add_note(GuidNote(model=model, fields=fields, tags=tags, stable_id=cid))
+            per_deck_counts[deck_name] += 1
 
     os.makedirs(DIST_DIR, exist_ok=True)
     out_path = os.path.join(DIST_DIR, OUTPUT_NAME)
-    genanki.Package(deck).write_to_file(out_path)
-    print(f"Built {count} notes -> {out_path}")
+    genanki.Package(list(decks.values())).write_to_file(out_path)
+
+    total = sum(per_deck_counts.values())
+    print(f"Built {total} notes across {len(decks)} deck(s) -> {out_path}")
+    for name in sorted(per_deck_counts):
+        print(f"  • {name}: {per_deck_counts[name]}")
 
     if not args.no_copy and os.path.isdir(WIN_DOWNLOADS):
         dest = os.path.join(WIN_DOWNLOADS, OUTPUT_NAME)

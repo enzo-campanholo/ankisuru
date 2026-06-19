@@ -1,37 +1,42 @@
-[
-  {
-    "type": "vocab",
-    "id": "n3-choukai-jimusho",
-    "Word": " 事務所[じむしょ]",
-    "Reading": "じむしょ",
-    "Meaning": "office",
-    "PartOfSpeech": "noun",
-    "ExplainJP": "会社などで仕事をする場所。「事務（じむ）」＝書類やお金の手続きの仕事、「所（しょ）」＝場所。",
-    "ExplainEN": "A place where (clerical/desk) work is done — an office. 事務 = administrative/clerical work + 所 = place.",
-    "ExampleJP": "9時半[くじはん]に 事務所[じむしょ]にいらしてください。",
-    "ExampleEN": "Please come to the office at 9:30.",
-    "Source": "N3 Choukai · 例",
-    "tags": ["N3", "choukai", "vocab"]
-  },
-  {
-    "type": "grammar",
-    "id": "n3-choukai-teoku-toku",
-    "Point": "〜ておく / 〜とく",
-    "Question": "意味と使い方は?",
-    "Structure": " 動詞[どうし]て + おく （話[はな]し言葉[ことば]では 〜とく）",
-    "ExplainJP": "あることのために前もって準備としてしておく。会話では「ておく→とく」「でおく→どく」と短くなる。例:「取り込んでおく→取り込んどく」。",
-    "ExplainEN": "Do something in advance / in preparation, and leave it in that prepared state. In casual speech 〜ておく contracts to 〜とく (and 〜でおく to 〜どく). e.g. 取り込んでおく → 取り込んどく.",
-    "Examples": " 晩[ばん]ご 飯[はん]、 作[つく]っておこう。／ 水[みず]やっといて。",
-    "Source": "N3 Choukai · 1番"
-  },
-  {
-    "type": "sentence",
-    "id": "n3-choukai-areba-tsukimasu",
-    "Sentence": "30 分[ぷん]もあれば 着[つ]きますね。",
-    "Translation": "If you have (a good) 30 minutes, you'll get there.",
-    "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">30分も</td><td>about 30 minutes (も emphasises the amount — “a whole 30 min”)</td></tr><tr><td class=\"part\">あれば</td><td>conditional of ある — “if there is / if you have”</td></tr><tr><td class=\"part\"> 着[つ]きます</td><td>つく = to arrive</td></tr></table>",
-    "ExplainJP": "「〜もあれば」は『それだけの量があれば十分だ』という気持ちを表す。「30分あれば着く」＝30分で着ける。",
-    "ExplainEN": "〜もあれば means “if you have as much as ~ (that's enough)”. So this is “(only) about 30 minutes is enough to get there.” The も softens/emphasises the sufficiency of the amount.",
-    "Source": "N3 Choukai · 例"
-  }
-]
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p1-jimusho",
+      "Word": " 事務所[じむしょ]",
+      "Reading": "じむしょ",
+      "Meaning": "office",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "会社などで仕事をする場所。「事務（じむ）」＝書類やお金の手続きの仕事、「所（しょ）」＝場所。",
+      "ExplainEN": "A place where (clerical/desk) work is done — an office. 事務 = administrative/clerical work + 所 = place.",
+      "ExampleJP": "9時半[くじはん]に 事務所[じむしょ]にいらしてください。",
+      "ExampleEN": "Please come to the office at 9:30.",
+      "Source": "N3 Choukai · 例",
+      "tags": ["N3", "choukai", "vocab"]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-teoku-toku",
+      "Point": "〜ておく / 〜とく",
+      "Question": "意味と使い方は?",
+      "Structure": " 動詞[どうし]て + おく （話[はな]し言葉[ことば]では 〜とく）",
+      "ExplainJP": "あることのために前もって準備としてしておく。会話では「ておく→とく」「でおく→どく」と短くなる。例:「取り込んでおく→取り込んどく」。",
+      "ExplainEN": "Do something in advance / in preparation, and leave it in that prepared state. In casual speech 〜ておく contracts to 〜とく (and 〜でおく to 〜どく). e.g. 取り込んでおく → 取り込んどく.",
+      "Examples": " 晩[ばん]ご 飯[はん]、 作[つく]っておこう。／ 水[みず]やっといて。",
+      "Source": "N3 Choukai · 1番",
+      "tags": ["N3", "choukai", "grammar", "1番"]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p1-areba-tsukimasu",
+      "Sentence": "30 分[ぷん]もあれば 着[つ]きますね。",
+      "Translation": "If you have (a good) 30 minutes, you'll get there.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">30分も</td><td>about 30 minutes (も emphasises the amount — “a whole 30 min”)</td></tr><tr><td class=\"part\">あれば</td><td>conditional of ある — “if there is / if you have”</td></tr><tr><td class=\"part\"> 着[つ]きます</td><td>つく = to arrive</td></tr></table>",
+      "ExplainJP": "「〜もあれば」は『それだけの量があれば十分だ』という気持ちを表す。「30分あれば着く」＝30分で着ける。",
+      "ExplainEN": "〜もあれば means “if you have as much as ~ (that's enough)”. So this is “(only) about 30 minutes is enough to get there.” The も softens/emphasises the sufficiency of the amount.",
+      "Source": "N3 Choukai · 例",
+      "tags": ["N3", "choukai", "sentence", "例"]
+    }
+  ]
+}
