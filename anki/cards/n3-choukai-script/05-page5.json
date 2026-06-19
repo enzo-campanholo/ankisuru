@@ -1,0 +1,108 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p5-soujiki",
+      "Word": " 掃除機[そうじき]",
+      "Reading": "そうじき",
+      "Meaning": "vacuum cleaner",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "部屋のごみやほこりを吸い取る電気の道具。「掃除」＝そうじ・cleaning、「機」＝機械・machine。あわせて『そうじをする機械』＝掃除機。",
+      "ExplainEN": "A vacuum cleaner. Built from 掃除 (sōji = cleaning) + 機 (ki = machine/device). The 機 suffix turns many words into 'a machine that does X' — e.g. 洗濯機 washing machine, 自販機 vending machine.",
+      "ExampleJP": " 新[あたら]しい 掃除機[そうじき]がほしいなあ。",
+      "ExampleEN": "I want a new vacuum cleaner.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p5-choushi",
+      "Word": " 調子[ちょうし]",
+      "Reading": "ちょうし",
+      "Meaning": "condition / state (of health, a machine, work, etc.)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "体・機械・物事の『ぐあい・状態』のこと。「調子がいい／悪い」で、うまくいっている／いないを表す。「調」には音の『トーン・調子』の意味もあるが、日常の会話ではほとんど『コンディション』の意味で使う。",
+      "ExplainEN": "The condition / state of something — your health, a machine, how work is going. 調子がいい = in good shape / going well; 調子が悪い = off / not working right / under the weather. You were thinking of the 'tone (of voice/music)' meaning — that exists too (e.g. 調子を合わせる, to tune), but in everyday speech 調子 almost always means 'condition'.",
+      "ExampleJP": "この 掃除機[そうじき]、 最近[さいきん] 調子[ちょうし]が 悪[わる]いんだ。",
+      "ExampleEN": "This vacuum cleaner has been acting up lately.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p5-toshi-wo-toru",
+      "Point": " 年[とし]を 取[と]る",
+      "Question": "意味は?",
+      "Structure": " 年[とし]（＝age・years）＋ を ＋ 取[と]る（to take）→ 慣用句[かんようく]",
+      "ExplainJP": "『年を取る』で『年をとる・歳を重ねる』、つまり『老いる・older になる』という意味の決まった言い方。文中の「年を取って」はて形で『年をとって（から）』＝『歳をとってから・after getting older』。",
+      "ExplainEN": "年を取る is a set phrase meaning 'to grow old / to age'. Literally 'to take years', but treat it as one idiom — don't read it word-by-word. In the script it appears as the て-form 年を取って, i.e. '(once you) get older / after aging'.",
+      "Examples": " 年[とし]を 取[と]ると、 朝[あさ] 早[はや]く 目[め]が 覚[さ]めるようになる。",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "5番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p5-toshi-totte-kara-seikatsu",
+      "Sentence": " 年[とし]を 取[と]ってからの 生活[せいかつ]のためにっていうのが…",
+      "Translation": "...the (reason / point) being 'for the sake of life after getting older'...",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 年[とし]を 取[と]って</td><td>て-form of 年を取る (to grow old) → 'getting older'</td></tr><tr><td class=\"part\">から</td><td>'after / from then on' — 〜てから = after doing ~</td></tr><tr><td class=\"part\">の</td><td>links the clause to the next noun: 'the ... of [after getting older]'</td></tr><tr><td class=\"part\"> 生活[せいかつ]</td><td>life / daily living → '(my) life after getting older'</td></tr><tr><td class=\"part\">のために</td><td>'for the sake of ~' → 'for the sake of (that) life'</td></tr><tr><td class=\"part\">っていうのが</td><td>casual って (＝という) + のが: '(the thing) that I mean / the point' — quotes/sums up the reason</td></tr></table>",
+      "ExplainJP": "「〜てから」は『〜したあとで』。「年を取ってからの生活」＝『年をとったあとの生活・老後の生活』。「のために」は『〜のため・目的』。最後の「っていうのが」は、話し言葉で「というのが」のこと。前に言ったことを『〜っていうのが（理由・ねらいなんだ）』とまとめて、これから説明を続ける形。文が途中で切れているのは、会話でよくある言いさし。",
+      "ExplainEN": "Reads as: 'the point being [it's] for the sake of life after I get older...'. 〜てから = 'after doing ~', so 年を取ってからの生活 = 'life after getting older' (one's life in old age). のために = 'for the sake of'. The trailing っていうのが is casual for というのが — it packages up the reason just stated ('what I mean is...') and trails off, which is normal in spoken Japanese (an unfinished, implication-carrying sentence).",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "5番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p5-daigakuin-manabitai",
+      "Sentence": " 大学院[だいがくいん]に 入[はい]って 学[まな]びたいと 思[おも]ってるんだ。",
+      "Translation": "I'm thinking I want to enter grad school and study.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 大学院[だいがくいん]</td><td>graduate school (大学 university + 院 institution)</td></tr><tr><td class=\"part\">に 入[はい]って</td><td>に入る = to enter; て-form 入って links to the next verb ('enter and...')</td></tr><tr><td class=\"part\"> 学[まな]びたい</td><td>学ぶ (to study/learn) + 〜たい (want to) → 'want to study'</td></tr><tr><td class=\"part\">と 思[おも]ってる</td><td>と思っている = '(I) am thinking ~' (ongoing thought/intention; ている contracted to てる)</td></tr><tr><td class=\"part\">んだ</td><td>のだ → んだ: explanatory tone, 'the thing is / it's that ~'</td></tr></table>",
+      "ExplainJP": "「大学院に入って学ぶ」で『大学院に入って勉強する』。「学びたい」は学ぶ＋たい（〜したい）。「と思ってる」は「と思っている」の縮まった形で、『ずっとそう考えている・そのつもりだ』という継続の気持ち。文末の「んだ」は「のだ」のくだけた形で、理由や事情を説明するニュアンス。",
+      "ExplainEN": "Two verbs chained with the て-form: 入って (enter) + 学びたい (want to study) = 'want to enter and study'. と思ってる = contracted と思っている, 'I've been thinking / I intend to' (a held, ongoing intention, softer than just 思う). The final んだ (← のだ) gives an explanatory feel — 'the thing is, I'm thinking of...'.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "5番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p5-ie-kaeru-itsu",
+      "Sentence": " 僕[ぼく]が 家[いえ]を 買[か]えるのは、いつになるか。",
+      "Translation": "As for when I'll be able to buy a house... who knows (when will that ever be).",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 僕[ぼく]が</td><td>'I' (が marks the subject inside the clause)</td></tr><tr><td class=\"part\"> 家[いえ]を 買[か]える</td><td>買う (to buy) → potential 買える (can buy / be able to buy)</td></tr><tr><td class=\"part\">のは</td><td>の nominalizes the clause; は makes it the topic → 'as for [me being able to buy a house]'</td></tr><tr><td class=\"part\">いつになるか</td><td>いつ (when) + になる (becomes) + か (question) → 'when will it be?' / 'who knows when'</td></tr></table>",
+      "ExplainJP": "「買える」は買うの可能形で『買うことができる』。「〜のは」は前の文を名詞のかたまりにして話題にする（の＝こと、は＝topic）。「いつになるか」は『いつのことになるのか』＝『一体いつになるのだろう』。全体で『僕が家を買えるのは、いつのことやら…』という、実現がずっと先・あるいは難しそうだという気持ちのこもった独り言のような言い方。文末の「か」は答えを求めない自問。",
+      "ExplainEN": "Pattern: [clause]のは … いつになるか. 買える is the potential of 買う ('can buy'). のは turns 'I can buy a house' into a topic ('as for when I'll be able to buy a house...'). いつになるか literally 'when will it become / be?' — but the final か here is a rhetorical self-question, not a real question. The whole thing reads like a wistful 'who knows when I'll ever be able to buy a house', implying it feels far off or doubtful.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "5番"
+      ]
+    }
+  ]
+}

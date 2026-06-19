@@ -1,0 +1,537 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-setsumeikai",
+      "Word": " 説明会[せつめいかい]",
+      "Reading": "せつめいかい",
+      "Meaning": "information / briefing session",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "あることについて集まった人に説明するための会。「説明」＝explain ＋「会」＝gathering/meeting。会社・学校の入学や採用などでよく開かれる。",
+      "ExplainEN": "A meeting held to explain something to the gathered audience — an information / briefing session. 説明 (explanation) + 会 (gathering, meeting).",
+      "ExampleJP": " 大学[だいがく]の 英語[えいご]セミナーの 説明会[せつめいかい]で 係[かか]りの 人[ひと]が 話[はな]しています。",
+      "ExampleEN": "At the information session for the university's English seminar, the person in charge is speaking.",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-kakari",
+      "Word": " 係[かか]り",
+      "Reading": "かかり",
+      "Meaning": "person in charge; clerk (staff handling a specific duty)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "ある仕事・役目を担当する人。動詞「係る（関係する）」から。「係りの人」＝その担当の人、受付係・会計係のように使う。",
+      "ExplainEN": "The person responsible for a particular task or duty — the clerk / person in charge. From the verb 係る (to be connected/related). Often compounded: 受付係 (reception clerk), 会計係 (cashier).",
+      "ExampleJP": " 係[かか]りの 人[ひと]が 話[はな]しています。",
+      "ExampleEN": "The person in charge is speaking.",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p3-moushikomu-tai",
+      "Point": " 申[もう]し 込[こ]む（＋ 〜たい）",
+      "Question": "申し込みたい＝どういう意味？",
+      "Structure": " 申[もう]す ＋ 込[こ]む ＝ 申[もう]し 込[こ]む ／ 申[もう]し 込[こ]み + たい",
+      "ExplainJP": "「申し込む」＝参加・契約などを正式に願い出る（apply / sign up）。「申す」（言うの謙譲語）＋「込む」（中へ入れる）から。「 〜たい」は希望を表すので「申し込みたい」＝申し込みをしたい。名詞形は「申し込み（application）」。",
+      "ExplainEN": "申し込む = to formally apply / sign up for something (an event, contract, etc.). 申す (humble 'say') + 込む (put into). 〜たい marks desire, so 申し込みたい = 'I'd like to apply.' The noun form 申し込み means 'application.'",
+      "Examples": "セミナーに 申[もう]し 込[こ]みたい 人[ひと]は、インターネットでテストを 受[う]けてください。",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "4番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-gakuseika",
+      "Word": " 学生課[がくせいか]",
+      "Reading": "がくせいか",
+      "Meaning": "student affairs office / section",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "大学などで学生の手続き・相談などを担当する部署。「学生」＋「課」（組織の一区分、 section/division）。「営業課」「総務課」と同じ作り。",
+      "ExplainEN": "The university department handling students' procedures and consultations — the student affairs office. 学生 (student) + 課 (a section/division of an organization). Same pattern as 営業課 (sales section), 総務課 (general affairs).",
+      "ExampleJP": " 結果[けっか]は 学生課[がくせいか]の 前[まえ]の 掲示板[けいじばん]で 発表[はっぴょう]します。",
+      "ExampleEN": "The results will be posted on the bulletin board in front of the student affairs office.",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-keijiban",
+      "Word": " 掲示板[けいじばん]",
+      "Reading": "けいじばん",
+      "Meaning": "bulletin board / notice board",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "おしらせを貼り出して見せるための板。「掲げる・示す（掲示＝ post/display）」＋「板＝ board」。ネット上の掲示板（forum）も同じ語。",
+      "ExplainEN": "A board for posting and displaying notices — a bulletin / notice board. 掲示 (to put up / display) + 板 (board). The same word is used for online message boards (forums).",
+      "ExampleJP": " 学生課[がくせいか]の 前[まえ]の 掲示板[けいじばん]で 発表[はっぴょう]します。",
+      "ExampleEN": "It will be announced on the bulletin board in front of the student affairs office.",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-hi-suffix",
+      "Word": " 〜費[ひ]（ 参加費[さんかひ]）",
+      "Reading": "ひ / さんかひ",
+      "Meaning": "-fee / -expense (counter-suffix); 参加費 = participation fee",
+      "PartOfSpeech": "suffix / noun",
+      "ExplainJP": "「費」は名詞について「〜のためにかかるお金（費用）」を表す接尾語。参加費（参加するためのお金）、交通費（ transport cost）、食費（ food cost）、学費（ tuition）など。",
+      "ExplainEN": "費 is a suffix attached to a noun meaning 'the money/cost for ~' (an expense, a fee). 参加費 = participation fee, 交通費 = transport costs, 食費 = food expenses, 学費 = tuition.",
+      "ExampleJP": " 参加費[さんかひ]の 振[ふ]り 込[こ]みも 同様[どうよう]です。",
+      "ExampleEN": "The transfer of the participation fee is likewise (the same deal).",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-furikomi",
+      "Word": " 振[ふ]り 込[こ]み",
+      "Reading": "ふりこみ",
+      "Meaning": "bank transfer / paying into an account",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "銀行などで相手の口座にお金を払い込むこと。動詞は「振り込む」。「振る」＋「込む（中へ入れる）」から。料金を「振り込む」のように使う。",
+      "ExplainEN": "Paying money into someone's account at a bank — a (bank) transfer / deposit. The verb is 振り込む (振る + 込む 'put into'). e.g. 料金を振り込む = to transfer the fee.",
+      "ExampleJP": " 参加費[さんかひ]の 振[ふ]り 込[こ]みも 同様[どうよう]です。",
+      "ExampleEN": "The transfer of the participation fee is the same way too.",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-douyou",
+      "Word": " 同様[どうよう]",
+      "Reading": "どうよう",
+      "Meaning": "the same; likewise; in the same way",
+      "PartOfSpeech": "な-adjective / noun",
+      "ExplainJP": "「同じ様子・同じ扱い」という意味。「同＝same」＋「様＝ way/state」。「 〜と同様に」＝〜と同じように、少し改まった言い方。",
+      "ExplainEN": "Means 'the same / in the same manner / likewise.' 同 (same) + 様 (way, state). 〜と同様に = 'in the same way as ~'; a slightly formal way to say 同じ.",
+      "ExampleJP": " 参加費[さんかひ]の 振[ふ]り 込[こ]みも 同様[どうよう]です。",
+      "ExampleEN": "Paying the participation fee works the same way too.",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p3-furikomi-douyou-sent",
+      "Sentence": " 参加費[さんかひ]の 振[ふ]り 込[こ]みも 同様[どうよう]です。",
+      "Translation": "The transfer of the participation fee is handled the same way too.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 参加費[さんかひ]の</td><td>of the participation fee (費 = fee)</td></tr><tr><td class=\"part\"> 振[ふ]り 込[こ]み</td><td>the bank transfer (paying it into the account)</td></tr><tr><td class=\"part\">も</td><td>also / too — like the application, this is the same</td></tr><tr><td class=\"part\"> 同様[どうよう]です</td><td>is the same (as just described)</td></tr></table>",
+      "ExplainJP": "直前で「申し込みは結果が出たあとにします」と言っている。それを受けて「振り込み『も』同様」＝『振り込みも結果が出たあとにする』という意味。「も」＋「同様」で『さっき言ったことと同じ』とまとめている。",
+      "ExplainEN": "Just before this, the speaker says the application happens after the results come out. This sentence says the payment 'も (also)' is 同様 (the same), i.e. you also pay the fee after the results come out. も + 同様 ties it back to the rule just stated: 'same as that.'",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "4番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-ankeeto-chousa",
+      "Word": "アンケート 調査[ちょうさ]",
+      "Reading": "アンケートちょうさ",
+      "Meaning": "questionnaire survey",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「アンケート」（フランス語 enquête から、質問用紙・ questionnaire）＋「調査」（ survey/investigation：「調べる」＋「査べる」）。人々に質問して意見やデータを集めること。単なる質問ではなく、集めて分析する調査を指す。",
+      "ExplainEN": "アンケート (from French 'enquête', a questionnaire) + 調査 (a survey/investigation). Collecting opinions or data by asking many people — a questionnaire survey. Not just an 'inquiry'; it's the surveying/data-gathering itself.",
+      "ExampleJP": "アンケート 調査[ちょうさ]の 結果[けっか]の 入力[にゅうりょく]をお 願[ねが]いしたい。",
+      "ExampleEN": "I'd like to ask you to enter the results of the questionnaire survey.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-nyuuryoku",
+      "Word": " 入力[にゅうりょく]",
+      "Reading": "にゅうりょく",
+      "Meaning": "input; entering data (typing into a computer)",
+      "PartOfSpeech": "noun / suru-verb",
+      "ExplainJP": "データ・文字などをコンピューターなどに入れること。「入れる」＋「力（ここでは『 〜する作用』の意）」。反対は「出力（ output）」。ここでは『アンケートの結果をパソコンに打ち込む』仕事を頼んでいる。",
+      "ExplainEN": "Putting data, text, etc. into a computer — input / data entry. 入 (put in) + 力 (here 'action of doing'). Opposite of 出力 (output). In this dialogue he's asking Satou to type the survey results into the computer.",
+      "ExampleJP": " 結果[けっか]の 入力[にゅうりょく]には 時間[じかん]がかかるでしょうか。",
+      "ExampleEN": "Will entering the results take a long time?",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-shinseihin",
+      "Word": " 新製品[しんせいひん]",
+      "Reading": "しんせいひん",
+      "Meaning": "new product",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「新＝new」＋「製品＝ manufactured product（『製＝つくる』＋『品＝もの』）」。会社が新しく作って売り出した商品。",
+      "ExplainEN": "新 (new) + 製品 (manufactured product: 製 'make' + 品 'goods'). A newly produced and released product — a new product.",
+      "ExampleJP": " 新製品[しんせいひん]のサンプルを 支店[してん]に 送[おく]る 準備[じゅんび]をしています。",
+      "ExampleEN": "I'm preparing to send samples of the new product to the branch office.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-sample",
+      "Word": "サンプル",
+      "Reading": "サンプル",
+      "Meaning": "sample",
+      "PartOfSpeech": "noun (loanword)",
+      "ExplainJP": "英語「sample」からの外来語。見本・試供品のこと。和語では「見本」とも言う。",
+      "ExplainEN": "A loanword from English 'sample.' A sample / specimen / trial item. The native word 見本 (みほん) means the same.",
+      "ExampleJP": " 新製品[しんせいひん]のサンプルを 支店[してん]に 送[おく]ります。",
+      "ExampleEN": "I'll send samples of the new product to the branch office.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-shiten",
+      "Word": " 支店[してん]",
+      "Reading": "してん",
+      "Meaning": "branch (office / store)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「支＝枝・分かれる」＋「店＝店」。本店（ head office）から分かれた店・営業所。対になる語は「本店」。",
+      "ExplainEN": "支 (branch off) + 店 (store). A store/office that branches off from the 本店 (head office) — a branch. Its opposite is 本店 (main/head office).",
+      "ExampleJP": "サンプルを 支店[してん]に 送[おく]る 準備[じゅんび]をしています。",
+      "ExampleEN": "I'm preparing to send the samples to the branch office.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p3-mousukoshisaki",
+      "Sentence": "それはもう 少[すこ]し 先[さき]でも 大丈夫[だいじょうぶ]だよ。",
+      "Translation": "That one can wait a little longer — later is fine.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">それは</td><td>that (= the task of sending samples to the branch)</td></tr><tr><td class=\"part\">もう 少[すこ]し</td><td>a little more</td></tr><tr><td class=\"part\"> 先[さき]</td><td>here = later / further ahead in time</td></tr><tr><td class=\"part\">でも</td><td>even (even if it's later…)</td></tr><tr><td class=\"part\"> 大丈夫[だいじょうぶ]だよ</td><td>is fine / no problem (よ = telling her)</td></tr></table>",
+      "ExplainJP": "鍵は「先」の意味。ここでの「先」は『時間的にあと・将来』を表し、「もう少し先」＝『もう少しあと』。「 〜でも大丈夫」＝『 〜でも問題ない』。つまり『その仕事はもう少し後でもかまわない＝急がなくていい、後回しでいい』という意味。男の人は『後でいい』と言っている。",
+      "ExplainEN": "The key is 先. Here 先 means 'later / further ahead in time,' so もう少し先 = 'a bit later.' 〜でも大丈夫 = 'even ~ is fine.' So the sentence means 'that task can wait a little longer — it's not urgent.' He is saying she can do it LATER, not before.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-kakaru-time",
+      "Word": "かかる（ 時間[じかん]が〜）",
+      "Reading": "かかる",
+      "Meaning": "to take (time); to cost; (of a phone) to come in",
+      "PartOfSpeech": "verb (intransitive, う-verb)",
+      "ExplainJP": "自動詞「かかる」は『時間やお金が必要になる』の意味でよく使う。「時間がかかる」＝ take time、「お金がかかる」＝ cost money。他に「電話がかかる（ a call comes in）」「鍵がかかる（ be locked）」など文脈で意味が変わる。他動詞は「かける」。",
+      "ExplainEN": "The intransitive verb かかる most often means 'to require time or money': 時間がかかる = to take time, お金がかかる = to cost. It has other senses by context: 電話がかかる (a call comes in), 鍵がかかる (to be locked). Its transitive partner is かける. Here it means 'to take (time).'",
+      "ExampleJP": " 入力[にゅうりょく]には 時間[じかん]がかかるでしょうか。",
+      "ExampleEN": "Will entering the data take a long time?",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-kaigi",
+      "Word": " 会議[かいぎ]",
+      "Reading": "かいぎ",
+      "Meaning": "meeting; conference",
+      "PartOfSpeech": "noun / suru-verb",
+      "ExplainJP": "「会＝集まる」＋「議＝話し合う・議論」。仕事などで集まって相談・決定をする場。カジュアルな「ミーティング」より少し改まった語。",
+      "ExplainEN": "会 (gather) + 議 (discuss / deliberate). A gathering to discuss and decide things — a meeting / conference. A bit more formal than the loanword ミーティング.",
+      "ExampleJP": " 明日[あした]の 会議[かいぎ]の 準備[じゅんび]もあって。",
+      "ExampleEN": "There's also the preparation for tomorrow's meeting.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p3-isogashii-tokoro",
+      "Sentence": " 忙[いそが]しいところ 悪[わる]いんだけど、こっちも 急[いそ]ぎなんだ。",
+      "Translation": "Sorry to bother you while you're busy, but this one's urgent too.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 忙[いそが]しいところ</td><td>at a busy time (ところ = a moment/situation)</td></tr><tr><td class=\"part\"> 悪[わる]いんだけど</td><td>'I feel bad, but…' (悪い here = feeling sorry; んだ + けど softens)</td></tr><tr><td class=\"part\">こっちも</td><td>this one too (こっち = this side / my request)</td></tr><tr><td class=\"part\"> 急[いそ]ぎ</td><td>a rush / urgent thing (noun from 急ぐ)</td></tr><tr><td class=\"part\">なんだ</td><td>= なのだ, casual explanatory 'it is (that…)'</td></tr></table>",
+      "ExplainJP": "「（お）忙しいところ悪いんだけど」は決まり文句で、『忙しいのに頼んで申し訳ない』という前置き。「悪い」は『申し訳ない』の軽い言い方。「急ぎ」は動詞「急ぐ」の名詞形で『急ぎの用』。「なんだ」は「なのだ」のくだけた形で理由・説明を表す。全体で『忙しいのにごめん、でもこっちも急ぎなんだ』。",
+      "ExplainEN": "(お)忙しいところ悪いんだけど is a set phrase: a polite preface meaning 'sorry to ask while you're busy.' 悪い here = 'I feel bad / sorry' (a casual 申し訳ない). 急ぎ is the noun from 急ぐ = 'an urgent matter.' なんだ = casual なのだ, giving a reason/explanation. So: 'Sorry to interrupt while you're busy, but this is urgent too.'",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "5番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p3-kaigi-junbi-reply",
+      "Sentence": "それもあったね。 前[まえ]にもやってもらったことがあるから、 佐藤[さとう]さんに 頼[たの]みたいんだよね。 会議[かいぎ]の 準備[じゅんび]って 何[なに]が 残[のこ]ってるの？",
+      "Translation": "Oh right, there was that too. Since you've done it for me before, I'd like to ask you (Satou). What's left of the meeting prep?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">それもあったね</td><td>'there was that too' — he just remembered the meeting prep (あった = past of ある, used for recalling)</td></tr><tr><td class=\"part\"> 前[まえ]にも</td><td>before, as well</td></tr><tr><td class=\"part\">やってもらった</td><td>had (it) done for me (〜てもらう = receive the favor of someone doing)</td></tr><tr><td class=\"part\">ことがあるから</td><td>'because there's the experience of ~' (〜たことがある = have done before) + から (so)</td></tr><tr><td class=\"part\"> 頼[たの]みたいんだよね</td><td>'I'd like to ask you, you know' (頼む + たい + んだ + よね seeking agreement)</td></tr><tr><td class=\"part\"> 会議[かいぎ]の 準備[じゅんび]って</td><td>'as for the meeting prep…' (って = topic marker, casual は/というのは)</td></tr><tr><td class=\"part\"> 何[なに]が 残[のこ]ってるの？</td><td>what's remaining? (残る = to be left; 〜ているの casual question)</td></tr></table>",
+      "ExplainJP": "節ごとに見る。①「それもあったね」＝忘れていた会議の準備を思い出した。②「やってもらったことがある」＝『 〜てもらう（してもらう）』＋『 〜たことがある（経験）』で『前にしてもらった経験がある』。③「頼みたいんだよね」＝『頼む＋たい（希望）＋んだ（説明）＋よね（同意を求める）』。④「 〜って何が残ってるの？」＝『 〜って』は『 〜は／というのは』のくだけた形、『残る』＝まだしていない部分がある。",
+      "ExplainEN": "Clause by clause: (1) それもあったね = 'oh, there was that too' — he recalls the meeting prep he'd forgotten (あった = recalling with past ある). (2) やってもらったことがある = 〜てもらう (have someone do you the favor) + 〜たことがある (have the experience of) = 'you've done it for me before.' (3) 頼みたいんだよね = 頼む + たい (want) + んだ (explanatory) + よね (seeking agreement) = 'I'd like to ask you, right?' (4) 〜って何が残ってるの = って is casual は/というのは ('as for'), 残る = 'to be left over' → 'what's left of it?'",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-shiryou",
+      "Word": " 資料[しりょう]",
+      "Reading": "しりょう",
+      "Meaning": "materials; documents; data (for reference)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「資＝もとになるもの・資源」＋「料＝材料」。調べたり説明したりするための材料となる書類・データ。会議で配る紙や資料を指すことが多い。",
+      "ExplainEN": "資 (basis/resource) + 料 (material). Documents or data that serve as reference material — handouts, materials, data. Often the papers handed out at a meeting.",
+      "ExampleJP": " 資料[しりょう]の 印刷[いんさつ]と 部屋[へや]の 準備[じゅんび]とお 弁当[べんとう]の 注文[ちゅうもん]です。",
+      "ExampleEN": "It's printing the materials, preparing the room, and ordering the lunches.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-insatsu",
+      "Word": " 印刷[いんさつ]",
+      "Reading": "いんさつ",
+      "Meaning": "printing",
+      "PartOfSpeech": "noun / suru-verb",
+      "ExplainJP": "「印＝しるし・判を押す」＋「刷＝刷る」。文字や絵を紙などに刷り出すこと。「資料を印刷する」＝コピー・プリントすること。",
+      "ExplainEN": "印 (mark / stamp) + 刷 (to print). Reproducing text or images onto paper — printing. 資料を印刷する = to print/copy the materials.",
+      "ExampleJP": " 資料[しりょう]の 印刷[いんさつ]が 残[のこ]っています。",
+      "ExampleEN": "The printing of the materials is still left to do.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-bentou-chuumon",
+      "Word": "お 弁当[べんとう]の 注文[ちゅうもん]",
+      "Reading": "おべんとうのちゅうもん",
+      "Meaning": "ordering the (boxed) lunches",
+      "PartOfSpeech": "phrase",
+      "ExplainJP": "「弁当」＝持ち運べる食事（boxed lunch）。「注文」＝商品・料理を頼むこと（order）。「注＝注ぐ／求める」＋「文＝文書」。「 〜を注文する」で『 〜を注文する・発注する』。",
+      "ExplainEN": "弁当 = a portable boxed meal (bento). 注文 = ordering goods or food (an order). 注 (pour/request) + 文 (document). So お弁当の注文 = 'ordering the lunches.'",
+      "ExampleJP": " 資料[しりょう]の 印刷[いんさつ]と 部屋[へや]の 準備[じゅんび]とお 弁当[べんとう]の 注文[ちゅうもん]です。",
+      "ExampleEN": "It's printing the materials, preparing the room, and ordering the lunches.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "5番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p3-socchi-oono",
+      "Sentence": "じゃ、そっちは 大野[おおの]さんに 頼[たの]んでおくよ。／ 分[わ]かりました。じゃ、すぐします。",
+      "Translation": "Then I'll go ahead and ask Oono to do that one. / Understood. I'll get right on it (the other one), then.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">そっちは</td><td>'that side' = one of the tasks — NOT all of them</td></tr><tr><td class=\"part\"> 大野[おおの]さんに 頼[たの]んでおく</td><td>頼む + 〜ておく = arrange in advance to ask Oono (おく = do it ahead of time)</td></tr><tr><td class=\"part\">よ</td><td>telling her his decision</td></tr><tr><td class=\"part\"> 分[わ]かりました</td><td>'Understood' (she accepts)</td></tr><tr><td class=\"part\">すぐします</td><td>I'll do (it) right away — refers to the remaining task</td></tr></table>",
+      "ExplainJP": "一見矛盾に見えるが、仕事は複数ある（印刷・部屋の準備・ お弁当の注文）。男の人の「そっちは大野さんに頼んでおく」の『そっち』は、その中の『別の仕事（弁当の注文など）』を指す。つまり『その一部は大野さんに任せる』。女の人の「すぐします」は、残った（自分が担当する）ほうの仕事をすぐやる、という意味。矛盾ではなく、仕事を分担している。",
+      "ExplainEN": "It seems contradictory, but there are several tasks (printing, room prep, ordering lunch). When he says 'そっち (that one) I'll ask Oono,' そっち points to a DIFFERENT one of the tasks (e.g. the lunch order). So he hands part of it to Oono. Her 'すぐします' means she'll immediately do the remaining task that's hers. No contradiction — they're splitting the work.",
+      "Source": "N3 Choukai · 5番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "5番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-kata-shoulder",
+      "Word": " 肩[かた]",
+      "Reading": "かた",
+      "Meaning": "shoulder",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "首と腕のつけ根の部分。「肩がこる（ stiff shoulders）」「肩が痛い」のように使う。日本語では疲れると「肩がこる」とよく言う。",
+      "ExplainEN": "The shoulder (the joint between neck and arm). Used in 肩がこる (stiff shoulders), 肩が痛い (shoulders hurt). In Japanese people very commonly complain of 肩がこる when tired.",
+      "ExampleJP": " 最近[さいきん]、 肩[かた]が 痛[いた]いんだけど。",
+      "ExampleEN": "Lately my shoulders have been hurting.",
+      "Source": "N3 Choukai · 6番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "6番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-houhou",
+      "Word": " 方法[ほうほう]",
+      "Reading": "ほうほう",
+      "Meaning": "method; way; means",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "あることをするためのやり方・手段。「方＝向き・やり方」＋「法＝決まり・仕方」。「いい方法」＝ a good way。",
+      "ExplainEN": "The way or means of doing something — a method. 方 (direction / manner) + 法 (rule / way). いい方法 = a good way / good method.",
+      "ExampleJP": " 何[なに]かいい 方法[ほうほう]ない？",
+      "ExampleEN": "Isn't there some good way (to fix it)?",
+      "Source": "N3 Choukai · 6番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "6番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-taisou",
+      "Word": " 体操[たいそう]",
+      "Reading": "たいそう",
+      "Meaning": "calisthenics; (physical) exercises; gymnastics",
+      "PartOfSpeech": "noun / suru-verb",
+      "ExplainJP": "健康のために体を動かす運動。「体＝ body」＋「操＝あやつる・動かす」。ラジオ体操のような決まった動きの運動を指すことが多い。",
+      "ExplainEN": "Moving the body for health — calisthenics / exercises / gymnastics. 体 (body) + 操 (to manipulate / move). Often a set routine of movements, like ラジオ体操 (radio calisthenics).",
+      "ExampleJP": " 体操[たいそう]がいいと 思[おも]うよ。",
+      "ExampleEN": "I think exercises (calisthenics) would be good.",
+      "Source": "N3 Choukai · 6番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "6番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-taisou-kyoushitsu",
+      "Word": " 体操教室[たいそうきょうしつ]",
+      "Reading": "たいそうきょうしつ",
+      "Meaning": "exercise class / gymnastics class",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「体操（ exercises）」＋「教室」。ここでの「教室」は学校の部屋ではなく『習い事のクラス・講座』の意味（料理教室、英会話教室と同じ）。体を動かす運動を習う教室。",
+      "ExplainEN": "体操 (exercises) + 教室. Here 教室 doesn't mean a school classroom but a 'lesson / class / course' (same as 料理教室 cooking class, 英会話教室 English-conversation class). So an exercise / gymnastics class you attend.",
+      "ExampleJP": " 近[ちか]くの 体操教室[たいそうきょうしつ]に 通[かよ]ってる。",
+      "ExampleEN": "I go to an exercise class nearby.",
+      "Source": "N3 Choukai · 6番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "6番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p3-moushikonde-mitara",
+      "Point": " 申[もう]し 込[こ]んでみたら（ 〜てみる / 〜たら）",
+      "Question": "申し込んで＝どんな形？全体の意味は？",
+      "Structure": " 申[もう]し 込[こ]む → て 形[けい]「 申[もう]し 込[こ]んで」 ＋ みる ＋ たら（ 提案[ていあん]）",
+      "ExplainJP": "「申し込んで」は動詞「申し込む（apply/sign up）」の て形。「 〜てみる」＝試しにする、「 〜たら（どう）？」＝提案『 〜してみたら？』。だから「体操教室とか申し込んでみたら？」＝『体操教室などに申し込んでみたら（どう）？』というやわらかい提案。 ※ 4番の『申し込みたい』と同じ動詞。",
+      "ExplainEN": "申し込んで is the て-form of 申し込む (apply / sign up). 〜てみる = 'try doing,' and 〜たら(どう)? = a suggestion 'why don't you ~?'. So 申し込んでみたら? = 'Why don't you try signing up (for an exercise class or something)?' — a soft suggestion. (Same verb as 申し込みたい in 4番.)",
+      "Examples": " 体操教室[たいそうきょうしつ]とか 申[もう]し 込[こ]んでみたら？",
+      "Source": "N3 Choukai · 6番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "6番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p3-toreta",
+      "Word": " 取[と]れた（ 痛[いた]みが〜）",
+      "Reading": "とれた",
+      "Meaning": "(pain/stiffness) went away / came off",
+      "PartOfSpeech": "verb (intransitive, past of 取れる)",
+      "ExplainJP": "「取れる」は他動詞「取る」に対する自動詞で、『ひとりでに外れる・なくなる』の意味。「ボタンが取れる（come off）」のほか、「痛みが取れる」「疲れが取れる」のように『（痛み・疲れなどが）なくなる』ことを言う。「肩の痛みが取れた」＝肩の痛みがなくなった。",
+      "ExplainEN": "取れる is the intransitive partner of 取る (to take); it means 'to come off by itself / to go away.' Besides 'a button comes off,' it's used for pain/fatigue disappearing: 痛みが取れる, 疲れが取れる. So 肩の痛みが取れた = 'the shoulder pain went away.'",
+      "ExampleJP": " 肩[かた]の 痛[いた]みが 取[と]れたよ。",
+      "ExampleEN": "My shoulder pain went away.",
+      "Source": "N3 Choukai · 6番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "6番"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "sentence",
+      "id": "n3cs-p12-miyasuku-nattemashita",
+      "Sentence": " 見[み]やすくなってましたよ。",
+      "Translation": "It had become easier to read/see.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 見[み]やすく</td><td>連用形 of 見やすい (見る + 〜やすい = easy to ~) — “easy to see/read”, here adverbial before なる</td></tr><tr><td class=\"part\">なって</td><td>て-form of なる = to become</td></tr><tr><td class=\"part\">(い)ました</td><td>polite past of 〜ている → 〜ていた; the い is dropped in speech: ていました→てました</td></tr><tr><td class=\"part\">よ</td><td>sentence-final particle, telling the listener something new</td></tr></table>",
+      "ExplainJP": "「見やすい」＝「見る」＋「〜やすい（〜しやすい＝かんたんに〜できる）」で『見るのがかんたん』という意味。それに「なる（〜くなる＝そういう状態にかわる）」がついて「見やすくなる＝もっと見やすい状態にかわる」。さらに「〜ていた（その状態がつづいていた）」がつき、会話では「〜ていました→〜てました」と「い」がおちる。ぜんぶで『（前より）見やすい状態になっていましたよ』。全文:「作り直してくれた資料、見やすくなってましたよ」＝『作り直してくれた資料は（前より）見やすくなっていましたよ』。",
+      "ExplainEN": "見やすい = 見る (to see/look) + 〜やすい (easy to do). 見やすく is its adverbial form, attached to なる. 〜くなる = to become more ~ / change into that state, so 見やすくなる = “to become easier to read”. Then 〜ていた (the 〜ている continuous/result state, in the past) is added, and in speech 〜ていました loses the い → 〜てました. Altogether: “it had become easier to read (and stayed that way).” In the full line, 作り直してくれた資料、見やすくなってましたよ = “The materials you redid for me had become easier to read.”",
+      "Source": "N3 Choukai · 12番 (1番)",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "12番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p12-you-ga-aru",
+      "Point": " 用[よう]がある",
+      "Question": "意味と使い方は?",
+      "Structure": "（ 人[ひと]）に 用[よう]がある ／ 用[よう]がある",
+      "ExplainJP": "「用」＝しなければならないこと・用件（＝「用事」と同じ）。「用がある」＝『（だれかに）話したいこと・たのみたいことがある／するべきことがある』。だれに用があるかは「（人）に」で表す。例:「木村さんに用があるんだけど」＝『木村さんに（話したい）用件があるんだけど』。反対に「用はない」＝『特にすることはない』。 1番の 1[ページ]の「用事」と同じ語。",
+      "ExplainEN": "用 means a thing you need to do / business to attend to (same idea as 用事). 用がある = “to have something to do / business with someone.” The person you have business with is marked with に. e.g. 木村さんに用があるんだけど = “I have something (to discuss/ask) with Kimura.” The opposite, 用はない, means “I don't have any particular business / nothing in particular.” Same word family as 用事 from page 1.",
+      "Examples": " 木村[きむら]さんに 用[よう]があるんだけど、 見[み]なかった?／ 特[とく]に 用[よう]はないんだけど。",
+      "Source": "N3 Choukai · 12番 (2番)",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "12番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p12-ocha-o-ireru",
+      "Word": "お 茶[ちゃ]を 入[い]れる",
+      "Reading": "おちゃをいれる",
+      "Meaning": "to make / brew tea",
+      "PartOfSpeech": "expression (verb phrase)",
+      "ExplainJP": "ここの「入れる」は『（お湯をそそいで）お茶・コーヒーをつくる』という意味。「カバンに入れる（ものを中に入れる）」の「入れる」と同じ動詞だが、お茶・コーヒーといっしょに使うと『いれる＝つくる』になる。例:「すぐお茶入れますから」＝『すぐお茶をいれます（つくります）から』（「お茶入れます」は「お茶を入れます」の「を」がおちた話し言葉）。",
+      "ExplainEN": "Here 入れる means to make/brew a drink (tea, coffee) by pouring hot water. It is the same verb as 入れる “to put something in,” but paired with お茶/コーヒー it means “to prepare/brew” the drink. e.g. すぐお茶入れますから = “I'll make you some tea right away” (お茶入れます drops the を from お茶を入れます in casual speech).",
+      "ExampleJP": "どうぞお 入[はい]りください。すぐお 茶[ちゃ] 入[い]れますから。",
+      "ExampleEN": "Please come in. I'll make you some tea right away.",
+      "Source": "N3 Choukai · 12番 (4番)",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "12番"
+      ]
+    }
+  ]
+}

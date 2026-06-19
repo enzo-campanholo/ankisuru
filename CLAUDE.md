@@ -127,6 +127,14 @@ that teaches the point best.
 - **Furigana, no romaji.** Never use romaji. Use Anki's built-in furigana
   notation in fields: a space, then `漢字[かな]`, e.g. ` 事務所[じむしょ]`.
   Templates render it with `{{furigana:...}}`. Only put readings on kanji.
+  **Bracket notation ONLY in furigana-rendered fields** (see list below):
+  `Word`, `ExampleJP`, `Point`, `Structure`, `Examples`, `Sentence`,
+  `Breakdown`. In the prose/English fields the templates render *plain*
+  (`ExplainJP`, `ExplainEN`, `Meaning`, `Translation`, `Question`, `ExampleEN`)
+  bracket notation is NOT rendered and shows up as ugly inline `必要[ひつよう]`
+  clutter — **never put it there.** Write `ExplainJP` as clean kanji prose; if a
+  specific kanji's reading is genuinely needed mid-explanation, use a small
+  parenthetical like `事務（じむ）`, not bracket notation.
 - **Vocab gets two cards:** Recognition (JP→meaning) and Production
   (meaning→JP). Both come free from the `vocab` note type.
 - **Explanations must be genuinely good.** Don't just translate — explain the
@@ -173,9 +181,11 @@ See `anki/cards/EXAMPLE.json.sample` for a worked example of all three types.
 ### HTML helpers available in fields
 - Word-by-word breakdowns: a `<table class="breakdown">` with
   `<td class="part">…</td>` for the chunk and a plain `<td>` for the gloss.
-- Furigana notation (` 漢字[かな]`) works inside any field that a template runs
-  through `{{furigana:…}}` (Word, Example, Point, Structure, Examples,
-  Sentence, Breakdown).
+- Furigana notation (` 漢字[かな]`) works ONLY inside the fields a template runs
+  through `{{furigana:…}}`: `Word`, `ExampleJP`, `Point`, `Structure`,
+  `Examples`, `Sentence`, `Breakdown`. Everywhere else (`ExplainJP`, `ExplainEN`,
+  `Meaning`, `Translation`, `Question`, `ExampleEN`) it is shown verbatim, so the
+  brackets become unreadable inline clutter — keep those fields as plain text.
 
 ## Conventions / gotchas
 

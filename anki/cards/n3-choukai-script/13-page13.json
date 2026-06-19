@@ -1,0 +1,43 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p13-shusshin",
+      "Word": " 出身[しゅっしん]",
+      "Reading": "しゅっしん",
+      "Meaning": "one's origin; where one is from (hometown, school, etc.)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "生まれた土地や、卒業した学校など、その人が「どこから来たか」を表す言葉。「出（しゅつ→しゅっ）」＝出る、「身（しん）」＝身・体。「〜出身」の形で「〜の出だ」と使う。例:「東京出身」「東大出身」。",
+      "ExplainEN": "Where a person comes from — their hometown, birthplace, or the school they graduated from. 出 (to come out / leave) + 身 (body/self). Used as 〜出身 = \"originally from ~\". e.g. 東京出身 = from Tokyo; 東大出身 = a Tokyo University graduate. Note 出 reads しゅっ (with small っ) before しん.",
+      "ExampleJP": "ご 出身[しゅっしん]はどちらですか。",
+      "ExampleEN": "Where are you from? (lit. \"What is your place of origin?\")",
+      "Source": "N3 Choukai · 13番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "13番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p13-boueki-gaisha",
+      "Word": " 貿易会社[ぼうえきがいしゃ]",
+      "Reading": "ぼうえきがいしゃ",
+      "Meaning": "trading company",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "外国と品物を売り買いする（輸出・輸入する）会社。「貿易」＝国と国の間の商品の取引（trade）、「会社」＝company。「会社」は前の語について濁り、「がいしゃ」と読む（連濁）ので、全体で「ぼうえきがいしゃ」。",
+      "ExplainEN": "A company that buys and sells goods with foreign countries (imports/exports) — a trading company. 貿易 = trade/commerce between countries + 会社 = company. Pronunciation note: 会社 (かいしゃ) voices to がいしゃ when it attaches to a preceding word (rendaku), so the whole word is ぼうえきがいしゃ, not ぼうえきかいしゃ.",
+      "ExampleJP": "兄[あに]は 貿易[ぼうえき] 会社[がいしゃ]で 働[はたら]いています。",
+      "ExampleEN": "My older brother works at a trading company.",
+      "Source": "N3 Choukai · 13番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "13番"
+      ]
+    }
+  ]
+}

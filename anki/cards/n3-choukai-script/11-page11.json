@@ -1,0 +1,96 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p11-kankou",
+      "Word": " 観光[かんこう]",
+      "Reading": "かんこう",
+      "Meaning": "sightseeing; tourism",
+      "PartOfSpeech": "noun (する-verb)",
+      "ExplainJP": "他の土地へ行って、景色・名所・建物などを見て楽しむこと。「観」＝見る、「光」＝景色（風光）。「観光する／観光地／観光客」のように使う。",
+      "ExplainEN": "Going somewhere and enjoying the sights — sightseeing/tourism. 観 = to view/look + 光 = scenery (lit. \"light/views\"). Used as 観光する, and in 観光地 (tourist spot), 観光客 (tourist).",
+      "ExampleJP": " 観光[かんこう]の 案内[あんない]をしています。",
+      "ExampleEN": "I'm giving a sightseeing tour / guiding the tourists.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p11-annai",
+      "Word": " 案内[あんない]",
+      "Reading": "あんない",
+      "Meaning": "guidance; showing (someone) around",
+      "PartOfSpeech": "noun (する-verb)",
+      "ExplainJP": "知らない人を目的の場所まで連れて行ったり、道や物事を教えたりすること。「案内する」＝案内をする。「道を案内する」「お客さんを席に案内する」「観光案内」など。",
+      "ExplainEN": "Guiding or showing someone the way / around — and by extension, giving information. 案内する = to guide, to show around. e.g. 道を案内する (show the way), お客さんを席に案内する (show a guest to their seat), 観光案内 (sightseeing guide).",
+      "ExampleJP": " 観光[かんこう]の 案内[あんない]をしています。",
+      "ExampleEN": "I'm acting as a sightseeing guide.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p11-tatemono",
+      "Word": " 建物[たてもの]",
+      "Reading": "たてもの",
+      "Meaning": "building",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "家・ビル・お寺など、人が建てたもの全般。動詞「建てる（建設する）」＋「物（もの）」＝「建てた物」。読みは訓読みで「たて＋もの」。",
+      "ExplainEN": "A building (house, office block, temple — anything constructed). From the verb 建てる (to build) + 物 (thing) = \"a built thing\". Both kanji read with kun'yomi: たて + もの.",
+      "ExampleJP": " 建物[たてもの]を 見[み]てもらいたいです。",
+      "ExampleEN": "I want them to see the building.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p11-goran-kudasai",
+      "Point": "ご 覧[らん]ください",
+      "Question": "なぜ「見てください」と言わない?",
+      "Structure": "ご 覧[らん]（＝ 見[み]るの 尊敬語[そんけいご]） ＋ ください",
+      "ExplainJP": "「見る」の尊敬語が「ご覧になる」。その「ご覧」に「ください」を付けた、相手に「見てください」とていねいにお願いする言い方。お客さんや目上の人に使う。「見てください」より一段ていねい。動詞「覧ずる（見る）」が元。観光案内で建物を見てほしいときは「こちらをご覧ください」。",
+      "ExplainEN": "ご覧になる is the honorific (尊敬語) form of 見る (to see/look). ご覧ください is that honorific + ください = a polite \"please look (at this)\", used toward customers or superiors — one step politer than 見てください. So a guide says こちらをご覧ください (\"please take a look over here\"). Compare お見せください, which means \"please show (me)\" — the wrong direction here.",
+      "Examples": "こちらをご 覧[らん]ください。／ 資料[しりょう]は 画面[がめん]をご 覧[らん]ください。",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "2番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p11-sukuname-suffix",
+      "Point": " 少[すく]な 目[め]（〜め）",
+      "Question": "「少ない」とどう違う?",
+      "Structure": " 形容詞[けいようし]・ 動詞[どうし]の 語幹[ごかん] ＋ め（ 多[おお]め・ 少[すく]なめ・ 早[はや]め・ 大[おお]きめ）",
+      "ExplainJP": "「〜め」は『どちらかと言えばその傾向で』という意味を足す接尾語。「少なめ」＝ふつうより少し少なく。はっきり「少ない」と断定せず、「やや少なく」とやわらかく言う。反対は「多め（やや多く）」。同じ「〜め」は「早め（→ 1ページ目）」「大きめ」「濃いめ」などにも付く。ご飯の量を頼むときは「ご飯、少な目でお願いします」。",
+      "ExplainEN": "The suffix 〜め attaches to an adjective/verb stem and means \"-ish / on the ~ side / a bit more ~\". 少なめ = \"a little less / on the small side\" (a soft, non-absolute version of 少ない). Its opposite is 多め (\"on the larger side / a bit more\"). The same 〜め appears in 早め (\"early-ish\" — see page 1), 大きめ (a bit big), 濃いめ (a bit strong). So ご飯、少な目でお願いします = \"a smaller portion of rice, please.\"",
+      "Examples": "ご 飯[はん]、 少[すく]な 目[め]でお 願[ねが]いします。／ 塩[しお]は 多[おお]めにしてください。",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "4番"
+      ]
+    }
+  ]
+}

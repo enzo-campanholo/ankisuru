@@ -1,0 +1,379 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-tatsu",
+      "Word": " 経[た]つ",
+      "Reading": "たつ",
+      "Meaning": "(time) passes / elapses",
+      "PartOfSpeech": "verb (u-verb, 自動詞)",
+      "ExplainJP": "時間が過ぎることを表す動詞。「時間が経つ」「3年が経った」のように使う。「経った」は過去形。同じ「た・つ」でも「立つ（stand）」とは漢字が違う点に注意。",
+      "ExplainEN": "経つ = (of time) to pass / elapse. Used for time only: 時間が経つ \"time passes\", 3年が経った \"three years went by\". 経った is the plain past form. Note the kanji 経 distinguishes it from 立つ (to stand), which has the same reading た・つ.",
+      "ExampleJP": "あれから10 年[ねん]が 経[た]った。",
+      "ExampleEN": "Ten years have passed since then.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-shakaigaku",
+      "Word": " 社会学[しゃかいがく]",
+      "Reading": "しゃかいがく",
+      "Meaning": "sociology",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「社会（society）」＋「学（〜の学問・study of）」。社会のしくみや人の関わりを研究する学問。「〜学」は経済学・心理学のように学問の名前を作る。",
+      "ExplainEN": "社会 (society) + 学 (the study of) = sociology. The suffix 〜学 builds the names of academic fields, e.g. 経済学 (economics), 心理学 (psychology).",
+      "ExampleJP": " 社会学[しゃかいがく]の 授業[じゅぎょう]で 一緒[いっしょ]にやる 発表[はっぴょう]のこと。",
+      "ExampleEN": "About the presentation we do together in the sociology class.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-zemi",
+      "Word": "ゼミ",
+      "Reading": "ぜみ",
+      "Meaning": "seminar (university class)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "ドイツ語の Seminar（ゼミナール）の略。大学で少人数で研究・発表をする授業や、その グループのこと。「ゼミの先輩」＝同じゼミの上の学年の人。",
+      "ExplainEN": "Short for ゼミナール, from German \"Seminar\". A small-group university class where students research and present, or that group itself. ゼミの先輩 = an older student in the same seminar.",
+      "ExampleJP": "ゼミの 先輩[せんぱい]に 資料[しりょう]を 見[み]てもらった。",
+      "ExampleEN": "I had a senior in my seminar look over the materials.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-senpai",
+      "Word": " 先輩[せんぱい]",
+      "Reading": "せんぱい",
+      "Meaning": "senior (older/more experienced peer)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「先（before/earlier）」＋「輩（fellow, group of people）」。学校や会社で自分より先に入った人。反対は「後輩」。",
+      "ExplainEN": "先 (earlier) + 輩 (fellow/companion). Someone who entered the same school or company before you — a senior. The opposite is 後輩 (kouhai, a junior).",
+      "ExampleJP": " 先輩[せんぱい]が 問題点[もんだいてん]をいくつかあげてくれて。",
+      "ExampleEN": "A senior pointed out a few problem spots for us.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-mondaiten",
+      "Word": " 問題点[もんだいてん]",
+      "Reading": "もんだいてん",
+      "Meaning": "problem point(s) / issue(s)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「問題（problem）」＋「点（point）」。直すべき具体的な箇所・気になる点のこと。「〜点」は『〜という点・ところ』を表す。",
+      "ExplainEN": "問題 (problem) + 点 (point) = a specific point that is problematic; an issue to be fixed. The suffix 〜点 means \"the point/aspect of ~\".",
+      "ExampleJP": " 先輩[せんぱい]が 問題点[もんだいてん]をいくつかあげてくれた。",
+      "ExampleEN": "A senior raised several problem points (for us).",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-chousa",
+      "Word": " 調査[ちょうさ]",
+      "Reading": "ちょうさ",
+      "Meaning": "survey / investigation / research",
+      "PartOfSpeech": "noun (+する verb)",
+      "ExplainJP": "「調（調べる・investigate）」＋「査（examine）」。物事を詳しく調べること。「調査する」で動詞になる。アンケート調査＝ questionnaire survey。",
+      "ExplainEN": "調 (to look into) + 査 (to examine) = an investigation / survey. Add する to make it a verb: 調査する \"to survey, investigate\". アンケート調査 = a questionnaire survey.",
+      "ExampleJP": " 自分[じぶん]たちで 調査[ちょうさ]して、 面白[おもしろ]い 結果[けっか]が 出[で]てる。",
+      "ExampleEN": "We did the survey ourselves and got interesting results.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-kekka",
+      "Word": " 結果[けっか]",
+      "Reading": "けっか",
+      "Meaning": "result / outcome",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「結（結ぶ・tie/conclude）」＋「果（fruit/outcome）」。何かをした後に出てくる結末・データ。「調査結果」＝ survey results。",
+      "ExplainEN": "結 (to conclude) + 果 (fruit/outcome) = result. The outcome or data that comes out after doing something. 調査結果 = the results of a survey.",
+      "ExampleJP": " 調査結果[ちょうさけっか]の 見[み]せ 方[かた]も 変[か]わってくる。",
+      "ExampleEN": "The way of presenting the survey results will also change.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-graph",
+      "Word": "グラフ",
+      "Reading": "ぐらふ",
+      "Meaning": "graph / chart",
+      "PartOfSpeech": "noun (loanword)",
+      "ExplainJP": "英語 graph の外来語。数字やデータを棒や線で見やすく表した図。「グラフを加える」＝ add a graph。",
+      "ExplainEN": "Loanword from English \"graph\". A chart that shows numbers/data visually with bars or lines. グラフを加える = to add a graph.",
+      "ExampleJP": "じゃ、グラフを 加[くわ]えようか。",
+      "ExampleEN": "Then, shall we add a graph?",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-kuwaeru",
+      "Word": " 加[くわ]える",
+      "Reading": "くわえる",
+      "Meaning": "to add / include",
+      "PartOfSpeech": "verb (ru-verb, 他動詞)",
+      "ExplainJP": "あるものに別のものを足す・付け加えること。「グラフを加える」＝今あるものに グラフを足す。自動詞は「加わる」（something is added）。「加えよう」は意向形（〜しよう, let's add）。",
+      "ExplainEN": "To add / include something to what is already there (transitive). グラフを加える = add a graph to it. Its intransitive pair is 加わる (to be added). 加えよう is the volitional \"let's add\".",
+      "ExampleJP": "じゃ、グラフを 加[くわ]えようか。",
+      "ExampleEN": "Then, shall we add a graph?",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-shuchou",
+      "Word": " 主張[しゅちょう]",
+      "Reading": "しゅちょう",
+      "Meaning": "assertion / main point / claim",
+      "PartOfSpeech": "noun (+する verb)",
+      "ExplainJP": "「主（main）」＋「張（張る・stretch/assert）」。自分が一番言いたい意見・主旨。発表の「主張」＝ そのプレゼンで伝えたい結論。",
+      "ExplainEN": "主 (main) + 張 (to assert) = one's main point / claim / argument. In a presentation, 主張 is the central message you want to get across.",
+      "ExampleJP": " 私[わたし]たちの 主張[しゅちょう]が 発表[はっぴょう]の 最後[さいご]にしかない。",
+      "ExampleEN": "Our main point only comes at the very end of the presentation.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-nagare",
+      "Word": " 流[なが]れ",
+      "Reading": "ながれ",
+      "Meaning": "flow / sequence / progression",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "動詞「流れる（to flow）」の名詞形。水の流れだけでなく、物事が進む順番・展開も表す。「発表の流れ」＝ プレゼンの進め方・構成・順序。",
+      "ExplainEN": "Noun form of 流れる (to flow). Beyond literal flowing water, it means the order/progression in which things proceed. 発表の流れ = the flow/structure/sequence of a presentation.",
+      "ExampleJP": " 発表[はっぴょう]の 流[なが]れ、 変[か]えてみない?",
+      "ExampleEN": "Want to try changing the flow of the presentation?",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p7-orei",
+      "Word": "お 礼[れい]",
+      "Reading": "おれい",
+      "Meaning": "thanks / a word (or gift) of gratitude",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "「礼（courtesy / gratitude）」に丁寧の「お」が付いた形。感謝の気持ちや、その言葉・品物。「お礼を言う」＝ to say thanks。",
+      "ExplainEN": "礼 (courtesy/gratitude) with the polite prefix お. It means thanks — the feeling, or the words/gift expressing it. お礼を言う = to thank someone.",
+      "ExampleJP": " 先輩[せんぱい]にお 礼[れい] 言[い]っといてね。",
+      "ExampleEN": "Make sure to thank the senior, okay?",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "7番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p7-dake-da",
+      "Point": "〜だけだ / 〜を 待[ま]つだけ",
+      "Question": "「発表を待つだけだね」はどういう意味?",
+      "Structure": " 動詞[どうし]・ 名詞[めいし] ＋ だけ（＋だ）",
+      "ExplainJP": "「だけ」は『〜のみ・only』。動詞に付くと『あとは〜するだけ』＝ ほかにやることはなく、残るのは〜することだけ、という意味になる。「準備も終わったし、発表を待つだけだね」＝準備は全部終わったので、 もう発表を待つこと以外にすることはない、という完了・安心のニュアンス。",
+      "ExplainEN": "だけ = \"only / just\". Attached to a verb it means \"all that's left is to ~\" — there is nothing else to do, only ~ remains. 準備も終わったし、発表を待つだけだね = \"The prep is done too, so now all that's left is to wait for the presentation.\" It carries a sense of completion/relief. So yes, your reading is right.",
+      "Examples": " 準備[じゅんび]も 終[お]わったし、 発表[はっぴょう]を 待[ま]つだけだね。／ あとは 待[ま]つだけだ。",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "7番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p7-tochuu-made",
+      "Point": " 途中[とちゅう]まで",
+      "Question": "「途中まで」はどういう意味?",
+      "Structure": " 途中[とちゅう]（midway）＋ まで（up to / until）",
+      "ExplainJP": "「途中」＝『始めから終わりの間・とちゅう』。「まで」は『〜まで・up to』。合わせて「途中まで」＝最後まで行かず、途中の地点まで、という意味。ここでは『主張が最後にしかないので、発表の途中までは（聞いている人に）何が言いたいのか分からない』ということ。",
+      "ExplainEN": "途中 = \"partway, midway (between start and finish)\". まで = \"up to / until\". Together 途中まで = \"up to the middle / partway (not all the way)\". Here it means: because the main point only comes at the end, the listener can't tell what's being argued up until partway through the presentation.",
+      "Examples": " 途中[とちゅう]まで 何[なに]が 言[い]いたいのか 分[わ]からない。／ 本[ほん]を 途中[とちゅう]まで 読[よ]んだ。",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "7番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p7-jitsuwa-miterro",
+      "Sentence": " 実[じつ]はね、 昨日[きのう]、ゼミの 先輩[せんぱい]に 私[わたし]たちが 準備[じゅんび]した、 発表[はっぴょう]で 使[つか]う 資料[しりょう]とか 発表[はっぴょう]の 流[なが]れを 見[み]てもらったら、 先輩[せんぱい]が 問題点[もんだいてん]をいくつかあげてくれて。 直[なお]したほうがいいと 思[おも]うんだ。",
+      "Translation": "Actually, yesterday I had a senior from the seminar look over the materials we'd prepared for the presentation and the flow of it, and the senior pointed out a few problem spots for us. I think we'd better fix them.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 実[じつ]はね</td><td>実は = \"actually / to tell the truth\" (prefaces something the listener may not know); ね softens it</td></tr><tr><td class=\"part\"> 昨日[きのう]</td><td>yesterday</td></tr><tr><td class=\"part\">ゼミの 先輩[せんぱい]に</td><td>に marks the person you got the action done by — \"by/from a senior in the seminar\"</td></tr><tr><td class=\"part\"> 私[わたし]たちが 準備[じゅんび]した</td><td>relative clause modifying 資料: \"that we had prepared\"</td></tr><tr><td class=\"part\"> 発表[はっぴょう]で 使[つか]う 資料[しりょう]とか</td><td>とか = \"things like ~\" — \"the materials (etc.) used in the presentation\"</td></tr><tr><td class=\"part\"> 発表[はっぴょう]の 流[なが]れを</td><td>\"and the flow of the presentation\" (second object of 見てもらったら)</td></tr><tr><td class=\"part\"> 見[み]てもらったら</td><td>見てもらう = \"have (someone) look at it for me\"; 〜たら here = \"when I did ~, (then…)\" — sets up what happened next</td></tr><tr><td class=\"part\"> 問題点[もんだいてん]をいくつか</td><td>\"a few problem points\"</td></tr><tr><td class=\"part\">あげてくれて</td><td>あげる here = 挙げる \"to raise/point out\"; 〜くれる = did it for my benefit; 〜て leaves the sentence trailing (\"…and so\")</td></tr><tr><td class=\"part\"> 直[なお]したほうがいい</td><td>〜たほうがいい = \"had better ~ / it'd be better to ~\"; 直す = fix</td></tr><tr><td class=\"part\">と 思[おも]うんだ</td><td>と思う = \"I think\"; んだ gives an explanatory tone</td></tr></table>",
+      "ExplainJP": "ポイントは「見てもらったら」と「あげてくれて」の授受表現。 ①見てもらう＝『（先輩に）見るという行為をしてもらう』、自分側が恩恵を受ける言い方。 ② （問題点を）あげてくれる＝先輩が自分たちのために問題点を挙げてくれた。 ③「〜たら」は『〜したところ』で結果を導く。 ④「〜たほうがいい」は助言・提案。「あげる」は『上げる/挙げる』で『与える』の あげる ではない点に注意。",
+      "ExplainEN": "The heart of this sentence is the giving/receiving (授受) verbs. (1) 見てもらう = \"have someone (the senior) look at it for me\" — the speaker's side receives the favor. (2) あげてくれて: here あげる is 挙げる \"to raise/point out\", and 〜くれる shows the senior did it for the speaker's benefit. (3) 〜たら = \"when/once I did ~, then (this happened)\", linking cause to result. (4) 〜たほうがいい = advice, \"had better ~\". Don't confuse this あげる (raise/point out) with the あげる that means \"give\".",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "7番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p7-sekkaku-noni",
+      "Sentence": "うん。まずね、せっかく 自分[じぶん]たちで 調査[ちょうさ]して、 面白[おもしろ]い 結果[けっか]が 出[で]てるのに、 数字[すうじ]が 並[なら]んでるだけだから、 伝[つた]わりにくいって。",
+      "Translation": "Yeah. First, even though we went to the trouble of surveying it ourselves and got interesting results, it's just rows of numbers, so (the senior said) it's hard to get across.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">まずね</td><td>まず = \"first (of all)\"; ね softens</td></tr><tr><td class=\"part\">せっかく</td><td>\"after going to all the trouble of ~ / despite the effort\" — sets up something whose value is wasted</td></tr><tr><td class=\"part\"> 自分[じぶん]たちで 調査[ちょうさ]して</td><td>で = \"by ourselves\"; 調査して = \"surveyed, and…\"</td></tr><tr><td class=\"part\"> 面白[おもしろ]い 結果[けっか]が 出[で]てるのに</td><td>出てる = 出ている \"have come out / are showing\"; 〜のに = \"even though / despite\" (contrast)</td></tr><tr><td class=\"part\"> 数字[すうじ]が 並[なら]んでるだけ</td><td>並んでる = 並んでいる \"are lined up\"; だけ = \"just/only\" — \"just rows of numbers\"</td></tr><tr><td class=\"part\">だから</td><td>\"so / because of that\"</td></tr><tr><td class=\"part\"> 伝[つた]わりにくい</td><td>伝わる = \"to get across (intrans.)\"; 〜にくい = \"hard to ~\" — \"hard to get across\"</td></tr><tr><td class=\"part\">って</td><td>casual quotation = と言っていた \"(the senior) said\" — reporting the senior's comment</td></tr></table>",
+      "ExplainJP": "「せっかく〜のに」は『苦労してやったのに、それが生きていない・もったいない』という残念な気持ちを表すセット表現。「〜だけだから」＝『〜にすぎないので』。「伝わりにくい」の「伝わる」は自動詞（相手に自然に伝わる）で、他動詞の「伝える」とペア。文末の「って」は先輩の言ったことの引用（＝と言っていた）で、会話でとてもよく使う。",
+      "ExplainEN": "せっかく〜のに is a set pattern expressing regret: \"we went to all that effort, but it's being wasted / what a shame.\" 〜だけだから = \"since it's nothing more than ~\". In 伝わりにくい, 伝わる is the intransitive \"to get across (to the listener)\", paired with transitive 伝える. The sentence-final って is a casual quote = と言っていた \"(the senior) said\" — extremely common in speech.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "7番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p7-graph-kuwaeyou",
+      "Sentence": "じゃ、グラフを 加[くわ]えようか。",
+      "Translation": "Then, shall we add a graph?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">じゃ</td><td>\"well then / in that case\" (casual じゃあ)</td></tr><tr><td class=\"part\">グラフを</td><td>を marks the object — \"a graph\"</td></tr><tr><td class=\"part\"> 加[くわ]えよう</td><td>volitional of 加える (to add) — \"let's add\"</td></tr><tr><td class=\"part\">か</td><td>question particle softening the volitional into a suggestion — \"shall we?\"</td></tr></table>",
+      "ExplainJP": "数字だけでは伝わりにくいという問題への解決策の提案。「〜ようか」は意向形＋か で『〜しようか・ shall we ~?』という軽い提案・申し出。",
+      "ExplainEN": "This is the proposed fix for the \"just numbers, hard to get across\" problem. 〜ようか (volitional + か) = \"shall we ~? / how about we ~?\", a light suggestion or offer.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "7番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p7-shuchou-saigo",
+      "Sentence": " 私[わたし]たちの 主張[しゅちょう]が 発表[はっぴょう]の 最後[さいご]にしかないから、 途中[とちゅう]まで 何[なに]が 言[い]いたいのか 分[わ]からないって。",
+      "Translation": "Our main point is only at the very end of the presentation, so (the senior said) up until partway through you can't tell what we're trying to say.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 私[わたし]たちの 主張[しゅちょう]が</td><td>\"our main point/claim\" (が marks subject)</td></tr><tr><td class=\"part\"> 発表[はっぴょう]の 最後[さいご]に</td><td>\"at the end of the presentation\"</td></tr><tr><td class=\"part\">しかない</td><td>しか〜ない = \"only / nothing but\" — \"is only there\" (しか always pairs with a negative)</td></tr><tr><td class=\"part\">から</td><td>\"so / because\"</td></tr><tr><td class=\"part\"> 途中[とちゅう]まで</td><td>\"up until partway through\"</td></tr><tr><td class=\"part\"> 何[なに]が 言[い]いたいのか</td><td>embedded question: \"what (we) want to say\"; のか = indirect question</td></tr><tr><td class=\"part\"> 分[わ]からない</td><td>\"(one) can't tell / doesn't understand\"</td></tr><tr><td class=\"part\">って</td><td>casual quote = と言っていた \"(the senior) said\"</td></tr></table>",
+      "ExplainJP": "キーは「〜しかない」＝『〜だけしか存在しない』で、必ず否定とセット。「最後にしかない」＝最後にだけある＝最後以外にはない。だから聞き手は途中までは結論（主張）が分からない、という問題の指摘。「〜って」はまた先輩のコメントの引用。",
+      "ExplainEN": "The key is しか〜ない = \"only / nothing but\", which always takes a negative verb. 最後にしかない = \"is only at the end / exists nowhere but the end\". Because of that, the listener can't grasp the conclusion (the 主張) until partway through — that's the problem being pointed out. The final って again quotes the senior's comment.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "7番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p7-nagare-kaete",
+      "Sentence": "ねえ、 発表[はっぴょう]の 流[なが]れ、 変[か]えてみない?",
+      "Translation": "Hey, want to try changing the flow of the presentation?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">ねえ</td><td>\"hey\" — calling for attention</td></tr><tr><td class=\"part\"> 発表[はっぴょう]の 流[なが]れ</td><td>\"the flow of the presentation\" (the を is dropped, as often in casual speech)</td></tr><tr><td class=\"part\"> 変[か]えてみない?</td><td>変える (to change) + 〜てみる (try doing) + ない? (negative question = a soft invitation) — \"won't you try changing ~? / how about we change ~?\"</td></tr></table>",
+      "ExplainJP": "「〜てみる」は『ためしに〜する・ try ~ing』。それを否定の疑問「〜ない?」にすると『〜してみない?＝ いっしょに〜してみよう、どう?』という柔らかい勧誘になる。命令っぽくなく相手を誘う、会話でよく使う言い方。",
+      "ExplainEN": "〜てみる = \"to try doing ~ (and see).\" Turning it into the negative question 〜てみない? makes a gentle invitation: \"why don't we try ~? / want to give ~ a try?\" It invites the other person without sounding like a command — very common in conversation.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "7番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p7-nagare-kaetara",
+      "Sentence": " 流[なが]れを 変[か]えたら、 調査結果[ちょうさけっか]の 見[み]せ 方[かた]も 変[か]わってくるだろうから、グラフのことは 後[あと]にして、それからやろう。",
+      "Translation": "If we change the flow, the way we show the survey results will probably change too, so let's leave the graph for later and do it after that.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 流[なが]れを 変[か]えたら</td><td>〜たら conditional = \"if/when we change the flow\"</td></tr><tr><td class=\"part\"> 調査結果[ちょうさけっか]の 見[み]せ 方[かた]も</td><td>見せ方 = 見せる + 方 \"the way of showing\"; も = \"also\"</td></tr><tr><td class=\"part\"> 変[か]わってくる</td><td>変わる (intrans. \"to change\") + 〜てくる = the change comes about / develops</td></tr><tr><td class=\"part\">だろうから</td><td>だろう = \"probably\"; から = \"so\" — \"will probably change, so\"</td></tr><tr><td class=\"part\">グラフのことは 後[あと]にして</td><td>〜は後にする = \"leave ~ for later / put ~ off\"; こと nominalizes \"the graph matter\"</td></tr><tr><td class=\"part\">それからやろう</td><td>それから = \"after that\"; やろう = volitional \"let's do it\"</td></tr></table>",
+      "ExplainJP": "注目ポイントは ①自動詞「変わる」＋「〜てくる」で『（自然に）変わってくる・変化が生じてくる』。他動詞「変える（変えたら）」とのペアに注意。 ②「見せ方」＝動詞ます形＋「方」で『〜する方法・しかた』。 ③「〜は後にする」＝後回しにする。流れを先に決めれば結果の見せ方も変わるので、グラフは後、という順序の判断。",
+      "ExplainEN": "Watch three things: (1) intransitive 変わる + 〜てくる = a change comes about naturally; contrast it with transitive 変える (変えたら). (2) 見せ方 = verb-stem + 方 = \"the way of showing / how to show\". (3) 〜は後にする = \"put ~ off for later.\" The logic: if the flow is decided first, the way of showing the results will change too, so the graph should wait until after.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "7番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p7-orei-ittoite",
+      "Sentence": " 先輩[せんぱい]にお 礼[れい] 言[い]っといてね。",
+      "Translation": "Make sure to thank the senior (in advance), okay?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 先輩[せんぱい]に</td><td>に marks the person thanked — \"to the senior\"</td></tr><tr><td class=\"part\">お 礼[れい]</td><td>お礼(を) = thanks (the を is dropped)</td></tr><tr><td class=\"part\"> 言[い]っといて</td><td>言っておいて → 言っといて (casual contraction): 言う + 〜ておく (do in advance / for future benefit) + 〜て (request)</td></tr><tr><td class=\"part\">ね</td><td>softens into a friendly reminder</td></tr></table>",
+      "ExplainJP": "会話の縮約がポイント。「言っといて」は「言っておいて」の話し言葉の形（〜ておく→〜とく）。「〜ておく」は『前もって・ ついでに〜しておく』。つまり『（私に代わって・忘れずに）先輩にお礼を言っておいてね』という軽い依頼。「お礼を言う」＝ to thank。",
+      "ExplainEN": "The casual contraction is the point. 言っといて = the spoken form of 言っておいて (〜ておく → 〜とく). 〜ておく means \"do ~ in advance / get it done.\" So it's a light request: \"go ahead and thank the senior (for me / don't forget), okay?\" お礼を言う = to express thanks.",
+      "Source": "N3 Choukai · 7番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "7番"
+      ]
+    }
+  ]
+}

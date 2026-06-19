@@ -1,0 +1,354 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p1-jimusho",
+      "Word": " 事務所[じむしょ]",
+      "Reading": "じむしょ",
+      "Meaning": "office",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "会社などで事務（書類・お金などの仕事）をする場所。「事務」＝デスクワーク＋「所」＝ところ。",
+      "ExplainEN": "A place where clerical/desk work is done — an office. Breaks into 事務 (じむ = administrative/clerical work) + 所 (しょ = place).",
+      "ExampleJP": "では、 明日[あした]は、9 時半[じはん]に 事務所[じむしょ]にいらしてください。",
+      "ExampleEN": "Then, tomorrow, please come to the office at 9:30.",
+      "Source": "N3 Choukai · 例",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "例"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-irashite",
+      "Point": "いらしてください（いらっしゃる→いらして）",
+      "Question": "この尊敬語の形と意味は?",
+      "Structure": "いらっしゃる → いらして（ください）",
+      "ExplainJP": "「いらっしゃる」は「来る・行く・いる」の尊敬語（相手を高める言い方）。て形は本来「いらっしゃって」だが、会話ではよく「いらして」と短くなる。「いらしてください」＝「来てください」の丁寧で敬った言い方。",
+      "ExplainEN": "いらっしゃる is the honorific (sonkeigo) verb for 来る/行く/いる (come/go/be). Its full te-form is いらっしゃって, but in speech it commonly shortens to いらして. So いらしてください = a polite, respectful way to say 来てください (please come).",
+      "Examples": "9 時半[じはん]に 事務所[じむしょ]にいらしてください。＝9 時半[じはん]に 事務所[じむしょ]に 来[き]てください。",
+      "Source": "N3 Choukai · 例",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "敬語",
+        "例"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p1-kakaru-time",
+      "Word": " 掛[か]かる（かかる）",
+      "Reading": "かかる",
+      "Meaning": "to take (time); to cost (money)",
+      "PartOfSpeech": "verb (godan, intransitive)",
+      "ExplainJP": "時間やお金が「必要になる・費やされる」という意味。「どのぐらいかかりますか」＝「どのくらい時間（やお金）が必要ですか」。",
+      "ExplainEN": "Used for time or money being needed/spent. かかりますか asks “how much (time or money) does it take/cost?” Here it's about travel time by taxi.",
+      "ExampleJP": "このホテルから 事務所[じむしょ]まで、タクシーでどのぐらいかかりますか。",
+      "ExampleEN": "About how long does it take from this hotel to the office by taxi?",
+      "Source": "N3 Choukai · 例",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "例"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p1-areba-tsukimasu",
+      "Sentence": "30 分[ぷん]もあれば 着[つ]きますね。",
+      "Translation": "If you have (as much as) 30 minutes, you'll get there.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">30 分[ぷん]</td><td>30 minutes</td></tr><tr><td class=\"part\">も</td><td>emphasis: “as much as / a full” 30 min — stresses it's plenty</td></tr><tr><td class=\"part\">あれば</td><td>conditional (ば-form) of ある = “if there is / if you have”</td></tr><tr><td class=\"part\"> 着[つ]きます</td><td>つく (to arrive) in polite form</td></tr><tr><td class=\"part\">ね</td><td>softening / seeking agreement</td></tr></table>",
+      "ExplainJP": "「〜もあれば」は『それだけの量があれば十分だ』という気持ちを表す。だから「着くまでに 30分もあれば十分＝30分で着ける」という意味。「最大30分」ではなく、「30分あれば足りる」というニュアンス。「あれば」が条件、「着きます」が結果で、『〜があれば、〜する／できる』とつながる。",
+      "ExplainEN": "Not “up to 30 minutes.” The pattern 〜もあれば means “if you have as much as ~, that's enough.” あれば is the conditional “if there is,” and 着きます is the result “(you) arrive.” So it reads “(only) about 30 minutes is enough and you'll get there.” The も emphasises that 30 min is sufficient.",
+      "Source": "N3 Choukai · 例",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "例"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p1-michi-komu",
+      "Sentence": " 朝[あさ]は 道[みち]が 込[こ]むかもしれません。",
+      "Translation": "In the morning the roads might be congested.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 朝[あさ]は</td><td>in the morning (は = topic/contrast)</td></tr><tr><td class=\"part\"> 道[みち]が</td><td>the road(s)</td></tr><tr><td class=\"part\"> 込[こ]む</td><td>こむ = to be crowded / congested (traffic)</td></tr><tr><td class=\"part\">かもしれません</td><td>“might / maybe” — expresses possibility</td></tr></table>",
+      "ExplainJP": "「込む」は人や車がいっぱいになること。道が込む＝渋滞する。「〜かもしれません」は『〜の可能性がある』。朝は渋滞するかもしれないので早めに出た方がいい、という流れ。",
+      "ExplainEN": "込む means to get crowded/congested (here, traffic). 道が込む = the roads get jammed. 〜かもしれません = “might / it's possible that ~.” The speaker warns the roads may be congested in the morning, so it's better to leave early.",
+      "Source": "N3 Choukai · 例",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "例"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-hayame",
+      "Point": "〜め（ 早[はや]め）",
+      "Question": "「早い」と「早め」はどう違う?",
+      "Structure": " 形容詞[けいようし]の 語幹[ごかん] + め（ 早[はや]い→ 早[はや]め、 多[おお]い→ 多[おお]め、 少[すく]ない→ 少[すく]なめ）",
+      "ExplainJP": "「〜め」は形容詞について『そちらの方向に少し寄せて』という意味を作る接尾語。「早め」＝普通より少し早いくらい／『早めに』＝余裕をもって早く。「早い」が単に「fast/early」なのに対し、「早め」は『早いほう・早めること』という名詞的な言い方。",
+      "ExplainEN": "The suffix 〜め attaches to an adjective stem and means “-ish / on the ~ side.” 早い (early/fast) → 早め = “a bit early / on the early side.” 早めに = “earlier (than necessary), with time to spare.” Compare 多め (a bit more), 少なめ (a bit less). It nominalises the adjective into “the ~er side.”",
+      "Examples": "15 分[ふん]ぐらい 早[はや]めに 出[で]られたほうがいいですね。（ 多[おお]め・ 少[すく]なめ・ 大[おお]きめ なども 同[おな]じ 形[かたち]）",
+      "Source": "N3 Choukai · 例",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "例"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-derareta",
+      "Point": " 出[で]られた（ 出[で]る → 出[で]られる）",
+      "Question": "なぜ「出る」ではなく「出られた」?「あれば」と同じ活用?",
+      "Structure": " 出[で]る → 出[で]られる（ 可能[かのう]・ 尊敬[そんけい]）／〜たほうがいい",
+      "ExplainJP": "「あれば」は条件形で別もの。ここの「出られる」は一段動詞「出る」の可能形／尊敬形（同じ形）。文中では『相手を高める尊敬』として使われ、『出る』を丁寧に言っている。「出られたほうがいい」＝「出たほうがいい」を敬った言い方。一段動詞は可能も尊敬も受身も「〜られる」で同じ形になる。",
+      "ExplainEN": "あれば is a conditional — a different thing. Here 出られた is from 出られる, the potential/honorific form of the ichidan verb 出る (they share one form: 〜られる). In this sentence it's honorific, politely raising the listener: 出られたほうがいい = a respectful version of 出たほうがいい (“you'd better leave”). For ichidan verbs, potential, honorific and passive all look the same: 〜られる.",
+      "Examples": "15 分[ふん]ぐらい 早[はや]めに 出[で]られたほうがいいですね。",
+      "Source": "N3 Choukai · 例",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "敬語",
+        "例"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p1-youji",
+      "Word": " 用事[ようじ]",
+      "Reading": "ようじ",
+      "Meaning": "an errand; something one has to do; business (to attend to)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "しなければならない用（やること・所用）。「事件（an incident）」ではない。「用」＝用事・やるべきこと＋「事」＝こと。「用事がある」＝やることがある。",
+      "ExplainEN": "Not “incident.” 用事 means an errand or some business/task you need to take care of. 用 (matter to do) + 事 (thing). 用事がある = “to have something to do.”",
+      "ExampleJP": " 今[いま]、 用事[ようじ]が 終[お]わったから 帰[かえ]ろうと 思[おも]って 駅[えき]に 来[き]たんだ。",
+      "ExampleEN": "I just finished my errand, so I thought I'd head home and came to the station.",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "1番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p1-youji-owatta",
+      "Sentence": " 用事[ようじ]が 終[お]わったから 帰[かえ]ろうと 思[おも]って 駅[えき]に 来[き]たんだ。",
+      "Translation": "My errand finished, so I figured I'd go home and came to the station.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 用事[ようじ]が 終[お]わった</td><td>(my) errand finished — 終わる = to end/finish (intransitive)</td></tr><tr><td class=\"part\">から</td><td>because / so</td></tr><tr><td class=\"part\"> 帰[かえ]ろうと 思[おも]って</td><td>“thinking I'd go home” — 帰ろう (volitional) + と思う</td></tr><tr><td class=\"part\"> 駅[えき]に 来[き]た</td><td>came to the station</td></tr><tr><td class=\"part\">んだ</td><td>explanatory のだ → んだ (giving the background/reason)</td></tr></table>",
+      "ExplainJP": "「事件が終わった」ではない。「用事＝やるべきこと」が「終わった＝すんだ」という意味。全体は『用事がすんだので、帰ろうと思って駅まで来た（んだ）』という状況説明。",
+      "ExplainEN": "Not “an incident finished.” It's 用事 (errand/task) + 終わった (finished). The whole thing: “(My) errand is done, so — thinking I'd head home — I came to the station.” 帰ろうと思って = “thinking I'd go home,” and んだ adds explanatory background.",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-kitan-noda",
+      "Point": " 来[き]たん（の／んだ・んです）",
+      "Question": "なぜ「来た」の後に「ん」がつくの?",
+      "Structure": " 普通形[ふつうけい] + のだ → んだ／んです（ 会話[かいわ]では「ん」）",
+      "ExplainJP": "「ん」は「のだ／のです」の会話の形。動詞などの後について『説明・理由・状況』を表す。「来た」＝ただの事実、「来たんだ」＝『（こういう事情で）来たんだよ』と背景を説明する気持ち。質問・言い訳・強調などでよく使う。",
+      "ExplainEN": "The ん is the spoken form of のだ/のです. Added after a plain-form verb, it frames the statement as an explanation / reason / background. 来た = plain fact “(I) came”; 来たんだ = “(the thing is,) I came (for this reason).” Very common for explaining, justifying, or emphasising in conversation.",
+      "Examples": " 駅[えき]に 来[き]たんだ。（＝ 来[き]たのだ／来[き]たんです）／ どうして 来[き]たんですか。",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-ugoitenakutte",
+      "Point": " 動[うご]いてなくって（〜ていない → 〜てなくって）",
+      "Question": "「動いていない」は分かるけど「動いてなくって」は?",
+      "Structure": " 動[うご]いていない →（い 抜[ぬ]き）動[うご]いてない →（ない→なくて）動[うご]いてなくて →（ 強調[きょうちょう]）動[うご]いてなくって",
+      "ExplainJP": "もとは「動いていない（動いている状態の否定＝止まっている）」。会話で「い」が落ちて「動いてない」になり、それをて形にすると「動いてなくて」（〜ない→〜なくて）。さらに話し言葉で「なくて→なくって」と促音を入れて強めたのが「動いてなくって」。意味は『（電車が）動いていなくて（だから困っている）』と理由・状況をつなぐ言い方。",
+      "ExplainEN": "Base is 動いていない (negative of 動いている = “isn't moving / is stopped”). In speech the い drops → 動いてない. Make that a te-form for a reason (ない→なくて) → 動いてなくて. Then casual speech doubles the consonant for emphasis なくて→なくって → 動いてなくって. Meaning: “(the train) isn't running, and (so)…” — it links to the trouble that follows.",
+      "Examples": " 電車[でんしゃ]が 動[うご]いてなくって…。（＝ 動[うご]いていなくて、 困[こま]っている）",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-nacchau",
+      "Point": "〜ちゃう（〜てしまう → 〜ちゃう）",
+      "Question": "「なっちゃう」は「なってしまう」のこと?",
+      "Structure": "〜てしまう → 〜ちゃう／〜でしまう → 〜じゃう（ 例[れい]: なってしまう→なっちゃう、 飲[の]んでしまう→飲[の]んじゃう）",
+      "ExplainJP": "そのとおり。「〜ちゃう」は「〜てしまう」の会話的な短い形。「〜てしまう」は①『完了・最後までやる』②『残念・困った気持ち』を表す。「遅くなっちゃう」＝「遅くなってしまう」＝『（困ったことに）遅くなってしまう』。ただし過去ではなく、ここは『これから遅くなりそうだ』という意味（なっちゃった＝なってしまった なら過去）。",
+      "ExplainEN": "Yes — 〜ちゃう is the casual contraction of 〜てしまう (and 〜でしまう → 〜じゃう). 〜てしまう adds (1) completion or (2) a sense of regret/“unfortunately.” 遅くなっちゃう = 遅くなってしまう = “(unfortunately) it'll get late.” Note this is non-past (“will end up late”); the past would be なっちゃった = なってしまった.",
+      "Examples": " 少[すこ]し 帰[かえ]る 時間[じかん]が 遅[おそ]くなっちゃうと 思[おも]う。",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-torikomu-toite",
+      "Point": " 取[と]り 込[こ]んどいて（ 取[と]り 込[こ]む ＋ 〜とく←〜ておく）",
+      "Question": "この複合動詞の意味は?",
+      "Structure": " 取[と]り 込[こ]む ＋ 〜でおく → 取[と]り 込[こ]んでおく → 取[と]り 込[こ]んどく → 取[と]り 込[こ]んどいて（〜どいて＝〜でおいて）",
+      "ExplainJP": "「取り込む」＝外に干してある洗濯物などを中に取り入れる。「〜ておく」＝『前もって・そのままにしておく』。会話で「〜ておく→〜とく」「〜でおく→〜どく」と縮む。「取り込んでおいて」→「取り込んどいて」＝『（雨が降る・暗くなる前に）洗濯物を取り込んでおいてね』という依頼。",
+      "ExplainEN": "取り込む = to bring in (laundry hanging outside, etc.). Add 〜ておく (“do in advance / leave it done”), which casually contracts: 〜でおく → 〜どく, and the request て-form 〜でおいて → 〜どいて. So 取り込んでおいて → 取り込んどいて = “bring the laundry in (ahead of time), would you?”",
+      "Examples": " 洗濯物[せんたくもの] 取[と]り 込[こ]んどいてくれる?（＝ 取[と]り 込[こ]んでおいてくれる?）",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-juju-doushi",
+      "Point": "あげる・もらう・くれる（やりもらい 動詞[どうし]）",
+      "Question": "あげる／くれる／もらう とその敬語の違いは?",
+      "Structure": "あげる（↑さしあげる／↓やる）・くれる（↑くださる）・もらう（↑いただく）",
+      "ExplainJP": "<b>物や行為の『やりもらい』を表す 3 グループ。</b><br><br>① <b>あげる</b>＝自分（や身内）→他人へ与える。「私が彼に本をあげる」。目上へは <b>さしあげる</b>、動物・植物へは <b>やる</b>（例:花に水をやる）。<br><br>② <b>くれる</b>＝他人→自分（や身内）へ与える。「彼が（私に）本をくれる」。主語は相手。目上の人がくれる場合は <b>くださる</b>（先生が本をくださる）。<br><br>③ <b>もらう</b>＝自分が他人から受け取る。「私が彼に／から本をもらう」。目上からは <b>いただく</b>。<br><br><b>方向がカギ:</b> あげる＝外へ↑、くれる＝内へ↓、もらう＝受け取る側が主語。動詞のて形につけると『行為の授受』になる（〜てあげる／〜てくれる／〜てもらう）。",
+      "ExplainEN": "<b>Three groups of giving/receiving verbs.</b><br><br>① <b>あげる</b> = I (or my in-group) give OUT to someone. Honorific upward: <b>さしあげる</b>; to animals/plants: <b>やる</b> (e.g. water the flowers 水をやる).<br><br>② <b>くれる</b> = someone gives IN to me (or my in-group); the giver is the subject. When a superior does it: <b>くださる</b>.<br><br>③ <b>もらう</b> = I receive from someone (the receiver is the subject). From a superior: <b>いただく</b>.<br><br><b>Direction is the key:</b> あげる points away from me, くれる points toward me, もらう makes the receiver the subject. Attached to a verb's te-form they express giving/receiving an <i>action</i>: 〜てあげる / 〜てくれる / 〜てもらう.",
+      "Examples": " 水[みず]やっといてもらえない?（〜てもらう: してほしいと 頼[たの]む）／ 取[と]り 込[こ]んどいて<b>くれる</b>?（〜てくれる: 私[わたし]のためにして）／ チケットをあげるよ（あげる: 私[わたし]→ 相手[あいて]）",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "敬語",
+        "1番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p1-todoku",
+      "Word": " 届[とど]く",
+      "Reading": "とどく",
+      "Meaning": "to arrive (of a delivery); to reach",
+      "PartOfSpeech": "verb (godan, intransitive)",
+      "ExplainJP": "送った物や手紙などが相手のところに着く・到着する。自動詞（物が主語）。他動詞は「届ける（人が届ける）」。「手が届く（届く範囲に入る）」のようにも使う。",
+      "ExplainEN": "Intransitive verb: a package/letter etc. arrives or reaches its destination (the item is the subject). The transitive pair is 届ける (a person delivers something). Also “to reach” physically, e.g. 手が届く (within reach).",
+      "ExampleJP": "もうすぐ 荷物[にもつ]が 届[とど]くことになってるから、 受[う]け 取[と]っといて。",
+      "ExampleEN": "A package is going to arrive soon, so receive it for me.",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-uketottoite",
+      "Point": " 受[う]け 取[と]っといて（ 受[う]け 取[と]る ＋ 〜といて←〜ておいて）",
+      "Question": "ただの「受けて」と「受け取っといて」はどう違う?",
+      "Structure": " 受[う]け 取[と]る ＋ 〜ておく → 受[う]け 取[と]っておいて → 受[う]け 取[と]っといて",
+      "ExplainJP": "「受ける」は広く『受け止める・引き受ける』。「受け取る」は『渡された物を手に取って受ける＝受領する』で、荷物などを受け取るときはこちら。「受け取っといて」＝「受け取っておいて」の会話形（〜ておいて→〜といて）で、『（荷物が来たら）あらかじめ受け取っておいてね』という依頼。",
+      "ExplainEN": "受ける is broad — “receive / take on.” 受け取る specifically means to physically take and accept a handed-over item (to receive a delivery). So for a parcel you want 受け取る. 受け取っといて = casual form of 受け取っておいて (〜ておいて → 〜といて) = “go ahead and accept/receive it (for me).”",
+      "Examples": "もうすぐ 荷物[にもつ]が 届[とど]くから、 受[う]け 取[と]っといて。",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-okou",
+      "Point": "〜ておこう（〜ておく の 意向形[いこうけい]）",
+      "Question": "「（作って）おこう」はどういう意味?",
+      "Structure": " 動詞[どうし]て 形[けい] ＋ おく → おこう（ 意向形[いこうけい]「〜しよう」）",
+      "ExplainJP": "「〜ておく」＝『前もって・準備として しておく』。その意向形（〜しよう） が「〜ておこう」＝『（今のうちに）〜しておこう』という自分の決意・提案。「晩ご飯作っておこう」＝『（帰りが遅くなりそうだから）ご飯を用意しておこう』。会話では「おこう→とこう」とも縮む。",
+      "ExplainEN": "〜ておく = “do in advance / get it ready.” Its volitional 〜ておこう = “I'll go ahead and do ~ (now, in preparation).” 作っておこう = “I'll make (dinner) ahead of time.” It expresses the speaker's resolve/proposal to do something in advance. Casually it can shrink to 〜とこう.",
+      "Examples": " 晩[ばん]ご 飯[はん]どうする? 作[つく]っておこう。（＝ 作[つく]っとこう）",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p1-taberu-mono-katte",
+      "Sentence": " 何[なに]かすぐ 食[た]べられるもの 買[か]って 帰[かえ]るから。",
+      "Translation": "I'll buy something we can eat right away and come home, so (don't worry).",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 何[なに]か</td><td>something (か = some/unspecified)</td></tr><tr><td class=\"part\">すぐ 食[た]べられる</td><td>can eat right away — 食べられる = potential of 食べる</td></tr><tr><td class=\"part\">もの</td><td>thing(s) — modified by the clause before it: “something (that) can be eaten right away”</td></tr><tr><td class=\"part\"> 買[か]って 帰[かえ]る</td><td>buy and go home (買って + 帰る, sequential actions)</td></tr><tr><td class=\"part\">から</td><td>“so / because” — gives a reason (so don't bother cooking)</td></tr></table>",
+      "ExplainJP": "「すぐ食べられるもの」は『すぐに食べることができる物』で、食べられる（可能） + もの。「買って帰る」は『買ってから帰る』という二つの動作の連続。最後の「から」は理由で、前の「ご飯を作っておこう」に対して『（作らなくていいよ、）何かすぐ食べられる物を買って帰るから』と言っている。",
+      "ExplainEN": "すぐ食べられるもの = “something we can eat right away” (食べられる = potential “can eat” + もの “thing”). 買って帰る = “buy (it) and head home” (two actions in sequence). The final から gives the reason: replying to “I'll cook dinner,” she says “(no need —) I'll just buy something ready-to-eat and bring it home, so…”",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "1番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p1-soreyori",
+      "Word": "それより",
+      "Reading": "それより",
+      "Meaning": "more than that; rather; anyway (changing/prioritising topic)",
+      "PartOfSpeech": "expression / conjunction",
+      "ExplainJP": "「それ＋より（比較の より）」＝『それ より（も）』。直前の話題より、これから言うことの方が大事・優先だと示して話を切り替える表現。「それはいいとして、それより…」のニュアンス。",
+      "ExplainEN": "それ (that) + より (comparison “than”) = “(more) than that.” Used to switch topics by signalling that what comes next matters more / is more pressing than what was just said — like English “anyway, more importantly…”",
+      "ExampleJP": "ありがとう。それは 大丈夫[だいじょうぶ]。それより、 庭[にわ]の 花[はな]に 水[みず]やっといてもらえない?",
+      "ExampleEN": "Thanks. That's fine. More importantly — could you water the flowers in the garden for me?",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p1-mizu-yattoite",
+      "Point": " 水[みず]やっといて（ 水[みず]をやる ＋ 〜といて←〜ておいて）",
+      "Question": "「水やっといて」の意味と形は?",
+      "Structure": " 水[みず]をやる ＋ 〜ておく → 水[みず]をやっておいて → 水[みず]やっといて（を 省略[しょうりゃく]＋〜といて）",
+      "ExplainJP": "「（花や植物に）水をやる」＝水を与える＝水やりをする。「やる」は『あげる』の動植物・目下向けの言い方。これに「〜ておく（準備・そのままに）」がついて、会話で「〜ておいて→〜といて」と縮み、助詞「を」も落ちて「水やっといて」＝『（私がいない間に）花に水をやっておいてね』という依頼。",
+      "ExplainEN": "水をやる = to give water to / water plants (やる is the “give” verb used toward plants/animals/inferiors, the humble counterpart of あげる). Add 〜ておく (do/leave it done in advance), which casually contracts 〜ておいて → 〜といて, and the particle を is dropped: 水やっといて = “water the flowers (for me, ahead of time), would you.”",
+      "Examples": " 庭[にわ]の 花[はな]に 水[みず]やっといてもらえない?（＝ 水[みず]をやっておいてもらえない?）",
+      "Source": "N3 Choukai · 1番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    }
+  ]
+}

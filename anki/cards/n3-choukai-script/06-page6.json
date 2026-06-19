@@ -1,0 +1,96 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "grammar",
+      "id": "n3cs-p6-kega-shite",
+      "Point": " 怪我[けが]する / 怪我[けが]して",
+      "Question": "「怪我してね」はどういう意味?",
+      "Structure": " 怪我[けが]（を）する → て 形[けい]: 怪我[けが]して",
+      "ExplainJP": "「怪我」＝体にできた傷・けが。「怪我をする」で『けがをする・負傷する』という動作を表す。会話では「を」を省いて「怪我する」とも言う。「怪我して」はその て形で、ここでは『けがをして（、それで〜）』と理由・状況を続けている。「ね」は相手に確認・共感を求める終助詞。",
+      "ExplainEN": "怪我 (けが) = an injury/wound. 怪我をする = to get injured (を often dropped in speech → 怪我する). 怪我して is the te-form, here giving the reason/circumstance: \"(the cat) got hurt, and so…\". The 〜ね softens it and seeks the listener's sympathy/agreement.",
+      "Examples": " 昨日[きのう]の 夜[よる]、うちの 猫[ねこ]が 怪我[けが]してね。<br>（昨夜うちの猫がけがをしてしまって…）",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "3番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p6-dekita",
+      "Point": " 用事[ようじ]ができた — できる/できたの「生じる・備わる」用法",
+      "Question": "「急な用事ができた」の「できた」って「作れた・上手にできた」のこと?",
+      "Structure": "（もの・こと）が + できる／できた",
+      "ExplainJP": "「できる」には①〜が可能だ（能力）、②完成する・出来上がる のほかに、③『今までなかったものが新しく生じる・備わる』という意味がある。ここはこの③で、「急な用事ができた」＝『急な用事が（思いがけず）発生した』。同じ使い方:「友達ができた」（友達が新しくできた）、「時間ができた」（時間ができた・空いた）、「子供ができた」。「できた」は過去形＝『（もう）生じた』。",
+      "ExplainEN": "Besides \"can do\" (ability) and \"be completed\", できる has the sense \"come into being / arise / come to have\". Here 急な用事ができた = \"an urgent matter came up\" (it arose). Same use: 友達ができた = made a friend, 時間ができた = freed up some time, 子供ができた = got pregnant. The past できた = it has (already) arisen.",
+      "Examples": " 急[きゅう]な 用事[ようじ]ができたから、 私[わたし]に 行[い]ってくれって。<br>（急な用事ができたので、私に「行ってくれ」と。）<br> 新[あたら]しい 友達[ともだち]ができた。／ 来週[らいしゅう] 時間[じかん]ができた。",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "3番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p6-shucchou",
+      "Word": " 出張[しゅっちょう]",
+      "Reading": "しゅっちょう",
+      "Meaning": "business trip",
+      "PartOfSpeech": "noun / suru-verb",
+      "ExplainJP": "仕事で、いつもの職場をはなれて他の土地・国へ行くこと。「 出[しゅつ・で]」＝出る、「張」＝出向く・つとめる。「出張する」で動詞になる。",
+      "ExplainEN": "A business trip — going away from your usual workplace to another place/country for work. 出 (go out) + 張 (be posted/stationed). Use 出張する as a verb.",
+      "ExampleJP": " 今度[こんど]サラさんの 国[くに]に 2[に]か 月[げつ] 出張[しゅっちょう]することになったんだ。",
+      "ExampleEN": "It's been decided that I'll go on a 2-month business trip to Sarah's country.",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p6-shoukai-suru",
+      "Word": " 紹介[しょうかい]する",
+      "Reading": "しょうかいする",
+      "Meaning": "to introduce (someone/something)",
+      "PartOfSpeech": "suru-verb",
+      "ExplainJP": "間に立って、知らない人どうしを引き合わせること。また、まだ知られていない物・事を人に知らせること。「紹」も「介」も『間をとりもつ』意味。例:「自己紹介」（self-introduction）。",
+      "ExplainEN": "Yes — to introduce. To bring people who don't know each other together, or to present/tell about something not yet known. Both 紹 and 介 carry the idea of \"mediating / bringing together\". cf. 自己紹介 = self-introduction.",
+      "ExampleJP": "あ、 友達[ともだち]、 紹介[しょうかい]するよ。いい 人[ひと]がいる。",
+      "ExampleEN": "Oh, I'll introduce you to a friend. I know a good person (for that).",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p6-kojin",
+      "Word": " 個人[こじん]",
+      "Reading": "こじん",
+      "Meaning": "an individual; a private person",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "団体や組織に対して、ひとりの人。「個」＝ひとつ・ひとつひとつ、「人」＝人。「個人レッスン」＝（グループではなく）一対一の個別レッスン。反対は「団体・全体」。",
+      "ExplainEN": "An individual / a single private person, as opposed to a group or organization. 個 (single, individual) + 人 (person). 個人レッスン = a private (one-on-one) lesson, as opposed to a group lesson. Contrast with 団体 (group).",
+      "ExampleJP": "やっぱり 個人[こじん]レッスンがいいから、その 人[ひと]に 頼[たの]んでもらえる?",
+      "ExampleEN": "A private (one-on-one) lesson really is best, so could you ask that person for me?",
+      "Source": "N3 Choukai · 4番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "4番"
+      ]
+    }
+  ]
+}

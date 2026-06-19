@@ -1,0 +1,437 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-owatashi",
+      "Word": "お 渡[わた]し（する）",
+      "Reading": "おわたし",
+      "Meaning": "to hand over / give (humble polite)",
+      "PartOfSpeech": "noun + する verb (humble form of 渡す)",
+      "ExplainJP": "「渡す」＝手から手へ物をあげる、引きわたす。「お＋ます形の語幹＋する」で謙譲語（けんじょうご）になり、自分が相手にていねいに「渡す」ことを表す。「お渡しできます」＝『（私が）お渡しすることができます』。",
+      "ExplainEN": "渡す = to hand over / pass something to someone. The pattern お + (verb stem) + する is the humble form (謙譲語): the speaker humbly does the action for the listener. So お渡しできます = “I can hand it over to you” — polite shop-staff language.",
+      "ExampleJP": " 土曜日[どようび]にお 渡[わた]しできます。",
+      "ExampleEN": "I can hand it over to you on Saturday.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-zenjitsu",
+      "Word": " 前日[ぜんじつ]",
+      "Reading": "ぜんじつ",
+      "Meaning": "the day before / the previous day",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "あることがある日の、すぐ前の日。「前」＝前、「日」＝日。例えば「結婚式の前日」＝結婚式のひとつ前の日。反対は「翌日（次の日）」。",
+      "ExplainEN": "The day before a given day / the previous day. 前 = before + 日 = day. e.g. 結婚式の前日 = the day before the wedding. Its opposite is 翌日 (the next day).",
+      "ExampleJP": "その 前日[ぜんじつ]までには 取[と]りに 来[き]たいんですが。",
+      "ExampleEN": "I'd like to come pick it up by the day before that.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p2-isoguyou",
+      "Point": "〜よう（だ）／ 急[いそ]ぐようでしたら",
+      "Question": "「急ぐよう」ってどういう意味?",
+      "Structure": " 動詞[どうし]の 辞書形[じしょけい] ＋ よう（だ）＝『〜のようだ／〜みたいだ』（ 様子[ようす]・ 推量[すいりょう]）",
+      "ExplainJP": "「よう」は様子や推量を表す。「急ぐよう（だ）」＝『急いでいるみたいだ／急ぎの様子だ』。「急ぐようでしたら」は「〜なら／〜であれば」と同じ条件で、『（お客さんが）お急ぎのようなら』とていねいに言っている。",
+      "ExplainEN": "〜よう(だ) expresses appearance or conjecture (“seems like / looks like”). 急ぐよう = “seems to be in a hurry / it's a rush.” 急ぐようでしたら is a polite conditional “if it seems you're in a hurry / if you need it quickly.” でしたら is the polite past-conditional of です used like “if (that's the case).”",
+      "Examples": " 急[いそ]ぐようでしたら、こちらのコースがおすすめです。",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-azukaru",
+      "Word": " 預[あず]かる",
+      "Reading": "あずかる",
+      "Meaning": "to keep / hold (something) in trust (for someone)",
+      "PartOfSpeech": "verb (五段・他動詞)",
+      "ExplainJP": "人の物を、その人のために一時的に受け取って保管する。お店が「お客さんの服を預かる」＝お客の服を受け取って保管する。「預かった翌日」＝『（店が服を）受け取った次の日』。 ⇔ 「預ける」＝自分の物を人にあずける。",
+      "ExplainEN": "To take and keep something on someone's behalf (hold in trust). Here the cleaning shop 預かる = receives and holds the customer's clothes. 預かった翌日 = “the day after (we) take it in.” Contrast 預ける = to leave/entrust your own thing with someone else.",
+      "ExampleJP": " 預[あず]かった 翌日[よくじつ]にできるコースもあります。",
+      "ExampleEN": "There's also a course where it's ready the day after we take it in.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-yokujitsu",
+      "Word": " 翌日[よくじつ]",
+      "Reading": "よくじつ",
+      "Meaning": "the next day / the following day",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "あることがあった日の、次の日。「翌」＝次の、「日」＝日。仲間に「翌週（次の週）」「 翌年[よくとし／よくねん]（次の年）」がある。反対は「前日」。",
+      "ExplainEN": "The next/following day. 翌 = next/following + 日 = day. Same 翌 appears in 翌週 (next week), 翌年 (next year). Opposite of 前日 (the day before).",
+      "ExampleJP": " 預[あず]かった 翌日[よくじつ]にできます。",
+      "ExampleEN": "It can be ready the next day after we take it in.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p2-isogu-course-sentence",
+      "Sentence": " 急[いそ]ぐようでしたら、500 円[えん] 高[たか]くなってしまいますが、 預[あず]かった 翌日[よくじつ]にできるコースもありますので、そちらにしていただけないでしょうか。",
+      "Translation": "If you're in a hurry, it does become 500 yen more, but there's also a course that's ready the day after we take it in — could I have you go with that one?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 急[いそ]ぐようでしたら</td><td>“if you seem to be in a hurry / if you need it fast” (〜よう = seems + でしたら = polite if)</td></tr><tr><td class=\"part\">500 円[えん] 高[たか]くなってしまいますが</td><td>“it ends up 500 yen more expensive, but” (〜てしまう = ends up; が = but, softening)</td></tr><tr><td class=\"part\"> 預[あず]かった 翌日[よくじつ]にできる</td><td>“can be done the day after (we) take it in” — modifies コース</td></tr><tr><td class=\"part\">コースもありますので</td><td>“there's also a course, so” (も = also; ので = so/since)</td></tr><tr><td class=\"part\">そちらにしていただけないでしょうか</td><td>“could I have you go with that one?” — 〜にする = decide on; 〜ていただけないでしょうか = very polite request</td></tr></table>",
+      "ExplainJP": "お店の人がお客さんにていねいに提案している文。「〜していただけないでしょうか」は『〜してもらえませんか』のとてもていねいな言い方で、お願い・提案に使う。「そちらにする」＝『そちらに決める／そちらを選ぶ』。",
+      "ExplainEN": "The shop clerk is politely proposing an option. そちらにする = “decide on / choose that one” (〜にする = to settle on). 〜していただけないでしょうか is a very polite request form (“could I trouble you to…?”), softer and more deferential than 〜してもらえませんか.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-course",
+      "Word": "コース",
+      "Reading": "こーす",
+      "Meaning": "course / plan / option",
+      "PartOfSpeech": "noun (loanword, from English “course”)",
+      "ExplainJP": "サービスや料理などの「選べるプラン・種類」。ここでは「クリーニングのコース」＝仕上がりの早さや値段がちがう選択肢のこと。",
+      "ExplainEN": "A “course,” i.e. a selectable plan / option for a service or meal. Here it's a cleaning-service plan — the different options that vary by speed and price.",
+      "ExampleJP": " 翌日[よくじつ]にできるコースもあります。",
+      "ExampleEN": "There's also a course where it's ready the next day.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-teikyuubi",
+      "Word": " 定休日[ていきゅうび]",
+      "Reading": "ていきゅうび",
+      "Meaning": "regular (fixed) closing day / regular day off (of a shop)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "お店や会社が、毎週・毎月決まって休む日。「定（決まっている）＋休（休み）＋日（日）」。例「定休日は月曜日です」。",
+      "ExplainEN": "A shop's or business's regular, fixed closing day (the set day it is closed each week/month). 定 = fixed/regular + 休 = rest/closed + 日 = day. e.g. “Our regular closing day is Monday.”",
+      "ExampleJP": " 明日[あした]は 定休日[ていきゅうび]なので。",
+      "ExampleEN": "Because tomorrow is our regular closing day.",
+      "Source": "N3 Choukai · 2番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-kangeikai",
+      "Word": " 歓迎会[かんげいかい]",
+      "Reading": "かんげいかい",
+      "Meaning": "welcome party",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "新しく入ってきた人を歓迎するために開く会（パーティー）。「歓迎＝よろこんで迎える＋会＝集まり」。反対は「送別会（去る人を送る会）」。",
+      "ExplainEN": "A welcome party — a gathering held to welcome someone new. 歓迎 = to welcome gladly + 会 = gathering. Its opposite is 送別会 (a farewell/send-off party).",
+      "ExampleJP": " 新入社員[しんにゅうしゃいん]の 歓迎会[かんげいかい]。",
+      "ExampleEN": "A welcome party for the new employees.",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "3番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-shinnyuushain",
+      "Word": " 新入社員[しんにゅうしゃいん]",
+      "Reading": "しんにゅうしゃいん",
+      "Meaning": "new employee / new hire (freshly joined company member)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "その年に新しく会社に入った社員。「新入（新しく入る）＋社員（会社の人）」。学校の「新入生」と同じ作り方。",
+      "ExplainEN": "A newly-joined company employee / new hire. 新入 (newly entering) + 社員 (company employee). Built the same way as 新入生 (new student).",
+      "ExampleJP": " 再来週[さらいしゅう]の 新入社員[しんにゅうしゃいん]の 歓迎会[かんげいかい]。",
+      "ExampleEN": "The welcome party for the new employees the week after next.",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "3番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p2-koto-ni-natteta-sentence",
+      "Sentence": " 僕[ぼく]が 準備[じゅんび]することになってたでしょう。",
+      "Translation": "It was decided that I'd be the one to prepare (it), right?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 僕[ぼく]が</td><td>“I (am the one who)” — が marks the subject doing it</td></tr><tr><td class=\"part\"> 準備[じゅんび]すること</td><td>“the matter of preparing” (準備する nominalized with こと)</td></tr><tr><td class=\"part\">になってた</td><td>= になっていた “had come to be / it had been arranged that” (casual なってた ← なっていた)</td></tr><tr><td class=\"part\">でしょう</td><td>“right? / wasn't it?” — seeking the listener's agreement/confirmation</td></tr></table>",
+      "ExplainJP": "「〜ことになっている／なっていた」は『（自分の意志ではなく）規則や取り決めで、そう決まっている／決まっていた』ことを表す。だからあなたの理解どおり、『準備は僕の役目に決まっていた』という意味。文末の「でしょう」は『〜だったよね?』と相手に確認している。",
+      "ExplainEN": "〜ことになっている/なっていた expresses that something has been decided/arranged (by rule or agreement, not by your own will). So yes — it means “preparing it had been settled as my job/responsibility.” The sentence-final でしょう asks the listener to confirm: “…right? / that's how it was, wasn't it?”",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "3番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p2-natteta",
+      "Point": "なってた ← なっていた（〜ている の 過去[かこ]・ 縮約[しゅくやく]）",
+      "Question": "「なってた」って何の活用?",
+      "Structure": "なる → なっている（ 状態[じょうたい]） → なっていた（過去） → 話[はな]し 言葉[ことば]で『なってた』",
+      "ExplainJP": "「なってた」は「なっていた」の『い』が落ちた会話の縮約形。 〜ている／〜ていた の『い』は、くだけた話し方でよく消える（している→してる、食べていた→食べてた）。意味は「なっていた」と同じ＝『（前から）そういう状態だった』。",
+      "ExplainEN": "なってた is the casual contraction of なっていた — the い of 〜ている/〜ていた drops in colloquial speech (している→してる, 食べていた→食べてた). The meaning is unchanged: “had become / had been in that state.” Same drop you saw earlier in 動いてなくって ← 動いていなくて.",
+      "Examples": " 準備[じゅんび]することになってた（←なっていた）。／もう 終[お]わってた（←終わっていた）。",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "3番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-eigyouka-zenin",
+      "Word": " 営業課[えいぎょうか] 全員[ぜんいん]",
+      "Reading": "えいぎょうかぜんいん",
+      "Meaning": "everyone in the sales section / all members of the sales division",
+      "PartOfSpeech": "noun phrase",
+      "ExplainJP": "「営業」＝物を売る仕事（セールス）、「課」＝会社の中の部署の単位（部＞課）。「全員」＝全部の人・みんな。合わせて『営業課のメンバー全部』。",
+      "ExplainEN": "営業 = sales (the business of selling) + 課 = section/division (an org unit; a 部 contains 課). 全員 = all members / everyone. Together: “everyone in the sales section.”",
+      "ExampleJP": " 営業課[えいぎょうか] 全員[ぜんいん]に 出[で]られるかどうか 聞[き]いてくれる?",
+      "ExampleEN": "Could you ask everyone in the sales section whether they can come?",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "3番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p2-kadouka-sentence",
+      "Sentence": " 営業課[えいぎょうか] 全員[ぜんいん]に 出[で]られるかどうかを 聞[き]いてくれる?",
+      "Translation": "Could you ask everyone in the sales section whether they can attend (or not)?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 営業課[えいぎょうか] 全員[ぜんいん]に</td><td>“to everyone in the sales section” (に = the people asked)</td></tr><tr><td class=\"part\"> 出[で]られるか</td><td>“whether (they) can attend” — 出る (attend) → potential 出られる + か (question)</td></tr><tr><td class=\"part\">どうか</td><td>“…or not” — か＋どうか packages a yes/no question as one noun</td></tr><tr><td class=\"part\">を 聞[き]いてくれる?</td><td>“will you ask (for me)?” — 〜てくれる = do (the favor) for me; ? = casual request</td></tr></table>",
+      "ExplainJP": "「〜かどうか」は『〜か、違うか』をひとつの名詞のようにまとめる言い方で、『〜かどうかを聞く／確かめる』のように使う。「出られる」は「出る（出席する）」の可能形＝『出席できる』。「聞いてくれる?」は親しい相手への軽いお願い。",
+      "ExplainEN": "〜かどうか bundles a yes/no question (“whether ~ or not”) into a noun-like chunk, used as 〜かどうかを聞く/確かめる (ask/check whether ~). 出られる is the potential of 出る (to attend) = “can attend.” 聞いてくれる? is a casual request to a close colleague: “will you ask, as a favor to me?”",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "3番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p2-tsutaete",
+      "Point": " 伝[つた]えて（ 伝[つた]える の て 形[けい]・ 依頼[いらい]）",
+      "Question": "「伝えて」の意味と形は?",
+      "Structure": " 伝[つた]える（ 下一段[しもいちだん] 動詞[どうし]）→ て 形[けい]「 伝[つた]えて」→ 「〜て（ください）」で 依頼[いらい]",
+      "ExplainJP": "「伝える」＝情報や言葉を相手に知らせる、メッセージを届ける。文中の「伝えてある」は『伝えて、その状態が残っている＝もう知らせてある』。て形だけなら「（〜と）伝えて（ください）」で『〜と言っておいて』という依頼にもなる。",
+      "ExplainEN": "伝える = to convey/tell/pass on information or a message. In the dialogue 伝えてある = “(it) has been told/conveyed (and stays that way).” On its own, the て-form 伝えて(ください) makes a request: “please tell/let them know.” 伝える (transitive) pairs with 伝わる (intransitive, “to be conveyed”).",
+      "Examples": " 大体[だいたい]の 人数[にんずう]は 伝[つた]えてあるんだけど。／ 先輩[せんぱい]によろしく 伝[つた]えておいて。",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "3番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-saishuuteki",
+      "Word": " 最終的[さいしゅうてき]（に）",
+      "Reading": "さいしゅうてき",
+      "Meaning": "final / ultimate; (adv.) ultimately, in the end",
+      "PartOfSpeech": "な-adjective / adverb with に",
+      "ExplainJP": "「最終（いちばん最後）＋的（〜のような）」で『最後の・最終の』。「最終的な人数」＝『最後に決まった人数』。「最終的に」＝『結局・最後には』。",
+      "ExplainEN": "Yes — “final / ultimate.” 最終 (the very last) + 的 (-al/-like). 最終的な人数 = “the final (settled) head count.” As an adverb 最終的に = “ultimately / in the end.”",
+      "ExampleJP": "そろそろ 最終的[さいしゅうてき]な 人数[にんずう]をお 店[みせ]に 連絡[れんらく]しなきゃならないんだ。",
+      "ExampleEN": "I have to give the shop the final head count soon.",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "3番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p2-kiitara",
+      "Point": "〜たら（ 全員[ぜんいん]に 聞[き]いたら）",
+      "Question": "「全員に聞いたら」はここでどういう意味?",
+      "Structure": " 動詞[どうし]の た 形[けい] ＋ ら ＝『〜したら／〜した 後[あと]で』（ 条件[じょうけん]・ 時間[じかん]の 順序[じゅんじょ]）",
+      "ExplainJP": "「〜たら」は『〜したら、その後で…』という条件や順序を表す。ここでは『（あなたが）全員に聞いたら（その結果を受けて）、店に電話して人数を連絡しておいてくれる?』という流れ。つまり『みんなに聞き終わったら、次に〜』。",
+      "ExplainEN": "〜たら sets up “once/after you do X, then…”. Here 全員に聞いたら = “once you've asked everyone (and have the answers), then call the shop and pass on the number for me.” It chains the next action onto finishing the asking.",
+      "Examples": " 全員[ぜんいん]に 聞[き]いたら、 店[みせ]に 電話[でんわ]して 人数[にんずう]を 連絡[れんらく]しておいてくれる?",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "3番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p2-oite-teoku",
+      "Point": "〜ておく（おいて）— 再[さい] 確認[かくにん]",
+      "Question": "「連絡しておいて」「やっておくよ」の「おく／おいて」は?",
+      "Structure": " 動詞[どうし]て 形[けい] ＋ おく → て 形[けい]「〜ておいて」（ 依頼[いらい]）／ 意志[いし]「〜ておく（よ）」",
+      "ExplainJP": "「〜ておく」は『後のために、前もって・ちゃんとしておく』。 1番の「とく（←ておく）」と同じ文法。「連絡しておいて（くれる?）」＝『（あとで困らないように）連絡しておいてね』という依頼。「自分でやっておくよ」＝『（準備として）自分でやっておく』という意志。相手に「〜してあげる」系の くれる／もらう とちがい、「おく」は『準備・放置』の ニュアンス。",
+      "ExplainEN": "〜ておく = do something in advance / get it set up for later (and leave it that way). It's the same grammar as 〜とく (←ておく) from 1番. 連絡しておいて(くれる?) = “go ahead and contact them (for later), would you?”; 自分でやっておくよ = “I'll take care of it in advance myself.” Note: unlike the giving/receiving verbs (くれる/もらう), which add “as a favor,” おく adds the “in preparation / leave it done” nuance.",
+      "Examples": " 人数[にんずう]を 連絡[れんらく]しておいてくれる?／それは 自分[じぶん]でやっておくよ。",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "3番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-ikou",
+      "Word": " 以降[いこう]",
+      "Reading": "いこう",
+      "Meaning": "from ~ onward / after ~ (and continuing)",
+      "PartOfSpeech": "noun (suffix-like, follows a time word)",
+      "ExplainJP": "ある時を含めて、それより後ずっと。「明日以降」＝『明日とそれから先』。似た語に「以前（それより前）」「以後」「以上／以下」。反対は「以前」。",
+      "ExplainEN": "From a given point onward (that point included). 明日以降 = “tomorrow and after.” Related: 以前 (before that), 以後, 以上/以下. Opposite is 以前.",
+      "ExampleJP": "その 店[みせ]、 今日[きょう]は 休[やす]みだから、 明日以降[あすいこう]でいいよ。",
+      "ExampleEN": "That shop is closed today, so anytime from tomorrow on is fine.",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "3番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-sankasuru",
+      "Word": " 参加[さんか]する",
+      "Reading": "さんかする",
+      "Meaning": "to take part / participate / attend",
+      "PartOfSpeech": "noun + する verb",
+      "ExplainJP": "あつまり・活動・会などに加わる、出る。「参＋加（加わる）」。「歓迎会に参加する」＝『歓迎会に出る』。名詞は「参加者（参加する人）」。",
+      "ExplainEN": "To participate / take part in / attend (an event, activity, meeting). 参 + 加 (to join/add). 歓迎会に参加する = “attend the welcome party.” Person noun: 参加者 (participant).",
+      "ExampleJP": " 参加[さんか]する 人[ひと]、 確認[かくにん]したいから。",
+      "ExampleEN": "Because I want to confirm who's participating.",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "3番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-kakunin",
+      "Word": " 確認[かくにん]（する）",
+      "Reading": "かくにん",
+      "Meaning": "confirmation / a check; to confirm, to make sure",
+      "PartOfSpeech": "noun + する verb",
+      "ExplainJP": "はっきりしているか、正しいかを調べてたしかめること。「確（たしか）＋認（みとめる）」。「参加する人を確認する」＝『だれが参加するか、たしかめる』。",
+      "ExplainEN": "Confirmation / checking — making sure something is correct or certain. 確 (certain) + 認 (to recognize/acknowledge). 参加する人を確認する = “check/confirm who is attending.”",
+      "ExampleJP": " 参加[さんか]する 人[ひと]、 確認[かくにん]したいから。",
+      "ExampleEN": "Because I want to confirm who's taking part.",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "3番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p2-hokani-nanika",
+      "Point": "ほかに 何[なに]かない?",
+      "Question": "「ほかに何かない?」＝『他に何かある?』ってこと?",
+      "Structure": "ほか（ 他[ほか]）＋ に ＋ 何[なに]か（something）＋ ない?（ 否定疑問[ひていぎもん]）",
+      "ExplainJP": "そのとおり。「ほかに」＝『他に・それ以外に』、「何か」＝『何か（あるもの）』。「〜ない?」と否定の形で聞くと、日本語では『〜あるよね?／〜ない?』とやわらかく確かめる言い方になる。全体で『ほかに何か（言うこと・用事は）ない?』＝“Anything else?”",
+      "ExplainEN": "Yes. ほかに = “besides that / other than that,” 何か = “something/anything,” and asking with the negative 〜ない? softens it (“there isn't anything else, is there? / anything else?”). Japanese often phrases such checks in the negative. So it means “(Is there) anything else?”",
+      "Examples": "ほかに 何[なに]かない? — うん、これで 全部[ぜんぶ]だよ。",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "3番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p2-naiyou",
+      "Word": " 内容[ないよう]",
+      "Reading": "ないよう",
+      "Meaning": "contents / content (what's inside; what something consists of)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "中に入っているもの・中身、話や計画の『中身・何をするか』。「内（中）＋容（入れる・中身）」。「歓迎会の内容」＝『歓迎会で何をするか』。",
+      "ExplainEN": "Contents / content — what's inside, or what a plan/talk consists of (the substance, “what we'll do”). 内 (inside) + 容 (to hold/contain). 歓迎会の内容 = “what the welcome party will consist of / what we'll do at it.”",
+      "ExampleJP": " 歓迎会[かんげいかい]で 何[なに]をするか、 内容[ないよう]を 決[き]めなくちゃいけないんだけど。",
+      "ExampleEN": "I have to decide the content — what we'll actually do at the welcome party.",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "3番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p2-nakucha-sentence",
+      "Sentence": " 内容[ないよう]を 決[き]めなくちゃいけないんだけど。",
+      "Translation": "I've got to decide the content (of it), though.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 内容[ないよう]を 決[き]め</td><td>“decide the content” (決める, stem)</td></tr><tr><td class=\"part\">なくちゃ</td><td>= なくては “if (I) don't…” (casual contraction なくちゃ ← なくては)</td></tr><tr><td class=\"part\">いけない</td><td>“it won't do” → together なくちゃいけない = “(I) have to / must”</td></tr><tr><td class=\"part\">んだけど</td><td>のだ (explanatory) + けど (but/softener) — “the thing is…, though”</td></tr></table>",
+      "ExplainJP": "「〜なくちゃいけない」は「〜なくてはいけない」のくだけた言い方で、『〜しなければならない（義務）』の意味。「なくちゃ←なくては」「なきゃ←なければ」と同じ縮約。文末の「んだけど」は『〜なんだよね、（だから…）』と事情を説明し、続きを言いたそうにする やわらかい終わり方。",
+      "ExplainEN": "〜なくちゃいけない is the casual form of 〜なくてはいけない = “must / have to” (なくちゃ ← なくては; compare なきゃ ← なければ). The final んだけど = explanatory のだ + softening けど: “the thing is I have to…, though,” trailing off as if leading into a request or further thought.",
+      "Source": "N3 Choukai · 3番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "3番"
+      ]
+    }
+  ]
+}

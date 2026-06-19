@@ -1,0 +1,106 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "sentence",
+      "id": "n3cs-p4-sensei-ninki",
+      "Sentence": " 先生[せんせい]は 以前[いぜん] 病院[びょういん]で 患者[かんじゃ]さんに 体操[たいそう]を 教[おし]えてたりして、 人気[にんき]があるんだ。",
+      "Translation": "The teacher used to do things like teach exercises to patients at a hospital and all, so she's popular.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 先生[せんせい]は</td><td>the teacher (topic)</td></tr><tr><td class=\"part\"> 以前[いぜん]</td><td>before, previously, in the past</td></tr><tr><td class=\"part\"> 病院[びょういん]で</td><td>at a hospital (で = place of action)</td></tr><tr><td class=\"part\"> 患者[かんじゃ]さんに</td><td>to patients (に = the people who receive the teaching)</td></tr><tr><td class=\"part\"> 体操[たいそう]を 教[おし]えてた</td><td>was teaching exercises (教えてた ← 教えていた, casual い-drop)</td></tr><tr><td class=\"part\">〜たりして</td><td>did things like ~ (and so on) — lists one example among others</td></tr><tr><td class=\"part\"> 人気[にんき]があるんだ</td><td>is popular (んだ = explanatory tone, “you see / that's why”)</td></tr></table>",
+      "ExplainJP": "「以前」＝昔・前に。「〜たりして」は「〜たりする」の形で、動作を一つの例として軽く挙げる言い方。ここでは「病院で体操を教えていた」を「そういういろいろなことをしてきた人だ」というニュアンスで示す。「教えてた」は「教えていた」の話し言葉（い抜き）。「人気があるんだ」の「んだ」は理由・説明を表し、『（だから）人気があるんだよ』という気持ち。",
+      "ExplainEN": "以前 = before / previously. The key pattern is 〜たりして: from 〜たりする, it casually cites one action as a representative example among others — “does things such as ~.” So it paints the teacher as someone who has done various things, e.g. taught exercises to patients at a hospital. 教えてた is casual for 教えていた (the い is dropped). The closing んだ gives an explanatory tone: “that's why she's popular.”",
+      "Source": "N3 Choukai · 1番",
+      "tags": ["N3", "choukai", "sentence", "1番"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p4-kanja",
+      "Word": " 患者[かんじゃ]",
+      "Reading": "かんじゃ",
+      "Meaning": "patient (in a hospital / under medical care)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "病気やけがで医者の治療を受ける人。「患（かん）」＝わずらう・病気になる、「者（じゃ）」＝人。「〜患者（がん患者など）」や「患者さん」のように使う。",
+      "ExplainEN": "A person receiving medical treatment — a patient. 患 = to suffer from illness + 者 = person. Often said politely as 患者さん when referring to patients.",
+      "ExampleJP": " 病院[びょういん]で 患者[かんじゃ]さんに 体操[たいそう]を 教[おし]えてた。",
+      "ExampleEN": "She used to teach exercises to patients at a hospital.",
+      "Source": "N3 Choukai · 1番",
+      "tags": ["N3", "choukai", "vocab", "1番"]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p4-yosasou",
+      "Point": "よさそう",
+      "Question": "意味と、なぜ「いさそう」じゃないの?",
+      "Structure": "い・よい → よさ + そう （様態の「そう」）",
+      "ExplainJP": "「そう（〜そうだ）」は見た目や状況から判断する『〜のように見える』という様態の表現。い形容詞は語幹＋そう（高い→高そう、おいしい→おいしそう）。ところが「いい／よい」だけは例外で、語幹に「さ」が入って「よさそう」になる（×いそう、×よさそう以外）。「ない」も同じく「なさそう」。だから「よさそう」＝『よさそうだ＝良さそうに見える・いい感じ』。",
+      "ExplainEN": "The 様態 (appearance) 〜そう means “looks/seems ~,” judged from how something appears. For い-adjectives you take the stem + そう (高い→高そう, おいしい→おいしそう). But いい/よい is irregular: it inserts さ and becomes よさそう (never いそう). ない behaves the same way → なさそう. So よさそう = “seems good / looks good.”",
+      "Examples": "それはよさそうだね。／ 元気[げんき]がなさそう。",
+      "Source": "N3 Choukai · 1番",
+      "tags": ["N3", "choukai", "grammar", "1番"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p4-te-ni-hairu",
+      "Word": " 手[て]に 入[はい]る",
+      "Reading": "てにはいる",
+      "Meaning": "to obtain, to get hold of (something comes into one's hands)",
+      "PartOfSpeech": "expression / intransitive verb",
+      "ExplainJP": "ほしい物が自分のものになる・入手できること。「手に入る」は自動詞で『（物が）手に入る＝得られる』。意志的に「（自分が）手に入れる」は他動詞の「手に入れる」。注文する（頼んで買う）という意味ではないが、結果として入手できることを表す。",
+      "ExplainEN": "To obtain / get something — literally “it comes into your hand.” 手に入る is intransitive: the thing is what is obtained (X が手に入る). The transitive partner is 手に入れる (you actively acquire X = X を手に入れる). It does NOT specifically mean “to order” — it just means the item can be gotten.",
+      "ExampleJP": "インターネットで 手[て]に 入[はい]るよ。",
+      "ExampleEN": "You can get it on the internet.",
+      "Source": "N3 Choukai · 1番",
+      "tags": ["N3", "choukai", "vocab", "1番"]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p4-internet-tanonde",
+      "Sentence": "インターネットで 手[て]に 入[はい]るから 頼[たの]んでみたら?",
+      "Translation": "You can get it on the internet, so why not try ordering it?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">インターネットで</td><td>on / via the internet (で = means)</td></tr><tr><td class=\"part\"> 手[て]に 入[はい]る</td><td>it can be obtained / you can get it</td></tr><tr><td class=\"part\">から</td><td>so, because (reason → leads into the suggestion)</td></tr><tr><td class=\"part\"> 頼[たの]んで</td><td>頼む = to order / request (て-form)</td></tr><tr><td class=\"part\">みたら?</td><td>〜てみたら? = “why don't you try ~?” (suggestion)</td></tr></table>",
+      "ExplainJP": "「〜から」は理由を述べて次の提案につなげる。「手に入るから」＝『（それは）手に入るんだから』。「頼んでみたら?」は「頼んでみたらどう?」の省略で、「〜てみる（試しに〜する）」＋「〜たら（条件・提案）」＝『試しに注文してみたら?』という軽い勧め。文末を上げて言う。",
+      "ExplainEN": "〜から states the reason and leads into a suggestion: “since you can get it online…”. 頼んでみたら? is a shortened 頼んでみたらどう? — built from 〜てみる (try doing) + 〜たら (the suggestion ‘if/how about’), so it gently proposes “(why not) try ordering it?” Said with rising intonation.",
+      "Source": "N3 Choukai · 1番",
+      "tags": ["N3", "choukai", "sentence", "1番"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p4-ochitsuku",
+      "Word": " 落[お]ち 着[つ]く",
+      "Reading": "おちつく",
+      "Meaning": "to settle down, to calm down, to become stable",
+      "PartOfSpeech": "intransitive verb (godan)",
+      "ExplainJP": "気持ち・状況・物事が安定して穏やかになること。「落ち着く」は『（自分が）落ち着く＝冷静になる』だけでなく、物事について『（仕事などが）落ち着く＝忙しさが収まって安定する』とも使う。「仕事が落ち着いたら」＝『仕事が一段落して忙しくなくなったら』。「落ち着いたら」は条件形（〜たら）。",
+      "ExplainEN": "To settle down / calm down / become stable. Beyond a person calming down, it's used for situations: 仕事が落ち着く = “work settles down / the busy rush eases.” So 仕事が落ち着いたら = “once work has calmed down (and you're less busy).” 落ち着いたら is the 〜たら conditional form.",
+      "ExampleJP": " 仕事[しごと]、 落[お]ち 着[つ]いたら 行[い]ってみて。",
+      "ExampleEN": "Once work settles down, try going.",
+      "Source": "N3 Choukai · 1番",
+      "tags": ["N3", "choukai", "vocab", "1番"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p4-amaru",
+      "Word": " 余[あま]る",
+      "Reading": "あまる",
+      "Meaning": "to be left over, to remain, to be in excess",
+      "PartOfSpeech": "intransitive verb (godan)",
+      "ExplainJP": "使い切れずに残ること。必要な分より多くて残る、というニュアンス。例:「お金が余る」「時間が余る」「材料が余る（使いきれない食材が残る）」。他動詞は「余す」。",
+      "ExplainEN": "To be left over / remain in excess — there's more than needed and some is left. e.g. お金が余る (money left over), 時間が余る (time to spare), 材料が余る (leftover ingredients). The transitive counterpart is 余す.",
+      "ExampleJP": " 材料[ざいりょう]が 余[あま]っちゃう?",
+      "ExampleEN": "Will the ingredients end up left over?",
+      "Source": "N3 Choukai · 例（問題2）",
+      "tags": ["N3", "choukai", "vocab", "例"]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p4-zairyou-amaru",
+      "Sentence": " 材料[ざいりょう]が 余[あま]っちゃう?",
+      "Translation": "Will the ingredients end up left over (and go to waste)?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 材料[ざいりょう]</td><td>ingredients / materials (for cooking here)</td></tr><tr><td class=\"part\">が</td><td>subject marker</td></tr><tr><td class=\"part\"> 余[あま]っちゃう</td><td>余って + しまう → 余っちゃう = ends up left over (with regret/waste nuance)</td></tr><tr><td class=\"part\">?</td><td>rising = a guess / “is that it?”</td></tr></table>",
+      "ExplainJP": "「材料」＝料理に使う食材・原料。「余っちゃう」は「余ってしまう」の話し言葉の短縮形（〜てしまう→〜ちゃう、〜でしまう→〜じゃう）。「〜てしまう」は『（残念ながら）そうなってしまう』という残念・不本意の気持ちを表す。つまり『（一人分だと）食材が余って無駄になっちゃうの?』と相手の事情を推測している。",
+      "ExplainEN": "材料 = ingredients/materials (cooking ingredients here). 余っちゃう is the casual contraction of 余ってしまう (〜てしまう → 〜ちゃう; 〜でしまう → 〜じゃう). 〜てしまう adds a nuance of an unwanted/regrettable outcome. So she's guessing his reason: “(cooking for one,) do the ingredients end up left over (and wasted)?”",
+      "Source": "N3 Choukai · 例（問題2）",
+      "tags": ["N3", "choukai", "sentence", "例"]
+    }
+  ]
+}

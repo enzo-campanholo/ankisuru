@@ -1,0 +1,436 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p9-bunbougu",
+      "Word": " 文房具[ぶんぼうぐ]",
+      "Reading": "ぶんぼうぐ",
+      "Meaning": "stationery; writing/office supplies (pens, notebooks, scissors, etc.)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "字を書いたり紙を切ったりするための道具のこと。ペン・ノート・はさみ・のりなど。「文」＝文字・文章、「房」＝部屋、「具」＝道具。",
+      "ExplainEN": "Stationery — the tools for writing and paper work: pens, notebooks, scissors, glue, etc. 文 (writing/text) + 房 (room) + 具 (tool/implement).",
+      "ExampleJP": "こちらのお 店[みせ]、 文房具[ぶんぼうぐ]など、よくある 普通[ふつう]のものが 売[う]られています。",
+      "ExampleEN": "At this shop, ordinary things like stationery are sold.",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "1番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p9-fudan",
+      "Word": " 普段[ふだん]",
+      "Reading": "ふだん",
+      "Meaning": "usually; normally; ordinarily; everyday (life)",
+      "PartOfSpeech": "noun / adverb",
+      "ExplainJP": "いつも・日常・特別ではない普通のとき。副詞のように「普段は〜」と使うことが多い。「普」＝普通、「段」＝ふだん・とき。",
+      "ExplainEN": "Usually / normally / on ordinary (non-special) days. Often used adverbially as 普段は〜 (\"normally...\"). 普 = ordinary + 段 (here: a span of time / state).",
+      "ExampleJP": " 普段[ふだん]はあまり 意識[いしき]しないかもしれませんが…",
+      "ExampleEN": "You may not normally be aware of it, but...",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "1番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p9-ishiki",
+      "Word": " 意識[いしき]",
+      "Reading": "いしき",
+      "Meaning": "consciousness; awareness; 意識する = to be conscious/aware of, to pay attention to",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "頭の中で気づいている・はっきり分かっている状態。「意識する」＝あることに気をつける、注意を向ける。反対は「無意識」。「意」＝心・気持ち、「識」＝知る・見分ける。",
+      "ExplainEN": "Consciousness / awareness — being mentally aware of something. 意識する = to be conscious of / pay attention to something (opposite: 無意識 \"unconscious\"). 意 = mind/intent + 識 = to know/discern.",
+      "ExampleJP": " 普段[ふだん]はあまり 意識[いしき]しないかもしれませんが…",
+      "ExampleEN": "You may not normally be (consciously) aware of it, but...",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "1番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p9-houchou",
+      "Word": " 包丁[ほうちょう]",
+      "Reading": "ほうちょう",
+      "Meaning": "kitchen knife",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "料理で食材を切るための刃物（ナイフ）。台所で使う。「ナイフ」全般ではなく、調理用のものを指す。",
+      "ExplainEN": "A kitchen knife — the blade used for cutting food when cooking. Refers specifically to the cooking knife, not knives in general.",
+      "ExampleJP": " 普通[ふつう]のはさみ、 包丁[ほうちょう]などは 右手[みぎて]で 使[つか]うように 作[つく]られています。",
+      "ExampleEN": "Ordinary scissors, kitchen knives, and so on are made to be used with the right hand.",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "1番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p9-denkiseihin",
+      "Word": " 電気製品[でんきせいひん]",
+      "Reading": "でんきせいひん",
+      "Meaning": "electrical appliance(s); electric/electronic products",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "電気で動く製品。テレビ・パソコン・冷蔵庫など。「電気」＋「製品（作られた品物）」。「製」＝つくる、「品」＝しなもの。",
+      "ExplainEN": "Electrical appliances / electric products — things that run on electricity (TVs, PCs, fridges...). 電気 (electricity) + 製品 (manufactured goods); 製 = to make + 品 = goods.",
+      "ExampleJP": "パソコンのキーボードなどの 電気製品[でんきせいひん]、ギターなどの 楽器[がっき]まであるんですよ。",
+      "ExampleEN": "There are even electrical products like PC keyboards, and instruments like guitars.",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "1番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p9-seiseki",
+      "Word": " 成績[せいせき]",
+      "Reading": "せいせき",
+      "Meaning": "results; (academic) grades; performance record; score",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "勉強・仕事・試合などの結果や出来ばえ。テストの点、スポーツの戦績など。「成」＝なしとげる、「績」＝仕事の成果。",
+      "ExplainEN": "Results / grades / performance — the outcome or record of study, work, or competition (test scores, win-loss record, etc.). 成 = to accomplish + 績 = achievement/work output.",
+      "ExampleJP": "けがで 思[おも]うような 成績[せいせき]が 出[だ]せず…",
+      "ExampleEN": "Unable to produce the results I'd hoped for because of injury...",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p9-shidousha",
+      "Word": " 指導者[しどうしゃ]",
+      "Reading": "しどうしゃ",
+      "Meaning": "instructor; coach; leader; one who guides/teaches",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "人を教え導く人。スポーツのコーチ、団体のリーダーなど。「指導（教え導くこと）」＋「者（〜する人）」。「指」＝指さして示す、「導」＝みちびく。",
+      "ExplainEN": "An instructor / coach / leader — one who teaches and guides others (a sports coach, a group's leader). 指導 (to guide/instruct) + 者 (person who...). 指 = to point/indicate + 導 = to lead.",
+      "ExampleJP": " 選手[せんしゅ]をやめて、 指導者[しどうしゃ]になることも 考[かんが]えました。",
+      "ExampleEN": "I even considered quitting as a player and becoming a coach.",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p9-ouen",
+      "Word": " 応援[おうえん]",
+      "Reading": "おうえん",
+      "Meaning": "support; cheering; rooting for; backing (someone up)",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "がんばる人を元気づけ、力を貸すこと。スポーツでの声援や、困っている人への助けにも使う。「応」＝こたえる、「援」＝たすける。",
+      "ExplainEN": "Support / cheering — encouraging and backing up someone who is trying hard (cheering at a game, or helping someone in need). 応 = to respond + 援 = to assist.",
+      "ExampleJP": " 休[やす]んでいる 間[あいだ]も 応援[おうえん]してくださった 方[かた]たちのために…",
+      "ExampleEN": "For the sake of the people who supported me even while I was on hiatus...",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "2番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p9-youni-tsukurareru",
+      "Point": "〜ように 作[つく]られている（〜ように + 動詞）",
+      "Question": "「右手で使うように作られています」の意味は?",
+      "Structure": " 動詞[どうし]の 辞書形[じしょけい] ／ ない 形[けい] ＋ ように ＋ 動詞[どうし]",
+      "ExplainJP": "「〜ように」は『その状態・目的になるように』という意味で、後ろの動詞の目的や基準を表す。「右手で使うように作る」＝『右手で使えること』を目的にして作る。ここでは受身「作られている」と合わさり『右手で使う前提で作られている』。",
+      "ExplainEN": "〜ように + verb means \"so that ~ / in such a way that ~\", marking the purpose or standard the following verb aims at. 右手で使うように作る = \"make it so that it's used with the right hand.\" Combined with the passive 作られている it means \"is made (designed) to be used with the right hand.\"",
+      "Examples": " 普通[ふつう]のはさみ、 包丁[ほうちょう]などは 右手[みぎて]で 使[つか]うように 作[つく]られています。<br>・ 子供[こども]でも 分[わ]かるように 説明[せつめい]する。（explain so even a child understands）<br>・ 忘[わす]れないようにメモする。（make a note so as not to forget）",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p9-kara-made",
+      "Point": "〜から〜まで（ 範囲[はんい]の 列挙[れっきょ]）",
+      "Question": "「日常使うものからキーボードなどの電気製品、ギターなどの楽器まで」の使い方は?",
+      "Structure": "（ 名詞[めいし]）から（ 名詞[めいし]）まで",
+      "ExplainJP": "「AからBまで」は普通『時間や場所の始めと終わり』だが、ここでは『こんなものから、あんなものまで（幅広く何でも）ある』という範囲の広さ・種類の多さを表す使い方。身近なものから意外なものまで並べて、品ぞろえの豊かさを強調している。",
+      "ExplainEN": "AからBまで normally marks a start and end point (time/place), but here it lists a *range* of items — \"everything from A all the way to B\" — to stress how wide and varied the selection is, pairing everyday things with surprising ones.",
+      "Examples": " 日常[にちじょう] 使[つか]うものからパソコンのキーボードなどの 電気製品[でんきせいひん]、ギターなどの 楽器[がっき]まであるんですよ。<br>・ 子供[こども]から 大人[おとな]まで 楽[たの]しめる。（enjoyable for everyone, kids to adults）",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p9-souda-hearsay",
+      "Point": "〜そうです（ 伝聞[でんぶん] hearsay）",
+      "Question": "「集まってくるそうです」の「そうです」は?",
+      "Structure": " 普通形[ふつうけい]（ 動詞[どうし]・い 形[けい]・な 形[けい]・ 名詞[めいし]だ）＋ そうだ／そうです",
+      "ExplainJP": "普通形に付く「そうだ」は『〜と聞いた・〜だそうだ』という伝聞（他の人やニュースから得た情報）を表す。様態の「〜そう（降りそうだ）」とは違い、必ず普通形に接続する点に注意。「集まってくるそうです」＝『集まってくるらしい・と聞いています』。",
+      "ExplainEN": "〜そうだ attached to the plain form means hearsay: \"I hear that ~ / they say that ~\" (info from someone else or a report). Note it attaches to the *plain form*, unlike the \"looks like\" 〜そう (e.g. 降りそう) which attaches to the verb stem / adjective root.",
+      "Examples": " 全国[ぜんこく]からお 客[きゃく]さんが 集[あつ]まってくるそうです。<br>・ 何回[なんかい]かあったそうです。（I hear it happened several times）",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "1番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p9-koto-ni-suru",
+      "Point": "〜ことにする（ 自分[じぶん]の 決定[けってい]）",
+      "Question": "「活動を休むことにした」の意味は?",
+      "Structure": " 動詞[どうし]の 辞書形[じしょけい]／ない 形[けい] ＋ ことにする",
+      "ExplainJP": "「〜ことにする」は『自分の意志で〜すると決める』こと。自然にそうなった「〜ことになる」と対になる。過去形「〜ことにした」は『（自分で）決めた』。ここは『活動を休むと自分で決めた』。",
+      "ExplainEN": "〜ことにする = \"decide (of one's own will) to do ~.\" Its pair 〜ことになる means it \"came to be\" (decided by circumstances/others). Past 〜ことにした = \"(I) decided to ~.\" Here: \"I decided to take a break from activity.\"",
+      "Examples": "テニス 選手[せんしゅ]としての 活動[かつどう]を 休[やす]むことにしたあと…<br>・ 毎朝[まいあさ] 走[はし]ることにした。（I've decided to run every morning）",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "2番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p9-daseru-zu",
+      "Point": " 出[だ]せず（ 出[だ]す → 可能[かのう] 出[だ]せる → 〜ず／〜ずに）",
+      "Question": "「成績が出せず」の「ず」は?",
+      "Structure": " 動詞[どうし]の ない 形[けい]（ 語幹[ごかん]）＋ ず（＝〜ないで／〜なくて、 書[か]き 言葉[ことば]）",
+      "ExplainJP": "「ず」は「ない」の古い・かたい言い方で、文をつなぐとき『〜ないで／〜なくて』の意味になる（する→せず は例外）。ここは可能形「出せる（出すことができる）」を否定した「出せない」を、かたく「出せず」と言ったもの。だから『思うような成績を出すことができなくて』。「〜ず」だけで文を続けられ、「〜ずに」とすると『〜しないで（〜する）』とより明確に続く。",
+      "ExplainEN": "ず is the old/literary equivalent of ない; when joining clauses it means \"without doing / and not doing\" (note the irregular する→せず). Here the potential 出せる (\"can produce\") is negated to 出せない, written formally as 出せず = \"unable to produce ~, and (so)...\". 〜ず alone links clauses; 〜ずに more explicitly means \"without doing ~\".",
+      "Examples": "けがで 思[おも]うような 成績[せいせき]が 出[だ]せず…<br>・ 何[なに]も 言[い]わずに 帰[かえ]った。（left without saying anything）<br>・ 諦[あきら]めず、 頑張[がんば]る。（don't give up, keep trying）",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "2番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p9-rarenai-potential",
+      "Point": "あきらめられない（ 可能[かのう]の 否定[ひてい]：〜られない）",
+      "Question": "「まだあきらめられない気持ち」の「られない」は?",
+      "Structure": " 一段[いちだん] 動詞[どうし]：あきらめる → あきらめられる（ 可能[かのう]）→ あきらめられない（ 不可能[ふかのう]）",
+      "ExplainJP": "「あきらめる」の可能形は「あきらめられる（諦めることができる）」。それを否定した「あきらめられない」＝『どうしても諦めることができない』。意志で諦めないのではなく、気持ちが諦めさせてくれない、というニュアンス。「まだ〜られない」で『今もなお〜できない』。",
+      "ExplainEN": "The potential of あきらめる is あきらめられる (\"can give up\"); negated, あきらめられない = \"(I) just can't give up.\" The nuance is not a willful refusal but that the feeling won't let one give up. まだ〜られない = \"still can't ~ (even now).\"",
+      "Examples": "まだあきらめられない 気持[きも]ちが 出[で]てきました。<br>・ あの 味[あじ]が 忘[わす]れられない。（I can't forget that taste）",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "2番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p9-tekudasatta",
+      "Point": "〜てくださった（ 尊敬[そんけい]：くれる→くださる）",
+      "Question": "「応援してくださった方たち」の「てくださった」は?",
+      "Structure": " 動詞[どうし]て ＋ くださる（くれるの 尊敬語[そんけいご]）→ 過去[かこ] くださった",
+      "ExplainJP": "「〜てくれる」は『相手が（自分のために）〜してくれる』。その尊敬語が「〜てくださる」で、目上の人やお客・ファンなどへの敬意を表す。過去「くださった」＝『〜してくれた（尊敬）』。「応援してくださった方たち」＝『応援してくれた（ありがたい）人たち』。",
+      "ExplainEN": "〜てくれる = \"(someone) does ~ for me.\" Its respectful form 〜てくださる shows deference toward superiors, customers, fans, etc.; past くださった = \"did ~ for me (humbly grateful).\" 応援してくださった方たち = \"the people who (kindly) supported me.\"",
+      "Examples": " 休[やす]んでいる 間[あいだ]も 応援[おうえん]してくださった 方[かた]たちのためにも…<br>・ 教[おし]えてくださってありがとうございます。（thank you for teaching me）",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "2番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-hidarikiki",
+      "Sentence": " 私[わたし]、 左利[ひだりき]きなんです。",
+      "Translation": "I'm left-handed, you see.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 私[わたし]、</td><td>topic, with a pause (the は is dropped in casual speech)</td></tr><tr><td class=\"part\"> 左利[ひだりき]き</td><td>left-handedness — 左 (left) + 利き (one's dominant hand, from 利く \"to function well\")</td></tr><tr><td class=\"part\">なんです</td><td>な + んです — explanatory \"it's that ~\" after a noun (な connects nouns/な-adj to のだ)</td></tr></table>",
+      "ExplainJP": "「利き」は「利く（よく働く）」から来ていて、よく使う方の手のこと。「右利き／左利き」。名詞＋「なんです（＝なのです）」は理由や事情を説明する言い方。突然の打ち明けに「んです」がよく合う。",
+      "ExplainEN": "利き comes from 利く (\"to work/function well\") and means one's dominant hand — 右利き (right-handed) / 左利き (left-handed). Noun + なんです (= なのです) explains a reason or circumstance; the explanatory んです fits this sudden \"let me tell you\" reveal.",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "1番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-mike-hashi",
+      "Sentence": "マイクを 持[も]つのも 左手[ひだりて]、はしを 持[も]つのも 左手[ひだりて]です。",
+      "Translation": "It's my left hand that holds the mic, and my left hand that holds the chopsticks, too.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">マイクを 持[も]つの</td><td>持つ + の = the act/case of holding the mic (の nominalises the verb)</td></tr><tr><td class=\"part\">も</td><td>\"also / too\" — and likewise the next item</td></tr><tr><td class=\"part\"> 左手[ひだりて]</td><td>(is) the left hand</td></tr><tr><td class=\"part\">はしを 持[も]つのも 左手[ひだりて]です</td><td>same pattern repeated: \"holding chopsticks is also (done with) the left hand\"</td></tr></table>",
+      "ExplainJP": "「動詞＋の」で動作を名詞にして、「〜のも〜」と二つ並べている。「Aするのも〜、Bするのも〜」で『AもBも同じく〜だ』と例を重ねて強調する言い方。",
+      "ExplainEN": "Verb + の turns the action into a noun, and 〜のも〜 lists two of them: \"doing A is also ~, doing B is also ~,\" stacking examples to emphasise that both are the same.",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "1番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-urarete-ninki",
+      "Sentence": "ちょっと 見[み]たところよくある 普通[ふつう]のものが 売[う]られていますが、 大変[たいへん] 人気[にんき]があって、 全国[ぜんこく]からお 客[きゃく]さんが 集[あつ]まってくるそうです。",
+      "Translation": "At a glance, fairly ordinary things are sold (here), but it's very popular and they say customers gather from all over the country.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">ちょっと 見[み]たところ</td><td>at first glance / on a quick look (見たところ = \"as far as one can see\")</td></tr><tr><td class=\"part\">よくある 普通[ふつう]のもの</td><td>commonplace, ordinary things (よくある = \"often exists / common\")</td></tr><tr><td class=\"part\"> 売[う]られています</td><td>passive of 売る → 売られる = \"are being sold\" (focus on the goods, not the seller)</td></tr><tr><td class=\"part\">が</td><td>\"but\" — contrast with what follows</td></tr><tr><td class=\"part\"> 大変[たいへん] 人気[にんき]があって</td><td>is extremely popular, and... (大変 = very)</td></tr><tr><td class=\"part\"> 集[あつ]まってくるそうです</td><td>集まってくる (gather and come) + そうです (hearsay: \"they say...\")</td></tr></table>",
+      "ExplainJP": "「売られている」は受身。商品を主語にして『（誰かによって）売られている』＝店に並んでいる状態を言う。文末の「そうです」は普通形に付く伝聞で『〜と聞いている・らしい』。「見たところ」は『見た感じでは』。",
+      "ExplainEN": "売られている is passive: making the goods the subject, \"are being sold\" — i.e. they're on display. Sentence-final そうです on a plain form is hearsay (\"they say / I hear\"). 見たところ = \"from the look of it.\"",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "1番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-subete-hidarikiki",
+      "Sentence": "すべての 商品[しょうひん]が 左利[ひだりき]きの 人[ひと]のためのものなんです。",
+      "Translation": "Every single product is something made for left-handed people.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">すべての 商品[しょうひん]</td><td>all (of the) products</td></tr><tr><td class=\"part\"> 左利[ひだりき]きの 人[ひと]のため</td><td>for the sake of left-handed people (〜のため = for the benefit of ~)</td></tr><tr><td class=\"part\">のもの</td><td>a thing (of/for that) — \"something for...\"</td></tr><tr><td class=\"part\">なんです</td><td>explanatory な + んです: \"the thing is, it's...\"</td></tr></table>",
+      "ExplainJP": "「〜のためのもの」＝『〜のために作られた／〜むけの品物』。「ため」が目的・対象を示し、「のもの」で名詞にしている。文末「なんです」で種明かし的に事情を説明している。",
+      "ExplainEN": "〜のためのもの = \"a thing (made) for the sake of ~ / aimed at ~.\" ため marks purpose/target, and のもの turns it into a noun. The final なんです explains the situation, like revealing the punchline.",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "1番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-fudan-ishiki-migite",
+      "Sentence": " 普段[ふだん]はあまり 意識[いしき]しないかもしれませんが、 普通[ふつう]のはさみ、 包丁[ほうちょう]などは 右手[みぎて]で 使[つか]うように 作[つく]られています。",
+      "Translation": "You might not normally be aware of it, but ordinary scissors, kitchen knives and the like are made to be used with the right hand.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 普段[ふだん]はあまり 意識[いしき]しない</td><td>normally (one) doesn't really notice/think about it (あまり〜ない = not much)</td></tr><tr><td class=\"part\">かもしれませんが</td><td>\"may (not) ~, but\" — soft guess + contrast</td></tr><tr><td class=\"part\"> 普通[ふつう]のはさみ、 包丁[ほうちょう]など</td><td>ordinary scissors, kitchen knives, etc.</td></tr><tr><td class=\"part\"> 右手[みぎて]で 使[つか]うように</td><td>so that they are used with the right hand</td></tr><tr><td class=\"part\"> 作[つく]られています</td><td>passive 作る → 作られる = \"are made/designed\"</td></tr></table>",
+      "ExplainJP": "ポイントは「〜ように作られている」。「〜ように」は後ろの動詞の目的・基準を表し、「作られている」は受身。あわせて『右手で使う前提で設計・製造されている』。「あまり〜ない＋かもしれません」で控えめな推測。",
+      "ExplainEN": "Key pattern: 〜ように作られている. 〜ように marks the purpose/standard of the following verb, and 作られている is passive — together \"are designed/made on the premise of being used with the right hand.\" あまり〜ない + かもしれません = a soft, hedged guess.",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "1番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-kara-made-shouhin",
+      "Sentence": " 日常[にちじょう] 使[つか]うものからパソコンのキーボードなどの 電気製品[でんきせいひん]、ギターなどの 楽器[がっき]まであるんですよ。",
+      "Translation": "There's everything from everyday items to electrical products like PC keyboards, and even instruments like guitars.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 日常[にちじょう] 使[つか]うもの</td><td>things (you) use in daily life (日常 = everyday)</td></tr><tr><td class=\"part\">から</td><td>\"from\" — start of the range</td></tr><tr><td class=\"part\"> 電気製品[でんきせいひん]</td><td>electrical products (e.g. PC keyboards)</td></tr><tr><td class=\"part\"> 楽器[がっき]まで</td><td>up to (even) instruments — まで marks the far end of the range</td></tr><tr><td class=\"part\">あるんですよ</td><td>ある + んです + よ — \"there are, you know\" (lively explanation)</td></tr></table>",
+      "ExplainJP": "「AからBまで」で『AからBに至るまで何でもある』と品ぞろえの幅の広さを強調。身近な「日常使うもの」から意外な「楽器」まで並べて驚きを伝えている。文末「んですよ」で親しみをこめて教えている。",
+      "ExplainEN": "AからBまで stresses the breadth of the selection — \"everything from A right up to B.\" It pairs the familiar (everyday items) with the surprising (musical instruments) to convey amazement. The final んですよ adds a friendly \"you know.\"",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "1番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-kega-yasumu",
+      "Sentence": "けがで 思[おも]うような 成績[せいせき]が 出[だ]せず、テニス 選手[せんしゅ]としての 活動[かつどう]を 休[やす]むことにしたあと、 選手[せんしゅ]をやめて、 指導者[しどうしゃ]になることも 考[かんが]えました。",
+      "Translation": "Because of injury I couldn't put up the results I wanted, and after deciding to take a break from my activity as a tennis player, I even thought about quitting as a player and becoming a coach.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">けがで</td><td>because of injury (で = cause/reason)</td></tr><tr><td class=\"part\"> 思[おも]うような 成績[せいせき]</td><td>the kind of results (I) hoped for (思うような = \"such as one thinks/wishes\")</td></tr><tr><td class=\"part\"> 出[だ]せず</td><td>出せる (can produce) negated, literary: \"unable to produce, and\"</td></tr><tr><td class=\"part\"> 活動[かつどう]を 休[やす]むことにした</td><td>decided to take a break from activity (〜ことにする = decide to)</td></tr><tr><td class=\"part\">あと</td><td>after (doing that)</td></tr><tr><td class=\"part\"> 選手[せんしゅ]をやめて</td><td>quit being a player, and</td></tr><tr><td class=\"part\"> 指導者[しどうしゃ]になることも 考[かんが]えました</td><td>also considered becoming a coach (ことも = even the option of...)</td></tr></table>",
+      "ExplainJP": "「けがで」の「で」は原因。「出せず」は可能「出せる」の否定を かたく言った形で『出せなくて』。「〜ことにした」は自分の決定。「指導者になることも」の「も」は『〜という選択肢さえ』と含みをもたせる。",
+      "ExplainEN": "で in けがで marks cause. 出せず is the literary negative of the potential 出せる = \"unable to produce, and (so).\" 〜ことにした expresses one's own decision. The も in 指導者になることも adds \"even the option of becoming a coach.\"",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "2番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-akiramerarenai",
+      "Sentence": " 目標[もくひょう]を 持[も]って 頑張[がんば]る 若[わか]い 選手[せんしゅ]たちの 試合[しあい]を 見[み]て、まだあきらめられない 気持[きも]ちが 出[で]てきました。",
+      "Translation": "Watching the matches of young players striving with a goal, a feeling of \"I still can't give up\" welled up in me.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 目標[もくひょう]を 持[も]って</td><td>holding a goal / with a goal in mind</td></tr><tr><td class=\"part\"> 頑張[がんば]る 若[わか]い 選手[せんしゅ]たち</td><td>young players who work hard</td></tr><tr><td class=\"part\">の 試合[しあい]を 見[み]て</td><td>watching their matches, and (then)...</td></tr><tr><td class=\"part\">まだあきらめられない</td><td>still can't give up (potential-negative of あきらめる)</td></tr><tr><td class=\"part\"> 気持[きも]ちが 出[で]てきました</td><td>a feeling came out / arose (出てくる = to emerge)</td></tr></table>",
+      "ExplainJP": "ポイントは「あきらめられない」＝可能「あきらめられる」の否定で『どうしても諦めることができない』。「まだ」で『今でもなお』。「気持ちが出てきました」は『自然とその気持ちが湧いてきた』というニュアンス。",
+      "ExplainEN": "Key point: あきらめられない is the negative of the potential あきらめられる = \"just can't give up.\" まだ = \"still / even now.\" 気持ちが出てきました conveys that the feeling naturally welled up on its own.",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "2番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-tachitai-sakidemo",
+      "Sentence": " 自分[じぶん]もその 場所[ばしょ]に 立[た]ちたいと 思[おも]い、 選手[せんしゅ]を 育[そだ]てるのはもう 少[すこ]し 先[さき]でもいいと 思[おも]ったんです。",
+      "Translation": "I felt that I too want to stand in that place, and thought that raising (training) players could wait a little longer.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 自分[じぶん]もその 場所[ばしょ]に 立[た]ちたい</td><td>I too want to stand in that place (the competition arena)</td></tr><tr><td class=\"part\">と 思[おも]い</td><td>thinking that ~, (and) — 思い is the continuative (て-form-like) of 思う</td></tr><tr><td class=\"part\"> 選手[せんしゅ]を 育[そだ]てるの</td><td>the (act of) training players (の nominalises)</td></tr><tr><td class=\"part\">はもう 少[すこ]し 先[さき]でもいい</td><td>can be a bit further off / can wait a little (先 = later, でもいい = it's fine even if)</td></tr><tr><td class=\"part\">と 思[おも]ったんです</td><td>(I) thought that ~ (explanatory んです)</td></tr></table>",
+      "ExplainJP": "「もう少し先でもいい」＝『もう少し後（将来）でも構わない』。「先」はここでは『これからの時間・将来』。指導者になるのは急がず、まず自分が選手として戻りたい、という気持ち。「思い」は『思って』の かたい つなぎ方。",
+      "ExplainEN": "もう少し先でもいい = \"it's fine even a bit later (in the future).\" 先 here means \"future / later time.\" The nuance: there's no rush to become a coach — first she wants to return as a player herself. 思い is the formal連用 (continuative) form joining clauses (= 思って).",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "2番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p9-ouen-kudasatta",
+      "Sentence": " 休[やす]んでいる 間[あいだ]も 応援[おうえん]してくださった 方[かた]たちのためにも、 新[あたら]しい 気持[きも]ちでやっていきたいと 思[おも]います。",
+      "Translation": "For the sake of the people who kept supporting me even while I was on hiatus, I want to carry on with a fresh attitude.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 休[やす]んでいる 間[あいだ]も</td><td>even during the time (I was) resting (間 = while; も = even)</td></tr><tr><td class=\"part\"> 応援[おうえん]してくださった 方[かた]たち</td><td>the people who supported me (くださった = respectful \"did for me\")</td></tr><tr><td class=\"part\">のためにも</td><td>for the sake of ~ too (ため = sake; にも = also for)</td></tr><tr><td class=\"part\"> 新[あたら]しい 気持[きも]ちで</td><td>with a fresh/new attitude (で = manner)</td></tr><tr><td class=\"part\">やっていきたいと 思[おも]います</td><td>やっていく (keep doing / carry on) + たい (want) + と思います (I think/intend)</td></tr></table>",
+      "ExplainJP": "ポイントは「〜てくださった」＝「〜てくれた」の尊敬語で、応援してくれた人への敬意と感謝を表す。「やっていきたい」は「やっていく（続けていく）」＋「たい（〜したい）」。「間も」の「も」は『休んでいる時でさえ』と強調。",
+      "ExplainEN": "Key point: 〜てくださった is the respectful form of 〜てくれた, showing deference and gratitude to those who supported her. やっていきたい = やっていく (keep on doing) + たい (want to). The も in 間も emphasises \"even while I was resting.\"",
+      "Source": "N3 Choukai · 9番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "2番"
+      ]
+    }
+  ]
+}

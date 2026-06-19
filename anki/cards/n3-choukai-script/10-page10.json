@@ -1,0 +1,282 @@
+{
+  "deck": "JLPT N3::N3 Choukai Script",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3cs-p10-hakubutsukan",
+      "Word": " 博物館[はくぶつかん]",
+      "Reading": "はくぶつかん",
+      "Meaning": "museum",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "歴史や科学などの資料を集めて展示する建物。「博」＝広く物事を知る、「物」＝もの、「館」＝建物。美術館（びじゅつかん）は絵などの芸術を展示する建物。",
+      "ExplainEN": "A museum — a building that collects and displays materials about history, science, etc. 博 = to know things widely + 物 = things + 館 = building. Compare 美術館 (びじゅつかん) = art museum.",
+      "ExampleJP": " 博物館[はくぶつかん]で 子供[こども]に 科学[かがく]を 教[おし]える。",
+      "ExampleEN": "Teaching children science at a museum.",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "10番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p10-senmonteki",
+      "Word": " 専門的[せんもんてき]",
+      "Reading": "せんもんてき",
+      "Meaning": "specialized; technical; expert",
+      "PartOfSpeech": "na-adjective",
+      "ExplainJP": "ある分野を深く究めた、専門家むけの様子。「専門」＝ある一つの分野だけを究めること、「 〜的」＝『〜のような／〜に関する性質』をつくる接尾語。だから「専門的な話」＝専門家むけの難しい話。",
+      "ExplainEN": "Specialized / technical / expert-level. 専門 = a single field one has mastered (one's specialty) + the suffix 〜的 which makes an adjective meaning \"-like / relating to ~\". So 専門的な話 = an expert, technical talk (the kind aimed at specialists).",
+      "ExampleJP": "つい 大人[おとな]に 説明[せつめい]するときのように 専門的[せんもんてき]な 話[はなし]をしていませんか。",
+      "ExampleEN": "Aren't you unintentionally giving a technical/specialized talk, the way you'd explain to an adult?",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "10番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p10-jissai",
+      "Word": " 実際[じっさい]",
+      "Reading": "じっさい",
+      "Meaning": "actuality; reality; (with に) actually, in practice",
+      "PartOfSpeech": "noun / adverb",
+      "ExplainJP": "頭の中や言葉ではなく、本当にそこにある様子・ことがら。「実」＝ほんとう、「際」＝ところ・とき。「実際に」＝『口で言うだけでなく、本当にやってみて』という意味の副詞。",
+      "ExplainEN": "Reality / the actual situation — as opposed to just words or ideas. 実 = real/true + 際 = occasion/point. As an adverb 実際に means \"actually / in practice / for real\" (not just in theory or words).",
+      "ExampleJP": " 言葉[ことば]で 詳[くわ]しく 説明[せつめい]するよりも 実際[じっさい]に 経験[けいけん]させることが 大切[たいせつ]なんです。",
+      "ExampleEN": "Rather than explaining in detail with words, it's important to actually let them experience it.",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "10番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p10-keiken",
+      "Word": " 経験[けいけん]",
+      "Reading": "けいけん",
+      "Meaning": "experience (to experience)",
+      "PartOfSpeech": "noun / suru-verb",
+      "ExplainJP": "自分で実際に見たり、やったり、感じたりすること、またその内容。「経験する」で動詞になる。「経」＝通り過ぎる・へる、「験」＝ためす。知識（あたまで知ること）に対して、経験は身をもって知ること。",
+      "ExplainEN": "Experience — having actually done, seen or felt something yourself (経験する = to experience). 経 = to pass through + 験 = to test/try. Contrast with 知識 (knowledge in the head): 経験 is knowing through doing.",
+      "ExampleJP": " 実際[じっさい]に 経験[けいけん]させることが 大切[たいせつ]なんです。",
+      "ExampleEN": "It's important to let them actually experience it.",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "10番"
+      ]
+    },
+    {
+      "type": "vocab",
+      "id": "n3cs-p10-kankaku",
+      "Word": " 感覚[かんかく]",
+      "Reading": "かんかく",
+      "Meaning": "sense; sensation; feel",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "目・耳・手などで感じとる働き、また感じ。「感」＝感じる、「覚」＝覚える・さとる。「持った感覚」＝『手に持ったときの感じ・重さの実感』。",
+      "ExplainEN": "A sense / sensation / feel — the faculty of perceiving with eyes, ears, hands, etc., or the feeling itself. 感 = to feel + 覚 = to perceive/be aware. 持った感覚 = \"the feel of holding it\" (e.g. the felt sense of its weight).",
+      "ExampleJP": " 持[も]った 感覚[かんかく]で 分[わ]かるようにするといいですよ。",
+      "ExampleEN": "It's good to make it understandable through the feel of holding it.",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "vocab",
+        "10番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p10-temoraitai",
+      "Point": "〜てもらいたい",
+      "Question": "意味と使い方は?",
+      "Structure": " 動詞[どうし]て + もらいたい （＝ 〜てもらう ＋ 〜たい）",
+      "ExplainJP": "「 〜てもらう」（だれかにある行為をしてもらう）に願望の「 〜たい」がついた形。『（だれかに）〜してほしい』という意味。「子供に科学を好きになってもらいたい」＝『子供に科学を好きになってほしい』。主語（親）の気持ち・願いを表す。",
+      "ExplainEN": "〜てもらう (have someone do something for you) + the desiderative 〜たい. It means \"(I) want someone to do ~\". 子供に科学を好きになってもらいたい = \"(parents) want their children to come to like science.\" It expresses the subject's wish about another person's action. Nearly the same as 〜てほしい.",
+      "Examples": " 子供[こども]に 科学[かがく]を 好[す]きになってもらいたいご 両親[りょうしん]、 多[おお]いと 思[おも]います。",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "10番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p10-temoraou-to",
+      "Point": "〜てもらおうと（して）",
+      "Question": "意味と使い方は?",
+      "Structure": " 動詞[どうし]て + もらおう（ 〜てもらう の 意向形[いこうけい]）＋ と（して）",
+      "ExplainJP": "「 〜てもらおう」は「 〜てもらう」の意向形（『〜してもらおう』）。これに「と（して）」がつくと『〜してもらおうとして／〜してもらうつもりで』と、目的・意図を表す。「正しく分かってもらおうと」＝『（子供に）正しく分かってもらおうとして』。後に『つい専門的な話をする』と続き、よい意図が裏目に出る流れ。",
+      "ExplainEN": "〜てもらおう is the volitional of 〜てもらう (\"let's have them do ~ / I'll get them to ~\"). Adding と(して) gives \"intending to have them ~ / trying to get them to ~\", expressing aim/intention. 正しく分かってもらおうと = \"trying to get (the child) to understand correctly\" — and then the speaker ironically slips into a too-technical explanation.",
+      "Examples": " 子供[こども]に 正[ただ]しく 分[わ]かってもらおうと、つい 大人[おとな]に 説明[せつめい]するときのように 専門的[せんもんてき]な 話[はなし]をしていませんか。",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "10番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p10-temo-shikatanai",
+      "Point": "〜てもしかたがない／〜てもしかたありません",
+      "Question": "意味と使い方は?",
+      "Structure": " 動詞[どうし]て + も + しかた（が）ない／しかたありません",
+      "ExplainJP": "「しかた（仕方）がない」＝『どうしようもない・むだだ・意味がない』。「 〜てもしかたがない」で『〜しても意味がない・〜しても始まらない』。「難しい話をしてもしかたありません」＝『難しい話をしても意味がない（むだだ）』。丁寧に言うと「しかたありません」。",
+      "ExplainEN": "しかた(が)ない = \"there's nothing to be done / it's pointless.\" 〜てもしかたがない = \"even if you do ~, it's no use / pointless.\" 難しい話をしてもしかたありません = \"there's no point in giving them a difficult explanation.\" The polite form is しかたありません.",
+      "Examples": " 子供[こども]には 難[むずか]しい 話[はなし]をしてもしかたありません。",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "10番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p10-yorimo",
+      "Point": "〜よりも〜ほうが（〜より〜）",
+      "Question": "意味と使い方は?",
+      "Structure": "Ａ より（も） Ｂ（の 方[ほう]が） ＝ Ａと 比[くら]べて Ｂのほうを 選[えら]ぶ・ 重[おも]んじる",
+      "ExplainJP": "「より」は比較の基準『〜とくらべて』を表す。「も」がつくと比較を少し強める。「言葉で詳しく説明するよりも実際に経験させることが大切」＝『言葉で説明するより、実際に経験させるほうが大切だ』。ここでは「ほうが」は省かれ、代わりに「〜ことが大切」が Ｂを選んでいる。",
+      "ExplainEN": "より marks the standard of comparison (\"compared to ~ / rather than ~\"); も slightly emphasizes it. AよりもB(のほうが) = \"rather than A, B (is better/more important).\" Here the 〜ほうが is dropped and 〜ことが大切 carries the \"choose B\" meaning: \"rather than explaining in words, letting them actually experience it is what matters.\"",
+      "Examples": " 言葉[ことば]で 詳[くわ]しく 説明[せつめい]するよりも 実際[じっさい]に 経験[けいけん]させることが 大切[たいせつ]なんです。",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "10番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p10-saseru-causative",
+      "Point": " 経験[けいけん]させる（使役[しえき]・〜させる）",
+      "Question": "経験する →経験させる は何の形?",
+      "Structure": "する → させる ／ 五段[ごだん]：〜あ + せる ／ 一段[いちだん]：〜 + させる",
+      "ExplainJP": "「させる」は使役（causative）の形で、『（だれかに）〜させる・〜することを許す／うながす』。「経験する」（する動詞）は「する→させる」で「経験させる」＝『（子供に）経験するようにさせる、経験の機会をあたえる』。親が子供にやらせる、という関係。",
+      "ExplainEN": "させる is the causative form: \"make/let someone do ~.\" 経験する (a する-verb) becomes 経験させる via する→させる = \"have/let (the child) experience it; give them the experience.\" The parent is the causer, the child is the one who does the experiencing.",
+      "Examples": " 実際[じっさい]に（ 子供[こども]に） 経験[けいけん]させることが 大切[たいせつ]なんです。",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "10番"
+      ]
+    },
+    {
+      "type": "grammar",
+      "id": "n3cs-p10-youni-suru",
+      "Point": "〜ようにする",
+      "Question": "意味と使い方は?",
+      "Structure": " 動詞[どうし]の 辞書形[じしょけい]／ない 形[けい] + ようにする",
+      "ExplainJP": "ある状態・結果になるように工夫する・努力する、という意味。「分かるようにする」＝『分かる状態になるように（工夫して）する』。「持った感覚で分かるようにするといい」＝『手に持った感じで分かるように工夫するとよい』。可能・自発の動詞（分かる）につくと『〜できる状態にする』 のニュアンス。",
+      "ExplainEN": "〜ようにする = \"make an effort / arrange things so that ~ happens (reaches a certain state).\" 分かるようにする = \"set it up so that they understand.\" 持った感覚で分かるようにするといい = \"it's good to arrange it so they understand it through the feel of holding it.\" With a potential verb like 分かる it means \"bring about the state where they can ~.\"",
+      "Examples": " 持[も]った 感覚[かんかく]で 分[わ]かるようにするといいですよ。",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "grammar",
+        "10番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p10-blk-konomi",
+      "Sentence": " 子供[こども]に 科学[かがく]を 好[す]きになってもらいたいご 両親[りょうしん]、 多[おお]いと 思[おも]います。",
+      "Translation": "I think there are many parents who want their children to come to like science.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 子供[こども]に</td><td>to/for the child (に marks who comes to like it)</td></tr><tr><td class=\"part\"> 科学[かがく]を 好[す]きになって</td><td>科学 = science; 好きになる = to come to like (好き + になる); て-form connecting to もらいたい</td></tr><tr><td class=\"part\">もらいたい</td><td>〜てもらう + 〜たい = (parents) want (the child) to ~</td></tr><tr><td class=\"part\">ご 両親[りょうしん]</td><td>(your/the) parents; ご is a polite prefix. This noun is modified by the whole clause before it</td></tr><tr><td class=\"part\"> 多[おお]いと 思[おも]います</td><td>I think are many</td></tr></table>",
+      "ExplainJP": "文の骨組みは「ご両親、多いと思います」＝『親が多いと思う』。その「ご両親」を前の「子供に科学を好きになってもらいたい」が修飾している（連体修飾）。つまり『子供に科学を好きになってほしいと思っている親は多い』。話の導入。",
+      "ExplainEN": "The backbone is \"ご両親、多いと思います\" = \"I think such parents are many.\" The clause before it (子供に科学を好きになってもらいたい) modifies ご両親 like a relative clause: \"parents who want their kids to come to like science.\" So: \"there are many parents who'd like their children to grow to love science.\" This opens the talk.",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "10番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p10-blk-tsui-senmonteki",
+      "Sentence": " 子供[こども]に 正[ただ]しく 分[わ]かってもらおうと、つい 大人[おとな]に 説明[せつめい]するときのように 数学的[すうがくてき]な 話[はなし]や 専門的[せんもんてき]な 話[はなし]をしていませんか。",
+      "Translation": "Trying to get your child to understand correctly, aren't you unintentionally giving a mathematical or technical talk, the way you'd explain to an adult?",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 子供[こども]に 正[ただ]しく 分[わ]かってもらおうと</td><td>intending to have the child understand correctly (〜てもらう volitional + と = aim)</td></tr><tr><td class=\"part\">つい</td><td>without meaning to; unintentionally</td></tr><tr><td class=\"part\"> 大人[おとな]に 説明[せつめい]するときのように</td><td>like when you explain to an adult (〜ときのように = the way you do when ~)</td></tr><tr><td class=\"part\"> 数学的[すうがくてき]な 話[はなし]や 専門的[せんもんてき]な 話[はなし]</td><td>mathematical talk and/or technical talk (や lists examples)</td></tr><tr><td class=\"part\">をしていませんか</td><td>aren't you doing ~? (gentle rhetorical question)</td></tr></table>",
+      "ExplainJP": "「 〜てもらおうと」＝『〜してもらおうとして』で目的を表す（よい意図）。「つい」は『うっかり・思わず』。「 〜ときのように」＝『〜するときと同じように』。「 〜ていませんか」は相手に『〜していませんか？（しているでしょう）』とやさしく問いかける形。全体で『子供に正しく分からせようとして、大人相手のような難しい話をついしていませんか』。",
+      "ExplainEN": "〜てもらおうと = \"trying to get (them) to ~\" (a well-meant intention). つい = \"without thinking, inadvertently.\" 〜ときのように = \"the same way as when you ~.\" 〜ていませんか gently puts it to the listener: \"aren't you (doing this)?\" Whole: \"In trying to make your child understand properly, aren't you accidentally talking in the mathematical, technical way you'd use with an adult?\"",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "10番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p10-blk-muzukashii-shikatanai",
+      "Sentence": " 子供[こども]には 難[むずか]しい 話[はなし]をしてもしかたありません。",
+      "Translation": "There's no point in giving children a difficult explanation.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 子供[こども]には</td><td>to children (は marks the topic/contrast: \"as for children\")</td></tr><tr><td class=\"part\"> 難[むずか]しい 話[はなし]をしても</td><td>even if you give a difficult talk (〜ても = even if)</td></tr><tr><td class=\"part\">しかたありません</td><td>it's no use / pointless (polite 仕方がない)</td></tr></table>",
+      "ExplainJP": "「 〜てもしかたありません」＝『〜しても意味がない・むだだ』。「子供には」の「は」は『子供に対しては（大人とちがって）』という対比・主題。前の文を受けて『だから子供に難しい説明をしてもむだですよ』とまとめている。",
+      "ExplainEN": "〜てもしかたありません = \"even if you do it, it's no use / pointless.\" The は in 子供には marks topic/contrast (\"for children, as opposed to adults\"). Following on from the previous sentence: \"so giving children a difficult explanation is pointless.\"",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "10番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p10-blk-keiken-saseru",
+      "Sentence": " 言葉[ことば]で 詳[くわ]しく 説明[せつめい]するよりも 実際[じっさい]に 経験[けいけん]させることが 大切[たいせつ]なんです。",
+      "Translation": "Rather than explaining in detail with words, it's important to actually let them experience it.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 言葉[ことば]で 詳[くわ]しく 説明[せつめい]するよりも</td><td>rather than explaining in detail with words (より(も) = rather than)</td></tr><tr><td class=\"part\"> 実際[じっさい]に</td><td>actually; for real (not just in words)</td></tr><tr><td class=\"part\"> 経験[けいけん]させる</td><td>let/have (them) experience it (causative of 経験する)</td></tr><tr><td class=\"part\">ことが 大切[たいせつ]</td><td>nominalizing こと + が 大切 = the thing that is important is ~</td></tr><tr><td class=\"part\">なんです</td><td>〜んです: explanatory/emphatic \"it is (that)~\"</td></tr></table>",
+      "ExplainJP": "「ＡよりもＢ（が大切）」＝『ＡよりＢのほうが大切だ』という比較。Ａ＝言葉で詳しく説明する、Ｂ＝実際に経験させる。「経験させる」は使役（親が子供に経験させる）。「なんです（←なのです）」は理由・説明の気持ちを加える。全体で『言葉で細かく説明するより、本当にやらせて経験させるほうが大事なんです』。",
+      "ExplainEN": "AよりもB(が大切) = \"rather than A, B is important.\" A = explaining in detail with words; B = actually letting them experience it. 経験させる is causative (parent has the child experience). なんです (← なのです) adds an explanatory, \"the point is~\" feel. Whole: \"Rather than wordy detailed explanation, what matters is actually letting them experience it.\"",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "10番"
+      ]
+    },
+    {
+      "type": "sentence",
+      "id": "n3cs-p10-blk-tsuki-omosa",
+      "Sentence": " 例[たと]えば、 月[つき]での 重[おも]さの 感[かん]じ 方[かた]を 教[おし]えるときだったら、 地球[ちきゅう]で1キログラムのものが 月[つき]ではどのくらいの 重[おも]さに 感[かん]じるか、 持[も]った 感覚[かんかく]で 分[わ]かるようにするといいですよ。",
+      "Translation": "For example, when teaching how weight feels on the Moon, it's good to make them understand, through the feel of holding it, how heavy something that's 1 kg on Earth feels on the Moon.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 例[たと]えば</td><td>for example</td></tr><tr><td class=\"part\"> 月[つき]での 重[おも]さの 感[かん]じ 方[かた]</td><td>the way weight feels on the Moon (感じ方 = 感じる + 方 = way of feeling)</td></tr><tr><td class=\"part\"> 教[おし]えるときだったら</td><td>if/when it's a time you're teaching ~ (〜ときだったら = if it's the case of when ~)</td></tr><tr><td class=\"part\"> 地球[ちきゅう]で1キログラムのもの</td><td>a thing that is 1 kg on Earth</td></tr><tr><td class=\"part\"> 月[つき]ではどのくらいの 重[おも]さに 感[かん]じるか</td><td>how heavy it feels on the Moon (embedded question 〜か)</td></tr><tr><td class=\"part\"> 持[も]った 感覚[かんかく]で</td><td>by the feel of holding it</td></tr><tr><td class=\"part\"> 分[わ]かるようにするといい</td><td>it's good to set it up so they understand (〜ようにする + 〜といい)</td></tr></table>",
+      "ExplainJP": "これが具体例。「感じ方」＝『感じるやり方・どう感じるか』（動詞の連用形＋方）。「 〜ときだったら」＝『〜するとき（なら）』の条件。「どのくらいの重さに感じるか」は埋めこまれた疑問（『どれくらいの重さに感じるのか』）で、後の「分かるようにする」の中身。「 〜ようにするといいですよ」＝『〜できるように工夫するとよいですよ』というアドバイス。つまり『口で言うのではなく、実際に手で持たせて重さを体で分からせなさい』ということ。",
+      "ExplainEN": "This is the concrete example. 感じ方 = \"way of feeling / how it feels\" (verb stem + 方). 〜ときだったら = \"if/when it's the case of ~ing.\" どのくらいの重さに感じるか is an embedded question (\"how heavy it feels\"), which is the content of 分かるようにする. 〜ようにするといいですよ = friendly advice: \"it's good to arrange so that ~.\" The message: don't just say it — let them physically hold the object and grasp the weight through the felt sensation.",
+      "Source": "N3 Choukai · 10番",
+      "tags": [
+        "N3",
+        "choukai",
+        "sentence",
+        "10番"
+      ]
+    }
+  ]
+}
