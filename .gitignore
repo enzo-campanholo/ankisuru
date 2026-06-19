@@ -1,0 +1,4 @@
+.venv/
+anki/dist/*.apkg
+__pycache__/
+*.pyc
