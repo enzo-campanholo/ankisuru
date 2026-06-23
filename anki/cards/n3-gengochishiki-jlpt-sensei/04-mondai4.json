@@ -1,0 +1,87 @@
+{
+  "deck": "JLPT N3::N3 Gengo Chishiki",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3gc-m4-tsuukin",
+      "Word": " 通勤[つうきん]する",
+      "Reading": "つうきん",
+      "Meaning": "to commute (to work)",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "家と勤め先（会社）の間を行き来すること。「通（つう）」＝通う、「勤（きん）」＝勤める・仕事。学校に通うのは「通学（つうがく）」。問題24では「仕事に行く」と同じ意味。",
+      "ExplainEN": "To travel between home and your workplace — to commute to work. 通 = to go to and fro + 勤 = work/duty. Commuting to school is 通学. In item 24 it means the same as “going to work.”",
+      "ExampleJP": "わたしは 妻[つま]と 一緒[いっしょ]に 通勤[つうきん]しています。",
+      "ExampleEN": "I commute to work together with my wife.",
+      "Source": "N3 言語知識 · 問題4 (24)",
+      "tags": ["N3", "goi", "vocab", "問題4"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m4-osoroshii",
+      "Word": " 恐[おそ]ろしい",
+      "Reading": "おそろしい",
+      "Meaning": "frightening; terrible; dreadful",
+      "PartOfSpeech": "い-adjective",
+      "ExplainJP": "とてもこわい、ぞっとするようす。「こわい」とほぼ同じだが、より大きく重い恐怖に使うことが多い。問題25では「こわい」と同じ意味。動詞「恐れる（おそれる）＝こわがる」と同じ漢字。",
+      "ExplainEN": "Very scary, dreadful — makes you shudder. Close to こわい but often for bigger, graver fear. In item 25 it means the same as こわい. Same kanji as the verb 恐れる (to fear).",
+      "ExampleJP": "とても 恐[おそ]ろしい 経験[けいけん]をした。",
+      "ExampleEN": "I had a truly terrifying experience.",
+      "Source": "N3 言語知識 · 問題4 (25)",
+      "tags": ["N3", "goi", "vocab", "問題4"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m4-keiken",
+      "Word": " 経験[けいけん]",
+      "Reading": "けいけん",
+      "Meaning": "experience",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "実際に自分が見たり・したりすること、またその中で身につけたもの。「経（けい）」＝へる・通る、「験（けん）」＝ためし。「経験する」「経験がある」のように使う。",
+      "ExplainEN": "Something you actually see or do yourself, and what you gain from it — experience. 経 = to pass through + 験 = trial. Used as 経験する, 経験がある.",
+      "ExampleJP": "外国[がいこく]で 働[はたら]いた 経験[けいけん]がある。",
+      "ExampleEN": "I have experience working abroad.",
+      "Source": "N3 言語知識 · 問題4 (25)",
+      "tags": ["N3", "goi", "vocab", "問題4"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m4-wake",
+      "Word": "わけ（ 訳[わけ]）",
+      "Reading": "わけ",
+      "Meaning": "reason; meaning; circumstances",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "物事がそうなった「理由（りゆう）」やいきさつ。問題26では「理由」と同じ意味。漢字では「訳」と書くが、ふだんはひらがなが多い。「どういうわけか」「わけがわからない」などでよく使う。",
+      "ExplainEN": "The reason or circumstances behind something. In item 26 it means the same as 理由 (reason). Written 訳 in kanji but usually in hiragana. Common in どういうわけか (for some reason), わけがわからない (it makes no sense).",
+      "ExampleJP": "先生[せんせい]に 遅[おく]れた わけを 話[はな]した。",
+      "ExampleEN": "I explained to the teacher the reason I was late.",
+      "Source": "N3 言語知識 · 問題4 (26)",
+      "tags": ["N3", "goi", "vocab", "問題4"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m4-heru",
+      "Word": " 減[へ]る",
+      "Reading": "へる",
+      "Meaning": "to decrease; to diminish; to go down (in amount)",
+      "PartOfSpeech": "verb (う-verb, intransitive)",
+      "ExplainJP": "数や量が前より少なくなること。問題27では「少なくなった」と同じ意味。他動詞は「減らす（へらす）＝少なくする」。反対は「増える（ふえる）」。「おなかが減る」＝空腹になる、でもよく使う。",
+      "ExplainEN": "To become fewer/less than before — to decrease. In item 27 it means the same as 少なくなった. Transitive pair: 減らす (to reduce). Opposite: 増える (to increase). Also common in おなかが減る (to get hungry).",
+      "ExampleJP": "最近[さいきん]、この 川[かわ]は 水[みず]が 減[へ]った 気[き]がする。",
+      "ExampleEN": "Lately I feel like the water in this river has decreased.",
+      "Source": "N3 言語知識 · 問題4 (27)",
+      "tags": ["N3", "goi", "vocab", "問題4"]
+    },
+    {
+      "type": "grammar",
+      "id": "n3gc-m4-ki-ga-suru",
+      "Point": "〜 気[き]がする",
+      "Question": "「〜気がする」ってどんな意味?",
+      "Structure": " 普通形[ふつうけい]＋ 気[き]がする",
+      "ExplainJP": "はっきりした理由はないが、「なんとなくそう感じる・そんな感じがする」という意味。「水が減った気がする」＝確かではないが、減ったように感じる。似た表現に「〜ような気がする」がある。「気（き）」＝心・感じ。",
+      "ExplainEN": "“I get the feeling that ~ / it seems to me that ~” — a vague impression without firm proof. 水が減った気がする = “I feel like the water has gone down” (not certain). A softer variant is 〜ような気がする. 気 = mind/feeling.",
+      "Examples": "どこかで 会[あ]った 気[き]がする。 ／ 雨[あめ]が 降[ふ]りそうな 気[き]がする。",
+      "Source": "N3 言語知識 · 問題4 (27)",
+      "tags": ["N3", "goi", "grammar", "問題4"]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "deck": "JLPT N3::N3 Gengo Chishiki",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3gc-m2-annai",
+      "Word": " 案内[あんない]する",
+      "Reading": "あんない",
+      "Meaning": "to guide; to show (someone) around; guidance, information",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "場所や道などを人に教えて連れて行くこと。「案（あん）」＝考え・はかりごと、「内（ない）」＝みちびき入れる。お店や駅の「ご案内」＝お知らせ・情報の意味でも使う。",
+      "ExplainEN": "To lead someone and show them the way or a place; also “guidance / information.” 案 = plan + 内 = to lead in. Also seen as ご案内 (information, announcements).",
+      "ExampleJP": "山口[やまぐち]さんに 東京[とうきょう]を 案内[あんない]してもらった。",
+      "ExampleEN": "Mr. Yamaguchi showed me around Tokyo.",
+      "Source": "N3 言語知識 · 問題2 (10)",
+      "tags": ["N3", "goi", "vocab", "問題2"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m2-kenkou",
+      "Word": " 健康[けんこう]",
+      "Reading": "けんこう",
+      "Meaning": "health; healthy",
+      "PartOfSpeech": "noun / な-adjective",
+      "ExplainJP": "体や心に病気がなく、元気な状態。「健（けん）」＝すこやか、「康（こう）」＝やすらか。「健康な体」「健康のために」のように使う。",
+      "ExplainEN": "The state of being well in body and mind — health(y). 健 = robust/healthy + 康 = at ease/well. Used like 健康な体 (a healthy body), 健康のために (for one's health).",
+      "ExampleJP": "わたしは 健康[けんこう]のために 毎日[まいにち] 走[はし]っています。",
+      "ExampleEN": "I run every day for my health.",
+      "Source": "N3 言語知識 · 問題2 (11)",
+      "tags": ["N3", "goi", "vocab", "問題2"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m2-dai",
+      "Word": " 大[だい]",
+      "Reading": "だい・たい・おお",
+      "Meaning": "big, large; the kanji “big”",
+      "PartOfSpeech": "kanji / prefix",
+      "ExplainJP": "「大きい」という意味の漢字。読み方が多いのが特徴：訓読み「おお（きい）」、音読み「だい」（大学＝だいがく）と「たい」（大量＝たいりょう、大変＝たいへん）。ことばによって読みが変わるので、語ごとに覚えるとよい。",
+      "ExplainEN": "The kanji meaning “big/large.” It has several readings: kun-reading おお (おおきい), and on-readings だい (大学 だいがく) and たい (大量 たいりょう, 大変 たいへん). The reading depends on the word, so learn it per word.",
+      "ExampleJP": "このシャツは 工場[こうじょう]で 大量[たいりょう]に 作[つく]られている。",
+      "ExampleEN": "These shirts are made in large quantities at the factory.",
+      "Source": "N3 言語知識 · 問題2 (14)",
+      "tags": ["N3", "goi", "vocab", "問題2", "kanji"]
+    }
+  ]
+}

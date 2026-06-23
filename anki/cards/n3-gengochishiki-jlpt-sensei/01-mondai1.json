@@ -1,0 +1,69 @@
+{
+  "deck": "JLPT N3::N3 Gengo Chishiki",
+  "cards": [
+    {
+      "type": "sentence",
+      "id": "n3gc-m1-tokei-okureru",
+      "Sentence": "あの 時計[とけい]は 遅[おく]れている。",
+      "Translation": "That clock is running slow.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\">あの</td><td>that (over there)</td></tr><tr><td class=\"part\"> 時計[とけい]</td><td>clock, watch</td></tr><tr><td class=\"part\"> 遅[おく]れている</td><td>is slow / is running behind (遅れる in the ている state)</td></tr></table>",
+      "ExplainJP": "「遅れる」は予定や本当の時間よりあとになること。時計に使うと、正しい時刻よりおくれた時間をさしている＝「進みがおそい」という意味になる。反対は「進んでいる」（fast）。この問題は読み方を問うていて、遅れて＝「おくれて」が正解。",
+      "ExplainEN": "遅れる (おくれる) = to be late / fall behind. Said of a clock it means the clock shows an earlier time than the real one — it's running slow. Opposite of 進んでいる (a clock running fast). The test item asks for the reading: 遅れて = おくれて.",
+      "Source": "N3 言語知識 · 問題1 (3)",
+      "tags": ["N3", "goi", "sentence", "問題1"]
+    },
+    {
+      "type": "sentence",
+      "id": "n3gc-m1-shougakukin-oubo",
+      "Sentence": "大学[だいがく]の 奨学金[しょうがくきん]に 応募[おうぼ]した。",
+      "Translation": "I applied for a university scholarship.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 大学[だいがく]の</td><td>university's</td></tr><tr><td class=\"part\"> 奨学金[しょうがくきん]</td><td>scholarship</td></tr><tr><td class=\"part\">に</td><td>to / for (target particle)</td></tr><tr><td class=\"part\"> 応募[おうぼ]した</td><td>applied (応募する, past)</td></tr></table>",
+      "ExplainJP": "「奨学金」は学生にお金を出して勉強を助ける制度（しょうがく＝学問をすすめる、きん＝お金）。「応募する」は募集（ぼしゅう）に対して「申し込む・エントリーする」こと。だから「奨学金に応募した」＝奨学金にエントリーした、という意味。",
+      "ExplainEN": "奨学金 (しょうがくきん) = scholarship (奨学 “encouraging study” + 金 “money”). 応募する = to apply for / respond to an open call (募集). So the sentence = “(I) applied for the university scholarship.”",
+      "Source": "N3 言語知識 · 問題1 (5)",
+      "tags": ["N3", "goi", "sentence", "問題1"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m1-shougakukin",
+      "Word": " 奨学金[しょうがくきん]",
+      "Reading": "しょうがくきん",
+      "Meaning": "scholarship; student grant",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "学生が勉強を続けられるように出されるお金。「奨学（しょうがく）」＝学問をすすめ助ける、「金（きん）」＝お金。返さなくてよいものと、あとで返すもの（貸与）がある。",
+      "ExplainEN": "Money given to support a student's studies. 奨学 = to encourage/aid study + 金 = money. Some are grants (no repayment), some are loans (貸与).",
+      "ExampleJP": "大学[だいがく]の 奨学金[しょうがくきん]に 応募[おうぼ]した。",
+      "ExampleEN": "I applied for a university scholarship.",
+      "Source": "N3 言語知識 · 問題1 (5)",
+      "tags": ["N3", "goi", "vocab", "問題1"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m1-oubo",
+      "Word": " 応募[おうぼ]する",
+      "Reading": "おうぼ",
+      "Meaning": "to apply (for); to sign up; to enter (a contest, recruitment)",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "「募集（ぼしゅう）」されているものに対して、自分から申し込むこと。「応（おう）」＝こたえる、「募（ぼ）」＝つのる・集める。仕事・コンテスト・奨学金などにエントリーするときに使う。",
+      "ExplainEN": "To respond to an open call (募集) by signing yourself up — to apply for / enter. 応 = to respond + 募 = to recruit/solicit. Used for jobs, contests, scholarships, etc.",
+      "ExampleJP": "アルバイトに 応募[おうぼ]するつもりです。",
+      "ExampleEN": "I'm planning to apply for the part-time job.",
+      "Source": "N3 言語知識 · 問題1 (5)",
+      "tags": ["N3", "goi", "vocab", "問題1"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m1-seiseki",
+      "Word": " 成績[せいせき]",
+      "Reading": "せいせき",
+      "Meaning": "grades; results; (academic/performance) record",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "試験や仕事などの結果・できぐあいを表すことば。「成（せい）」＝なしとげる、「績（せき）」＝つみ上げた働き。学校の点数だけでなく、スポーツや仕事の結果にも使う。",
+      "ExplainEN": "The result or level of performance on a test, in school, sports or work. 成 = to accomplish + 績 = accumulated achievement. Used for school grades and for results/performance generally.",
+      "ExampleJP": "試験[しけん]の 成績[せいせき]が 発表[はっぴょう]された。",
+      "ExampleEN": "The exam results were announced.",
+      "Source": "N3 言語知識 · 問題1 (7)",
+      "tags": ["N3", "goi", "vocab", "問題1"]
+    }
+  ]
+}

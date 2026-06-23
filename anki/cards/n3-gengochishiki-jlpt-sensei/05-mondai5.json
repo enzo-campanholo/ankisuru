@@ -1,0 +1,47 @@
+{
+  "deck": "JLPT N3::N3 Gengo Chishiki",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3gc-m5-shiji",
+      "Word": " 指示[しじ]する",
+      "Reading": "しじ",
+      "Meaning": "instruction(s); direction(s); to instruct",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "「こうしなさい」と人にやることを言いつけること。「指（し）」＝ゆびさす・さし示す、「示（じ）」＝しめす。立場が上の人が下の人に出すことが多い。問題30の正しい使い方は「秘書に指示した」。",
+      "ExplainEN": "Telling someone what to do — instructions/directions. 指 = to point + 示 = to show. Usually given from a higher to a lower person. The correct usage in item 30 is 秘書に指示した (instructed the secretary).",
+      "ExampleJP": "「この 書類[しょるい]をコピーして」と 秘書[ひしょ]に 指示[しじ]した。",
+      "ExampleEN": "I instructed the secretary, “Copy these documents.”",
+      "Source": "N3 言語知識 · 問題5 (30)",
+      "tags": ["N3", "goi", "vocab", "問題5"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m5-keshiki",
+      "Word": " 景色[けしき]",
+      "Reading": "けしき",
+      "Meaning": "scenery; view; landscape",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "山・海・町など、目に見える自然や場所のながめ。「景（け）」「色（しき）」と特別な読み方をする語（熟字訓に近い）なので、読み「けしき」をそのまま覚えるとよい。",
+      "ExplainEN": "The view of nature or a place — mountains, sea, town — scenery. It has an irregular reading (景＝け, 色＝しき), so just memorize けしき as a whole.",
+      "ExampleJP": "電車[でんしゃ]の 窓[まど]から 景色[けしき]を 見[み]るのが 好[す]きだ。",
+      "ExampleEN": "I like looking at the scenery from the train window.",
+      "Source": "N3 言語知識 · 問題5 (31)",
+      "tags": ["N3", "goi", "vocab", "問題5"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3gc-m5-dentou",
+      "Word": " 電灯[でんとう]",
+      "Reading": "でんとう",
+      "Meaning": "electric light; (electric) lamp",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "電気で光る明かり。「電（でん）」＝電気、「灯（とう）」＝あかり・ともしび。部屋や道を明るくする照明のこと。",
+      "ExplainEN": "A light that shines using electricity — an electric lamp/light. 電 = electricity + 灯 = lamp/light. The lighting that brightens a room or street.",
+      "ExampleJP": "道[みち]に 電灯[でんとう]がついて 明[あか]るくなった。",
+      "ExampleEN": "The street lamps came on and it got bright.",
+      "Source": "N3 言語知識 · 問題5 (32)",
+      "tags": ["N3", "goi", "vocab", "問題5"]
+    }
+  ]
+}
