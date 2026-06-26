@@ -1,0 +1,19 @@
+{
+  "deck": "JLPT N3::N3 Dokkai",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3dk-p2-kinenhin",
+      "Word": " 記念品[きねんひん]",
+      "Reading": "きねんひん",
+      "Meaning": "commemorative gift; memento; souvenir",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "あることを思い出に残すために贈る品物。三つの漢字でできている。「記（き）」＝書きしるす、「念（ねん）」＝思い・気持ち、「品（ひん）」＝品物。合わせて「記念（きねん）」＝思い出に残すこと＋「品」＝もの。本文では先生のお別れ会で贈るネクタイのこと。（メモでは 記・念・品 の順がばらばらに見えるが、正しくは「記念品」。）",
+      "ExplainEN": "A gift given to mark an occasion and keep it as a memory. Three kanji: 記 = to note/record + 念 = thought/feeling + 品 = article/goods. 記念 (commemoration) + 品 (item) = a commemorative gift. In the text it's the necktie given at the teacher's farewell party. (The annotation shows 記・念・品 out of order; the word is 記念品.)",
+      "ExampleJP": " 記念品[きねんひん]としてネクタイを 贈[おく]りたいと 思[おも]います。",
+      "ExampleEN": "We'd like to give a necktie as a commemorative gift.",
+      "Source": "N3 読解 · 問題4(2)",
+      "tags": ["N3", "dokkai", "vocab", "問題4"]
+    }
+  ]
+}

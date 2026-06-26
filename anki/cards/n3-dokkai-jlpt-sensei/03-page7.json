@@ -1,0 +1,33 @@
+{
+  "deck": "JLPT N3::N3 Dokkai",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3dk-p7-kezuru",
+      "Word": " 削[けず]る",
+      "Reading": "けずる",
+      "Meaning": "to shave off; to scrape away; to cut / reduce (an amount). Passive 削られる = to be cut/reduced",
+      "PartOfSpeech": "verb (う / godan); transitive",
+      "ExplainJP": "表面をけずって少なくすること。鉛筆をけずる、お金や予算をけずる（へらす）などに使う。本文「公園や空き地が少しずつ削られてきた」は受身（うけみ）の形「削られる」で、『（道路やビルのために）公園や空き地が少しずつへらされてきた』という意味。「〜てきた」は『これまでだんだんそうなってきた』という変化を表す。",
+      "ExplainEN": "To shave/scrape a surface down, and by extension to cut or reduce an amount (sharpen a pencil, cut a budget). The text 削られてきた is the passive 削られる: parks and vacant lots “have been (gradually) cut away / reduced.” The 〜てきた adds the nuance of a change building up to now.",
+      "ExampleJP": " 公園[こうえん]や 空[あ]き 地[ち]が 少[すこ]しずつ 削[けず]られてきた。",
+      "ExampleEN": "Parks and vacant lots have gradually been cut away.",
+      "Source": "N3 読解 · 問題5(2)",
+      "tags": ["N3", "dokkai", "vocab", "問題5"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p7-eikyou",
+      "Word": " 影響[えいきょう]",
+      "Reading": "えいきょう",
+      "Meaning": "influence; effect; impact",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "あるものが、別のものの様子や結果を変える働き。「影（えい）」＝かげ、「響（きょう）」＝ひびき＝かげやひびきのように、じわじわと他に及ぶこと。よく使う形は「Aに影響を与（あた）える」＝Aに影響をおよぼす、「Aの影響を受（う）ける」＝Aから影響される。「悪い影響」「大きな影響」のように形容詞をつける。",
+      "ExplainEN": "The way one thing changes the state or outcome of another. 影 = shadow + 響 = echo — like a shadow or echo that spreads to other things. Common patterns: Aに影響を与える = to have an effect on A, and Aの影響を受ける = to be affected by A. Modify it like 悪い影響 (bad influence), 大きな影響 (big impact).",
+      "ExampleJP": " 二[ふた]つの 点[てん]で 子[こ]どもたちに 重大[じゅうだい]な 影響[えいきょう]を 与[あた]えた。",
+      "ExampleEN": "It had a serious effect on children in two respects.",
+      "Source": "N3 読解 · 問題5(2)",
+      "tags": ["N3", "dokkai", "vocab", "問題5"]
+    }
+  ]
+}

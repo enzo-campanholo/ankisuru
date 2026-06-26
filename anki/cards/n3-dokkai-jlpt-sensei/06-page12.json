@@ -1,0 +1,33 @@
+{
+  "deck": "JLPT N3::N3 Dokkai",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3dk-p12-kashidashi",
+      "Word": " 貸出[かしだし]",
+      "Reading": "かしだし",
+      "Meaning": "lending out; rental; (library) checkout",
+      "PartOfSpeech": "noun (also 貸し出す / 貸し出し)",
+      "ExplainJP": "物をお客や利用者に貸して、外へ持ち出させること。動詞「貸（か）し 出（だ）す」の名詞形で、「貸出」「貸し出し」と書く。「貸（か）す」＝貸す＋「出（だ）す」＝外へ出す。図書館の本、道具、スキー用具などを貸すときに使う。反対の動き（借りる）は「借（か）りる」。本文「スキー用具の貸出は有料です」＝スキー道具を借りるのはお金がかかる。",
+      "ExplainEN": "Lending things out to customers/​users so they can take them away — the noun from the verb 貸し出す. 貸す (to lend) + 出す (to put out). Used for libraries lending books, or renting out tools, ski gear, etc. The reverse action (to borrow) is 借りる. In the text スキー用具の貸出は有料です = renting the ski equipment costs money.",
+      "ExampleJP": "スキー 用具[ようぐ]の 貸出[かしだし]は 有料[ゆうりょう]です。",
+      "ExampleEN": "Rental of ski equipment costs a fee.",
+      "Source": "N3 読解 · 問題7",
+      "tags": ["N3", "dokkai", "vocab", "問題7"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p12-oogata",
+      "Word": " 大型[おおがた]",
+      "Reading": "おおがた",
+      "Meaning": "large-size; large-scale; big (model/type)",
+      "PartOfSpeech": "noun (used like a na/​no-adjective)",
+      "ExplainJP": "型（かた＝サイズ・タイプ）が大きいこと。「大（おお）」＝大きい＋「型（がた）」＝型・サイズ。「大型バス」「大型台風」「大型店」のように名詞の前につく。反対は「小型（こがた）」。「型」は単独では「かた」、熟語で「がた」と濁ることが多い。",
+      "ExplainEN": "Large in size/​model. 大 = big + 型 = type/​size. It attaches before a noun: 大型バス (large bus), 大型台風 (large typhoon), 大型店 (big store). Opposite is 小型 (こがた). 型 is read かた alone but often voices to がた in compounds.",
+      "ExampleJP": " 大型[おおがた]バスでの 日帰[ひがえ]り 旅行[りょこう]です。",
+      "ExampleEN": "It's a day trip by large bus.",
+      "Source": "N3 読解 · 問題7",
+      "tags": ["N3", "dokkai", "vocab", "問題7"]
+    }
+  ]
+}

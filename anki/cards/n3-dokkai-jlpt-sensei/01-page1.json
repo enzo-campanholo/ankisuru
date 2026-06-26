@@ -1,0 +1,75 @@
+{
+  "deck": "JLPT N3::N3 Dokkai",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3dk-p1-koshou",
+      "Word": " 故障[こしょう]する",
+      "Reading": "こしょう",
+      "Meaning": "breakdown; malfunction; to break down (of a machine)",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "機械や体などが正しく動かなくなること。「故（こ）」＝事故・さしさわり、「障（しょう）」＝さまたげ・じゃま。人ではなく、機械（プリンター・車・エアコンなど）が動かなくなるときに使う。",
+      "ExplainEN": "When a machine (or part of the body) stops working properly. 故 = mishap/trouble + 障 = obstruction/hindrance. Used for machines — printers, cars, air conditioners — breaking down, not for people being ill.",
+      "ExampleJP": "昨日[きのう]プリンターが 故障[こしょう]したので、 川名電気[かわなでんき]に 修理[しゅうり]を 頼[たの]みました。",
+      "ExampleEN": "The printer broke down yesterday, so I asked Kawana Electric to repair it.",
+      "Source": "N3 読解 · 問題4(1)",
+      "tags": ["N3", "dokkai", "vocab", "問題4"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p1-kawana-denki",
+      "Word": " 川名電気[かわなでんき]",
+      "Reading": "かわなでんき",
+      "Meaning": "Kawana Electric (a made-up company/shop name)",
+      "PartOfSpeech": "proper noun",
+      "ExplainJP": "問題の文に出てくる会社の名前。「川名（かわな）」＝名字や地名のような固有名、「電気（でんき）」＝電気製品をあつかう店・会社を表す。つまり「川名電気」＝電気店・電気会社の名前で、ここではプリンターの修理を頼んだ相手。実在する有名な会社ではなく、テストの中の名前。",
+      "ExplainEN": "A company name appearing in the passage. 川名 is a proper name (like a surname/place) and 電気 marks it as an electronics/electrical shop or company. So 川名電気 = “Kawana Electric,” the shop they asked to fix the printer. It's a made-up name for the test, not a real famous company.",
+      "ExampleJP": "プリンターが 故障[こしょう]したので、 川名電気[かわなでんき]に 修理[しゅうり]を 頼[たの]みました。",
+      "ExampleEN": "The printer broke down, so we asked Kawana Electric to repair it.",
+      "Source": "N3 読解 · 問題4(1)",
+      "tags": ["N3", "dokkai", "vocab", "問題4"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p1-shuuri",
+      "Word": " 修理[しゅうり]する",
+      "Reading": "しゅうり",
+      "Meaning": "repair; to fix (something broken)",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "こわれた物を直して、また使えるようにすること。「修（しゅう）」＝なおす・ととのえる、「理（り）」＝ととのえる・すじみち。機械・建物・道具などが「故障」したあとに「修理」する、という流れで覚えるとよい。",
+      "ExplainEN": "To mend something broken so it works again. 修 = to mend/put in order + 理 = to arrange/set right. Pair it with 故障: a machine 故障する (breaks down) and then you 修理する (repair) it.",
+      "ExampleJP": "修理[しゅうり]の 人[ひと]は、10 時[じ]に 来[き]てくれるそうです。",
+      "ExampleEN": "The repair person is apparently coming at 10 o'clock.",
+      "Source": "N3 読解 · 問題4(1)",
+      "tags": ["N3", "dokkai", "vocab", "問題4"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p1-yogore",
+      "Word": " 汚[よご]れ",
+      "Reading": "よごれ",
+      "Meaning": "dirt; stain; smudge (and the verbs 汚れる / 汚す)",
+      "PartOfSpeech": "noun (from verb 汚れる)",
+      "ExplainJP": "「汚れ」は、よごれている部分・しみ・あせなどのこと。元になる動詞は二つある。自動詞「汚（よご）れる」＝（物が）よごれる、ひとりでに汚くなる。他動詞「汚（よご）す」＝（人が）何かをよごす。だから本文の「インクの汚れ」＝インクでよごれた部分（しみ）。同じ漢字でも、きたない・けがれの意味では「汚（きたな）い」とも読む。",
+      "ExplainEN": "汚れ is the noun “dirt / stain / smudge.” It comes from a verb pair: the intransitive 汚れる (よごれる) = (something) gets dirty on its own, and the transitive 汚す (よごす) = (someone) makes something dirty. So インクの汚れ = the ink stain/smudge. The same kanji is read 汚い (きたない) when it means “dirty/filthy” as an adjective.",
+      "ExampleJP": " 印刷[いんさつ]するときに 紙[かみ]にインクの 汚[よご]れがついてしまいます。",
+      "ExampleEN": "When you print, an ink smudge ends up getting on the paper.",
+      "Source": "N3 読解 · 問題4(1)",
+      "tags": ["N3", "dokkai", "vocab", "問題4"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p1-jissai",
+      "Word": " 実際[じっさい]",
+      "Reading": "じっさい",
+      "Meaning": "actually; in reality; the actual (thing); (as 実際に) in practice",
+      "PartOfSpeech": "noun / adverb (実際に)",
+      "ExplainJP": "頭の中の話ではなく、ほんとうにあること・ほんとうのようす。「実（じつ）」＝ほんとう、「際（さい）」＝とき・場面。「実際に〜」の形で「現実に・じっさいやってみると」という意味の副詞になる。本文では「実際に印刷した紙」＝（例ではなく）ほんとうに印刷した紙。",
+      "ExplainEN": "What is really the case, as opposed to in theory. 実 = real/truth + 際 = occasion. In the form 実際に〜 it works as an adverb meaning “actually / in practice.” In the text 実際に印刷した紙 = the paper that was actually printed (not a hypothetical one).",
+      "ExampleJP": " 実際[じっさい]に 印刷[いんさつ]した 紙[かみ]がプリンターのところに 置[お]いてあります。",
+      "ExampleEN": "The paper that was actually printed is sitting by the printer.",
+      "Source": "N3 読解 · 問題4(1)",
+      "tags": ["N3", "dokkai", "vocab", "問題4"]
+    }
+  ]
+}

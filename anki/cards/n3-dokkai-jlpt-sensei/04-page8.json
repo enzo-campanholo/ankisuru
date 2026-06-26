@@ -1,0 +1,30 @@
+{
+  "deck": "JLPT N3::N3 Dokkai",
+  "cards": [
+    {
+      "type": "sentence",
+      "id": "n3dk-p8-eikyou-hatten",
+      "Sentence": " 子[こ]どもに 悪[わる]い 影響[えいきょう]を 与[あた]えてしまうことはあるが、 町[まち]は 発展[はってん]したほうがいい。",
+      "Translation": "It's true that it can end up having a bad effect on children, but it's better for the town to develop.",
+      "Breakdown": "<table class=\"breakdown\"><tr><td class=\"part\"> 子[こ]どもに</td><td>on/​to children (に marks who receives the effect)</td></tr><tr><td class=\"part\"> 悪[わる]い 影響[えいきょう]を</td><td>a bad influence/​effect (the noun after 悪い is 影響)</td></tr><tr><td class=\"part\"> 与[あた]えてしまう</td><td>ends up giving — 与える (to give/​have an effect) + 〜てしまう (ends up / regrettably)</td></tr><tr><td class=\"part\">ことはある</td><td>there are times when… / it does happen that…</td></tr><tr><td class=\"part\">が</td><td>but (concession — admits the point, then pushes back)</td></tr><tr><td class=\"part\"> 町[まち]は 発展[はってん]した</td><td>the town developed/​grew (the verb after 町は is 発展する)</td></tr><tr><td class=\"part\">ほうがいい</td><td>it's better to… / had better</td></tr></table>",
+      "ExplainJP": "形は「Aことはあるが、Bほうがいい」＝『Aということはあるけれど、それでもBのほうがよい』という譲歩（じょうほ）の文。質問33の選択肢4で、筆者の一番言いたいこと（町の発展は子どもに悪い影響を与えることもあるが、それでも町は発展したほうがいい）に当たる。「与えてしまう」の〜てしまうは『よくないことが起きてしまう』という残念な気持ち。",
+      "ExplainEN": "The frame is “A ことはあるが、B ほうがいい” = “there are cases of A, but even so B is better” — a concession. This is choice 4 of question 33, the writer's main point: development can have a bad effect on children, but the town is still better off developing. 〜てしまう on 与えて adds the “unfortunately it happens” nuance.",
+      "Source": "N3 読解 · 問題5(2) 問33",
+      "tags": ["N3", "dokkai", "sentence", "問題5"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p8-hatten",
+      "Word": " 発展[はってん]する",
+      "Reading": "はってん",
+      "Meaning": "to develop; to grow; to expand (a town, economy, etc.)",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "勢いがのびて、より大きく・さかんになること。「発（はつ）」＝開く・出る、「展（てん）」＝広がる。町・経済・産業・技術などが大きく成長するときに使う。似た語「発達（はったつ）」は能力や体・技術が育つこと、「発展」は規模が広がること、と覚えるとよい。",
+      "ExplainEN": "To grow and become bigger or more flourishing. 発 = to open/​set out + 展 = to spread out. Used for towns, economies, industries, technology expanding. Compare 発達 (はったつ), which is more about a skill/​body/​technology maturing, vs 発展, about scale spreading.",
+      "ExampleJP": "これからも 日本[にほん]の 町[まち]は 発展[はってん]していくだろう。",
+      "ExampleEN": "Japan's towns will probably keep developing from here on too.",
+      "Source": "N3 読解 · 問題5(2)",
+      "tags": ["N3", "dokkai", "vocab", "問題5"]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "deck": "JLPT N3::N3 Dokkai",
+  "cards": [
+    {
+      "type": "vocab",
+      "id": "n3dk-p9-joutai",
+      "Word": " 状態[じょうたい]",
+      "Reading": "じょうたい",
+      "Meaning": "state; condition; situation (how something is at a given time)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "あるもののそのときのようす・ありさま。「状（じょう）」＝ようす、「態（たい）」＝すがた・かたち。「健康な状態」「いい状態」のように使う。本文「この状態を変えようと」＝（農業をする人が減ったという）今のようすを変えようとして。",
+      "ExplainEN": "How something is at a particular time — its state or condition. 状 = appearance/​circumstances + 態 = form/​shape. Used like 健康な状態 (a healthy condition), いい状態 (good condition). In the text この状態を変えようと = trying to change this (current) situation.",
+      "ExampleJP": "この 状態[じょうたい]を 変[か]えようと、いろいろな 農業[のうぎょう]のやり 方[かた]が 考[かんが]えられている。",
+      "ExampleEN": "In an effort to change this situation, various ways of farming are being considered.",
+      "Source": "N3 読解 · 問題6",
+      "tags": ["N3", "dokkai", "vocab", "問題6"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p9-kufuu",
+      "Word": " 工夫[くふう]",
+      "Reading": "くふう",
+      "Meaning": "ingenuity; a clever device/scheme; figuring out a good way",
+      "PartOfSpeech": "noun / する-verb",
+      "ExplainJP": "うまくいくように、あれこれ考えて良い方法を見つけ出すこと、またその方法。「工（く）」＝たくみ・作る、「夫」はここでは「ふう」と読む（「夫（おっと）」とは別の使い方）。「工夫する」＝あれこれ考えて工夫を凝（こ）らす。本文では会社が若者の働きやすい環境を作るための「いくつかの工夫」。",
+      "ExplainEN": "Thinking things through to find a clever, better way — or the clever method itself. 工 = craft/​devising; here 夫 is read ふう (a special reading, unrelated to 夫 = husband). 工夫する = to come up with a clever solution. In the text it's the company's “several clever measures” for making work easier for young people.",
+      "ExampleJP": "いくつかの 工夫[くふう]によって、 若者[わかもの]も 働[はたら]きやすい 環境[かんきょう]を 作[つく]っている。",
+      "ExampleEN": "Through several clever measures, they create an environment where young people, too, can work easily.",
+      "Source": "N3 読解 · 問題6",
+      "tags": ["N3", "dokkai", "vocab", "問題6"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p9-kankyou",
+      "Word": " 環境[かんきょう]",
+      "Reading": "かんきょう",
+      "Meaning": "environment; surroundings; setting (one is in)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "人やものを取り囲んでいる、まわりのようす・条件。「環（かん）」＝輪・まわりをめぐる、「境（きょう）」＝さかい・場所。自然の「自然環境」だけでなく、「働きやすい環境」「育った環境」のように、人がおかれている状況にも使う。",
+      "ExplainEN": "The surroundings or conditions that encircle a person or thing. 環 = ring/​to surround + 境 = boundary/​place. Beyond the natural environment (自然環境), it's used for the conditions someone is in: 働きやすい環境 (an easy-to-work-in environment), 育った環境 (the environment one grew up in).",
+      "ExampleJP": "「あおぞら」では 若者[わかもの]も 働[はたら]きやすい 環境[かんきょう]を 作[つく]っている。",
+      "ExampleEN": "At “Aozora,” they create an environment where young people, too, can work easily.",
+      "Source": "N3 読解 · 問題6",
+      "tags": ["N3", "dokkai", "vocab", "問題6"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p9-shuunyuu",
+      "Word": " 収入[しゅうにゅう]",
+      "Reading": "しゅうにゅう",
+      "Meaning": "income; earnings; revenue (money that comes in)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "入ってくるお金。「収（しゅう）」＝おさめる・取り入れる、「入（にゅう）」＝入る。反対は「支出（ししゅつ）」＝出ていくお金。仕事で得るお金全体をさし、「給料」より広い言い方。本文「収入が多い時と少ない時」＝入ってくるお金が多い時期と少ない時期。",
+      "ExplainEN": "Money that comes in. 収 = to take in/​collect + 入 = to enter. Its opposite is 支出 (ししゅつ, money going out). It refers to total money earned and is broader than 給料 (salary). In the text 収入が多い時と少ない時 = times when income is high and times when it's low.",
+      "ExampleJP": " 農業[のうぎょう]は 自然[しぜん]が 相手[あいて]なので、 収入[しゅうにゅう]が 多[おお]い 時[とき]と 少[すく]ない 時[とき]が 出[で]てしまう。",
+      "ExampleEN": "Because farming deals with nature, there end up being times of high income and times of low income.",
+      "Source": "N3 読解 · 問題6",
+      "tags": ["N3", "dokkai", "vocab", "問題6"]
+    },
+    {
+      "type": "vocab",
+      "id": "n3dk-p9-kyuuryou",
+      "Word": " 給料[きゅうりょう]",
+      "Reading": "きゅうりょう",
+      "Meaning": "salary; wages; pay (received for work)",
+      "PartOfSpeech": "noun",
+      "ExplainJP": "働いたことに対してもらうお金。「給（きゅう）」＝あたえる、「料（りょう）」＝代金・料金。会社などが社員にはらうお金で、ふつう毎月もらう。「収入」は入ってくるお金全体、「給料」はそのうち仕事の対価としてもらう分、という関係。",
+      "ExplainEN": "Money received for working. 給 = to give/​provide + 料 = charge/​fee. It's what an employer pays staff, usually monthly. Relation to 収入: 収入 is all money coming in, while 給料 is specifically the pay you get for your job.",
+      "ExampleJP": " 一年中[いちねんじゅう]いろいろな 野菜[やさい]を 作[つく]ることで、 毎月[まいつき] 同[おな]じ 給料[きゅうりょう]が 払[はら]えるようにする。",
+      "ExampleEN": "By growing various vegetables year-round, they make it possible to pay the same wage every month.",
+      "Source": "N3 読解 · 問題6",
+      "tags": ["N3", "dokkai", "vocab", "問題6"]
+    }
+  ]
+}
