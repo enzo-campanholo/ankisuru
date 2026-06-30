@@ -28,20 +28,6 @@
       "ExampleEN": "I run every day for my health.",
       "Source": "N3 言語知識 · 問題2 (11)",
       "tags": ["N3", "goi", "vocab", "問題2"]
-    },
-    {
-      "type": "vocab",
-      "id": "n3gc-m2-dai",
-      "Word": " 大[だい]",
-      "Reading": "だい・たい・おお",
-      "Meaning": "big, large; the kanji “big”",
-      "PartOfSpeech": "kanji / prefix",
-      "ExplainJP": "「大きい」という意味の漢字。読み方が多いのが特徴：訓読み「おお（きい）」、音読み「だい」（大学＝だいがく）と「たい」（大量＝たいりょう、大変＝たいへん）。ことばによって読みが変わるので、語ごとに覚えるとよい。",
-      "ExplainEN": "The kanji meaning “big/large.” It has several readings: kun-reading おお (おおきい), and on-readings だい (大学 だいがく) and たい (大量 たいりょう, 大変 たいへん). The reading depends on the word, so learn it per word.",
-      "ExampleJP": "このシャツは 工場[こうじょう]で 大量[たいりょう]に 作[つく]られている。",
-      "ExampleEN": "These shirts are made in large quantities at the factory.",
-      "Source": "N3 言語知識 · 問題2 (14)",
-      "tags": ["N3", "goi", "vocab", "問題2", "kanji"]
     }
   ]
 }
