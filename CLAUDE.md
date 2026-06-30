@@ -72,6 +72,12 @@ jlpt/
    `build.py` always rebuilds the single `JLPT_N3.apkg` from every card file, so
    one import carries every source's decks; re-imports update, never duplicate.
 4. Tell the user it's in their Downloads and to double-click `JLPT_N3.apkg`.
+5. **Commit & push.** After every significant change or completed pass (a batch
+   of new cards, a round of fixes, a CLAUDE.md edit, etc.), `git add` the work,
+   commit it with a clear message, and `git push`. The card JSON is the only
+   record of the deck's progress, so don't leave finished work uncommitted. The
+   generated `.apkg`/`dist/` and `.venv/` stay out of git. Commit the source
+   change and the build together so the repo always matches what was delivered.
 
 If `genanki` is ever missing, recreate the venv:
 `python3 -m venv .venv && .venv/bin/python -m ensurepip --upgrade && .venv/bin/python -m pip install genanki`
@@ -137,6 +143,28 @@ that teaches the point best.
   parenthetical like `事務（じむ）`, not bracket notation.
 - **Vocab gets two cards:** Recognition (JP→meaning) and Production
   (meaning→JP). Both come free from the `vocab` note type.
+- **NEVER leak the answer onto the front.** This is the most common bug. Know
+  what each card's *front* shows and keep the thing being tested out of it:
+  - **Vocab Production (meaning→JP)** front = `Meaning` + `PartOfSpeech`; the
+    answer is the Japanese `Word`. So `Meaning` and `PartOfSpeech` must contain
+    **no Japanese** that gives the word away — not the word itself, not one of
+    its kanji, not its dictionary/related form (e.g. for `泊まり` don't write
+    "連用形 of 泊まる"; for `汚れ` don't write "from 汚れる / 汚す"; for `意識`
+    don't write "意識する = …"; for `ぺこぺこ` don't write "(おなかがぺこぺこ)").
+    Keep these fields English-only — `Meaning` is a plain English gloss and
+    `PartOfSpeech` is a plain English/grammatical label (`noun`, `する-verb`,
+    `い-adjective`, `mimetic adverb`…). Grammar-class kana like the `する` in
+    "する-verb" is fine; the *target word's* characters are not.
+  - **Vocab Recognition (JP→meaning)** front = `Word` + `PartOfSpeech`; the
+    answer is the English `Meaning`, so don't put the English meaning in
+    `PartOfSpeech`.
+  - All the derivation/nuance you'd want to put in `Meaning`/`PartOfSpeech`
+    belongs on the **back** instead — `ExplainJP` / `ExplainEN`, which only
+    render after the answer. That's where "泊まる の名詞形", "汚れる / 汚す", etc.
+    go.
+  - `grammar` (`Point` shown on front) and `sentence` (`Sentence` shown on
+    front) are *meant* to show the prompt; just keep the back-only explanation
+    out of `Question`/the fixed prompt.
 - **Explanations must be genuinely good.** Don't just translate — explain the
   *why*: break compounds into their kanji, show the dictionary form behind a
   conjugation, name the grammar pattern, note casual contractions
